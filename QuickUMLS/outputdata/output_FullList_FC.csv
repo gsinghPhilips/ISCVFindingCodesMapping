@@ -1,0 +1,950 @@
+LanguageIdk,CodingScheme,FindingCode,Finding group code,Finding group CUI,Finding group preferred label,Finding group SnomedID,Finding code description,Finding code CUI,Finding code preferred label,Finding code snomed ID,Severity code CUI,Severity code preferred label,Severity code snomed ID
+1,AgilentB00      ,AO-0001         ,AO,C0003483,aorta,15825003,Normal size aorta,C0003483,aorta,15825003,C0232357,Normal,45332005
+1,AgilentB00      ,AO-0002         ,AO,C0003484,aorta,15825004,Large aorta,C0003483,aorta,15825003,C0549177,Large,255509001
+1,AgilentB00      ,AO-0003         ,AO,C0003485,aorta,15825005,Small aorta,C0003483,aorta,15825003,C0700321,Small,255507004
+1,AgilentB00      ,AO-0004         ,AO,C0003486,aorta,15825006,Diminutive aorta,C0003483,aorta,15825003,C0205288,Microscopic,84496004
+1,AgilentB00      ,AO-0005         ,AO,C0003487,aorta,15825007,Small transverse arch,No match,No match,No match,C0700321,Small,255507004
+1,AgilentB00      ,AO-0006         ,AO,C0003488,aorta,15825008,Small distal arch,No match,No match,No match,C0700321,Small,255507004
+1,AgilentB00      ,AO-0007         ,AO,C0003489,aorta,15825009,Small aortic isthmus,C4694112,Small aortic isthmus,No match,C0700321,Small,255507004
+1,AgilentB00      ,AO-0008         ,AO,C0003490,aorta,15825010,No evidence of coarctation of the aorta,C0003492,coarctation of aorta,7305005,C0332125,No evidence of,41647002
+1,AgilentB00      ,AO-0009         ,AO,C0003491,aorta,15825011,"Coarctation of the aorta, unspecified",C0003492,Coarctation of aorta,7305005,C0205370,Unspecified,10003008
+1,AgilentB00      ,AO-0010         ,AO,C0003492,aorta,15825012,"Coarctation of the aorta, preductal",C0003492,Coarctation of aorta,7305005,No match,No match,No match
+1,AgilentB00      ,AO-0011         ,AO,C0003493,aorta,15825013,Can not rule out coarctation of the aorta in presence of PDA,C0003492,coarctation of aorta,7305005,N / A,N / A,N / A
+1,AgilentB00      ,AO-0012         ,AO,C0003494,aorta,15825014,"Coarctation of the aorta, juxtaductal",C0003492,Coarctation of aorta,7305005,No match,No match,No match
+1,AgilentB00      ,AO-0013         ,AO,C0003495,aorta,15825015,"Coarctation of the aorta, postductal",C0003492,Coarctation of aorta,7305005,No match,No match,No match
+1,AgilentB00      ,AO-0014         ,AO,C0003496,aorta,15825016,Dilatation of the ascending aorta,C0856747,Dilatation of ascending aorta,425963007,N / A,N / A,N / A
+1,AgilentB00      ,AO-0015         ,AO,C0003497,aorta,15825017,No aortic root dilatation,C0549113,Aortic root dilatation,251036003,C0332125,No evidence of,41647002
+1,AgilentB00      ,AO-0016         ,AO,C0003498,aorta,15825018,_ aortic root dilatation,C0549113,Aortic root dilatation,251036003,N / A,N / A,N / A
+1,AgilentB00      ,AO-0017         ,AO,C0003499,aorta,15825019,Aortic aneurysm,C0003486,Aortic aneurysm,155419006,N / A,N / A,N / A
+1,AgilentB00      ,AO-0018         ,AO,C0003500,aorta,15825020,Systemic artery hypertension,C0933549,Systemic artery,No match,C0020538,Hypertensive disorder,38341003
+1,AgilentB00      ,AO-0019         ,AO,C0003501,aorta,15825021,Normal left aortic arch,C0003489,aortic arch,57034009,C0232357,Normal,45332005
+1,AgilentB00      ,AO-0020         ,AO,C0003502,aorta,15825022,Common brachiocephalic trunk,C4021141,Common brachiocephalic trunk,No match,N / A,N / A,N / A
+1,AgilentB00      ,AO-0021         ,AO,C0003503,aorta,15825023,Left aortic arch with aberrant right subclavian artery,C2004632,aberrant right subclavian artery,No match,N / A,N / A,N / A
+1,AgilentB00      ,AO-0022         ,AO,C0003504,aorta,15825024,Cervical aortic arch,C0345065,Cervical aortic arch,253657003,N / A,N / A,N / A
+1,AgilentB00      ,AO-0023         ,AO,C0003505,aorta,15825025,Right aortic arch,C0035615,Right aortic arch,244229003,N / A,N / A,N / A
+1,AgilentB00      ,AO-0024         ,AO,C0003506,aorta,15825026,Right aortic arch with mirror image branching,C4025695,Right aortic arch with mirror image branching,No match,N / A,N / A,N / A
+1,AgilentB00      ,AO-0025         ,AO,C0003507,aorta,15825027,Right aortic arch with aberrant left subclavian artery,C4021140,Right aortic arch with aberrant left subclavian artery,No match,N / A,N / A,N / A
+1,AgilentB00      ,AO-0026         ,AO,C0003508,aorta,15825028,Right aortic arch and right descending thoracic aorta,No match,No match,No match,N / A,N / A,N / A
+1,AgilentB00      ,AO-0027         ,AO,C0003509,aorta,15825029,Double aortic arch,C0265883,Double aortic arch,10451007,N / A,N / A,N / A
+1,AgilentB00      ,AO-0028         ,AO,C0003510,aorta,15825030,Vascular ring,C0221214,Vascular ring,253659000,N / A,N / A,N / A
+1,AgilentB00      ,AO-0029         ,AO,C0003511,aorta,15825031,Post stenotic ascending aorta dilatation,C1299346,Post stenotic dilation (finding),371872009,N / A,N / A,N / A
+1,AgilentB00      ,AO-0030         ,AO,C0003512,aorta,15825032,Ascending aortic velocity normal,C1531610,Blood velocity,413673008,C0232357,Normal,45332005
+1,AgilentB00      ,AO-0031         ,AO,C0003513,aorta,15825033,Ascending aortic velocity decreased,C1531610,Blood velocity,413673008,C0442797,decreased,260371004
+1,AgilentB00      ,AO-0032         ,AO,C0003514,aorta,15825034,Ascending aortic velocity increased,C1531610,Blood velocity,413673008,C0205217,Increased,35105006
+1,AgilentB00      ,AO-0033         ,AO,C0003515,aorta,15825035,Descending aortic velocity normal,C1531610,Blood velocity,413673008,C0232357,Normal,45332005
+1,AgilentB00      ,AO-0034         ,AO,C0003516,aorta,15825036,Descending aortic velocity decreased,C1531610,Blood velocity,413673008,C0442797,decreased,260371004
+1,AgilentB00      ,AO-0035         ,AO,C0003517,aorta,15825037,Descending aortic velocity increased,C1531610,Blood velocity,413673008,C0205217,Increased,35105006
+1,AgilentB00      ,AO-0036         ,AO,C0003518,aorta,15825038,_ mean descending aorta gradient,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,AO-0037         ,AO,C0003519,aorta,15825039,_ peak descending aorta gradient,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,AO-0041         ,AO,C0003520,aorta,15825040,No residual coarctation,C0003492,coarctation,7305005,C0520832,Normal functional residual capacity,49035009
+1,AgilentB00      ,AO-0042         ,AO,C0003521,aorta,15825041,_ coarctation gradient,C0003492,coarctation,7305005,No match,No match,No match
+1,AgilentB00      ,AO-0043         ,AO,C0003522,aorta,15825042,No drag in descending aorta,C0011666,descending aorta,281130003,C0332125,No evidence of,41647002
+1,AgilentB00      ,AO-0044         ,AO,C0003523,aorta,15825043,Drag in descending aorta consistent with coarctation of the aorta,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,AO-0045         ,AO,C0003524,aorta,15825044,The aortic root is not well visualized.,C0549113,aortic root,8128003,No match,No match,No match
+1,AgilentB00      ,AO-0046         ,AO,C0003525,aorta,15825045,The aortic root is not well visualized but is probably normal size.,C0549113,aortic root,8128003,C0232357,Normal,45332005
+1,AgilentB00      ,AO-0047         ,AO,C0003526,aorta,15825046,The aortic root is normal size.,C0549113,aortic root,8128003,C0232357,Normal,45332005
+1,AgilentB00      ,AO-0048         ,AO,C0003527,aorta,15825047,_ aortic root dilatation.,C0549113,aortic root,8128003,No match,No match,No match
+1,AgilentB00      ,AO-0051         ,AO,C0003528,aorta,15825048,No obvious dissection could be visualized.,C0012737,dissection,122459003,No match,No match,No match
+1,AgilentB00      ,AO-0052         ,AO,C0003529,aorta,15825049,Thickened aortic wall visualized in the _ consistent with an intramural hematoma.,C0333200,intramural hematoma,54493002,C0205400,Thickened,263899003
+1,AgilentB00      ,AO-0053         ,AO,C0003530,aorta,15825050,Type _ intramural hematoma.,C0333200,intramural hematoma,54493002,N / A,N / A,N / A
+1,AgilentB00      ,AO-0054         ,AO,C0003531,aorta,15825051,Type _ aortic dissection.,C0340643,aortic dissection,308546005,N / A,N / A,N / A
+1,AgilentB00      ,AO-0055         ,AO,C0003532,aorta,15825052,Intimal flap visualized in the _ consistent with an aortic dissection.,C0340643,aortic dissection,308546005,No match,No match,No match
+1,AgilentB00      ,AO-0056         ,AO,C0003533,aorta,15825053,Entry intimal tear visualized.,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,AO-0057         ,AO,C0003534,aorta,15825054,Exit intimal tear visualized.,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,AO-0058         ,AO,C0003535,aorta,15825055,Aneurysm of the _.,C0002940,Aneurysm,85659009,N / A,N / A,N / A
+1,AgilentB00      ,AO-0059         ,AO,C0003536,aorta,15825056,_ atherosclerotic plaque(s) in the ascending aorta.,C0333483,Atherosclerotic fibrous plaque,20717008,C0003956,ascending aorta,54247002
+1,AgilentB00      ,AO-0060         ,AO,C0003537,aorta,15825057,_ atherosclerotic plaque(s) in the aortic arch.,C0333483,Atherosclerotic fibrous plaque,20717008,C0003489,aortic arch,57034009
+1,AgilentB00      ,AO-0061         ,AO,C0003538,aorta,15825058,_ atherosclerotic plaque(s) in the descending aorta.,C0333483,Atherosclerotic fibrous plaque,20717008,C0011666,descending aorta,281130003
+1,AgilentB00      ,AO-0062         ,AO,C0003539,aorta,15825059,Fixed mural thrombus (thrombi) in _.,C0333205,mural thrombus,51670003,C0443218,Fixed,261010008
+1,AgilentB00      ,AO-0063         ,AO,C0003540,aorta,15825060,Mobile mural thrombus (thrombi) in _.,C0333205,mural thrombus,51670003,C0577537,Moveable,300824007
+1,AgilentB00      ,AO-0065         ,AO,C0003541,aorta,15825061,The aortic Sinus(es) of Valsalva are _ dilated.,C3164718,Dilatation of aortic sinus of Valsalva,448905005,C0700124,dilated,255381004
+1,AgilentB00      ,AO-0066         ,AO,C0003542,aorta,15825062,Sinus of Valsalva aneurysm.,C2239253,Sinus of Valsalva aneurysm,54160000,N / A,N / A,N / A
+1,AgilentB00      ,AO-0067         ,AO,C0003543,aorta,15825063,Ruptured Sinus of Valsalva aneurysm.,C0265019,Ruptured sinus of Valsalva,21379009,N / A,N / A,N / A
+1,AgilentB00      ,AO-0068         ,AO,C0003544,aorta,15825064,_ dilated ascending aorta.,C0003956,ascending aorta,54247002,C1531687,Dilated segment,413996005
+1,AgilentB00      ,AO-0069         ,AO,C0003545,aorta,15825065,_ dilated aortic arch.,C0003489,aortic arch,57034009,C1531687,Dilated segment,413996005
+1,AgilentB00      ,AO-0070         ,AO,C0003546,aorta,15825066,_ dilated descending aorta.,C0011666,descending aorta,281130003,C1531687,Dilated segment,413996005
+1,AgilentB00      ,AO-0071         ,AO,C0003547,aorta,15825067,_ dilated abdominal aorta.,C0003484,abdominal aorta,7832008,C1531687,Dilated segment,413996005
+1,AgilentB00      ,AO-0072         ,AO,C0003548,aorta,15825068,There is an overriding aortic root.,C0265886,Overriding aorta,63934006,N / A,N / A,N / A
+1,AgilentB00      ,AO-0073         ,AO,C0003549,aorta,15825069,Coronary artery fistula is suggested.,C2939120,Coronary artery fistula,11433004,N / A,N / A,N / A
+1,AgilentB00      ,AO-0074         ,AO,C0003550,aorta,15825070,No Doppler or imaging evidence of an aortic coarctation.,C0003492,aortic coarctation,7305005,C0332125,No evidence of,41647002
+1,AgilentB00      ,AO-0076         ,AO,C0003551,aorta,15825071,Aortic coarctation is present.,C0003492,Aortic coarctation,7305005,C0150312,Present,52101004
+1,AgilentB00      ,AT-0001         ,AT,C0225836,atrial septum,58095006,Intact atrial septum,C0225836,atrial septum,58095006,C0205266,Intact,11163003
+1,AgilentB00      ,AT-0002         ,AT,C0225837,atrial septum,58095007,Patent foramen ovale,C0016522,Patent foramen ovale,78902000,N / A,N / A,N / A
+1,AgilentB00      ,AT-0003         ,AT,C0225838,atrial septum,58095008,Small secundum atrial septal defect vs. patent foramen ovale,C0016522,secundum atrial septal defect,78902000,C0700321,Small,255507004
+1,AgilentB00      ,AT-0004         ,AT,C0225839,atrial septum,58095009,"Atrial septal defect, unspecified",C0018817,Atrial septal defect,69524004,C0205370,Unspecified,10003008
+1,AgilentB00      ,AT-0005         ,AT,C0225840,atrial septum,58095010,"_ atrial septal defect, secundum type",C0344724,Ostium secundum type atrial septal defect,204315000,N / A,N / A,N / A
+1,AgilentB00      ,AT-0006         ,AT,C0225841,atrial septum,58095011,"_ atrial septal defect, primum type",C0018817,atrial septal defect,69524004,No match,No match,No match
+1,AgilentB00      ,AT-0007         ,AT,C0225842,atrial septum,58095012,"_ atrial septal defect, coronary sinus type",C0344733,Atrial septal defect through coronary sinus orifice,253371000,N / A,N / A,N / A
+1,AgilentB00      ,AT-0008         ,AT,C0225843,atrial septum,58095013,"_ atrial septal defect, superior vena cava sinus venosus type",C0344731,Sinus venosus defect with overriding superior vena cava,253369000,N / A,N / A,N / A
+1,AgilentB00      ,AT-0009         ,AT,C0225844,atrial septum,58095014,"_ atrial septal defect, inferior vena cava sinus venosus type",C0344732,Sinus venosus defect with overriding inferior vena cava,253370004,N / A,N / A,N / A
+1,AgilentB00      ,AT-0010         ,AT,C0225845,atrial septum,58095015,Aneurysm of septum primum,C0002940,Aneurysm,85659009,No match,No match,No match
+1,AgilentB00      ,AT-0011         ,AT,C0225846,atrial septum,58095016,Common atrium,C0392482,Common atrium,69524004,N / A,N / A,N / A
+1,AgilentB00      ,AT-0012         ,AT,C0225847,atrial septum,58095017,"Atrial septal defect, device visualized",C0018817,Atrial septal defect,69524004,No match,No match,No match
+1,AgilentB00      ,AT-0013         ,AT,C0225848,atrial septum,58095018,"Atrial septal defect, balloon septostomy",C0018817,Atrial septal defect,69524004,No match,No match,No match
+1,AgilentB00      ,AT-0014         ,AT,C0225849,atrial septum,58095019,"Atrial septal defect, fenestrated septum primum",C0018817,Atrial septal defect,69524004,No match,No match,No match
+1,AgilentB00      ,AT-0015         ,AT,C0225850,atrial septum,58095020,"Atrial septal defect, multiple",C0018817,Atrial septal defect,69524004,C0439064,Multiple,255204007
+1,AgilentB00      ,AT-0016         ,AT,C0225851,atrial septum,58095021,The interatrial septum is intact with no evidence for an atrial septal defect.,C0018817,Atrial septal defect,69524004,C0332125,No evidence of,41647002
+1,AgilentB00      ,AT-0021         ,AT,C0225852,atrial septum,58095022,The discontinuity of the interatrial septum is suggestive of an atrial septal defect.,C0018817,Atrial septal defect,69524004,No match,No match,No match
+1,AgilentB00      ,AT-0028         ,AT,C0225853,atrial septum,58095023,The interatrial septum bows toward right atrium consistent with elevated left atrial pressure.,C0225836,interatrial septum,58095006,No match,No match,No match
+1,AgilentB00      ,AT-0029         ,AT,C0225854,atrial septum,58095024,The atrial septum is aneurysmal.,C0225836,atrial septum,58095006,C0439651,Aneurysmal,255378009
+1,AgilentB00      ,AT-0030         ,AT,C0225855,atrial septum,58095025,Interatrial septal thickening is noted.,No match,No match,No match,C0205400,thickening,82806002
+1,AgilentB00      ,AT-0032         ,AT,C0225856,atrial septum,58095026,Lipomatous hypertrophy of the interatrial septum is noted.,C2242664,Lipomatous hypertrophy of interatrial septum,460621005,N / A,N / A,N / A
+1,AgilentB00      ,AV-0001         ,AV,C0003501,aortic valve,34202007,Normal tricuspid aortic valve,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0002         ,AV,C0003502,aortic valve,34202008,Normal aortic valve annulus,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0003         ,AV,C0003503,aortic valve,34202009,Large aortic valve annulus,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0004         ,AV,C0003504,aortic valve,34202010,Small aortic valve annulus,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0005         ,AV,C0003505,aortic valve,34202011,Sub-aortic conus,C0003483,aortic,15825003,C0003483,aortic,15825003
+1,AgilentB00      ,AV-0006         ,AV,C0003506,aortic valve,34202012,Aortic valve atresia,C0265843,Aortic valve atresia,51442005,C0265843,Aortic valve atresia,51442005
+1,AgilentB00      ,AV-0007         ,AV,C0003507,aortic valve,34202013,Aortic valve stenosis,C0003507,Aortic valve stenosis,390722003,C0003507,Aortic valve stenosis,390722003
+1,AgilentB00      ,AV-0008         ,AV,C0003508,aortic valve,34202014,Prosthetic aortic valve,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0009         ,AV,C0003509,aortic valve,34202015,Thickened aortic valve leaflets,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0010         ,AV,C0003510,aortic valve,34202016,Doming aortic valve leaflets,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0011         ,AV,C0003511,aortic valve,34202017,Bicuspid aortic valve,C0149630,Bicuspid aortic valve,72352009,C0149630,Bicuspid aortic valve,72352009
+1,AgilentB00      ,AV-0012         ,AV,C0003512,aortic valve,34202018,Bicommissural aortic valve,C3278660,Bicommissural aortic valve,No match,C3278660,Bicommissural aortic valve,No match
+1,AgilentB00      ,AV-0013         ,AV,C0003513,aortic valve,34202019,"Bicommissural aortic valve, _ fusion",C3278660,Bicommissural aortic valve,No match,C3278660,Bicommissural aortic valve,No match
+1,AgilentB00      ,AV-0014         ,AV,C0003514,aortic valve,34202020,Unicuspid aortic valve,C0345001,Unicuspid aortic valve,253610004,C0345001,Unicuspid aortic valve,253610004
+1,AgilentB00      ,AV-0015         ,AV,C0003515,aortic valve,34202021,Quadricuspid aortic valve,C0345002,Quadricuspid aortic valve,253611000,C0345002,Quadricuspid aortic valve,253611000
+1,AgilentB00      ,AV-0016         ,AV,C0003516,aortic valve,34202022,Dysplastic aortic valve,C1866207,Dysplastic aortic valve,No match,C1866207,Dysplastic aortic valve,No match
+1,AgilentB00      ,AV-0017         ,AV,C0003517,aortic valve,34202023,Supravalvular aortic stenosis,C0003499,Supravalvular aortic stenosis,268185002,C0003499,Supravalvular aortic stenosis,268185002
+1,AgilentB00      ,AV-0018         ,AV,C0003518,aortic valve,34202024,Supravalvular discrete aortic stenosis,C0003507,aortic stenosis,390722003,C0003507,aortic stenosis,390722003
+1,AgilentB00      ,AV-0019         ,AV,C0003519,aortic valve,34202025,Supravalvular tubular aortic stenosis,C0003507,aortic stenosis,390722003,C0003507,aortic stenosis,390722003
+1,AgilentB00      ,AV-0020         ,AV,C0003520,aortic valve,34202026,Subvalvar aortic stenosis,C0003507,aortic stenosis,390722003,C0003507,aortic stenosis,390722003
+1,AgilentB00      ,AV-0021         ,AV,C0003521,aortic valve,34202027,Subvalvar fibrous aortic stenosis,C0003507,aortic stenosis,390722003,C0003507,aortic stenosis,390722003
+1,AgilentB00      ,AV-0022         ,AV,C0003522,aortic valve,34202028,Subvalvar fibromuscular aortic stenosis,C0003507,aortic stenosis,390722003,C0003507,aortic stenosis,390722003
+1,AgilentB00      ,AV-0023         ,AV,C0003523,aortic valve,34202029,Subvalvar tunnel aortic stenosis,C0003507,aortic stenosis,390722003,C0003507,aortic stenosis,390722003
+1,AgilentB00      ,AV-0024         ,AV,C0003524,aortic valve,34202030,Prolapsed aortic valve cusps,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0025         ,AV,C0003525,aortic valve,34202031,No aortic valve prolapse,C0003505,aortic valve prolapse,No match,C0003505,aortic valve prolapse,No match
+1,AgilentB00      ,AV-0026         ,AV,C0003526,aortic valve,34202032,Aortic valve prolapse into membranous VSD,C0003505,Aortic valve prolapse,No match,C0003505,Aortic valve prolapse,No match
+1,AgilentB00      ,AV-0027         ,AV,C0003527,aortic valve,34202033,Aortic valve prolapse into membranous VSD with no AI,C0003505,Aortic valve prolapse,No match,C0003505,Aortic valve prolapse,No match
+1,AgilentB00      ,AV-0028         ,AV,C0003528,aortic valve,34202034,Aortic valve prolapse into membranous VSD with aortic insufficiency,C0003505,Aortic valve prolapse,No match,C0003505,Aortic valve prolapse,No match
+1,AgilentB00      ,AV-0029         ,AV,C0003529,aortic valve,34202035,Aortic valve prolapse into subpulmonary ventricular septal defect,C0018818,ventricular septal defect,156914003,C0018818,ventricular septal defect,156914003
+1,AgilentB00      ,AV-0030         ,AV,C0003530,aortic valve,34202036,Aortic valve prolapse into subpulmonary VSD with no AI,C0003505,Aortic valve prolapse,No match,C0003505,Aortic valve prolapse,No match
+1,AgilentB00      ,AV-0031         ,AV,C0003531,aortic valve,34202037,Aortic valve prolapse into subpulmonary VSD with AI,C0003505,Aortic valve prolapse,No match,C0003505,Aortic valve prolapse,No match
+1,AgilentB00      ,AV-0032         ,AV,C0003532,aortic valve,34202038,Sinus of Valsalva aneurysm,C2239253,Sinus of Valsalva aneurysm,54160000,C2239253,Sinus of Valsalva aneurysm,54160000
+1,AgilentB00      ,AV-0033         ,AV,C0003533,aortic valve,34202039,Vegetation on aortic valve,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0034         ,AV,C0003534,aortic valve,34202040,Aortic valve insufficiency,C0003504,Aortic valve insufficiency,60234000,C0003504,Aortic valve insufficiency,60234000
+1,AgilentB00      ,AV-0035         ,AV,C0003535,aortic valve,34202041,Normal subaortic velocity,C0232357,Normal,45332005,C0232357,Normal,45332005
+1,AgilentB00      ,AV-0036         ,AV,C0003536,aortic valve,34202042,Normal aortic valve velocity,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0037         ,AV,C0003537,aortic valve,34202043,No aortic valve insufficiency,C0003504,aortic valve insufficiency,60234000,C0003504,aortic valve insufficiency,60234000
+1,AgilentB00      ,AV-0038         ,AV,C0003538,aortic valve,34202044,Decreased subaortic velocity,C0392756,Decreased,21679004,C0392756,Decreased,21679004
+1,AgilentB00      ,AV-0039         ,AV,C0003539,aortic valve,34202045,Increased subaortic velocity,C5236002,Increased,No match,C5236002,Increased,No match
+1,AgilentB00      ,AV-0040         ,AV,C0003540,aortic valve,34202046,Decreased aortic valve velocity,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0041         ,AV,C0003541,aortic valve,34202047,Increased aortic valve velocity,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0042         ,AV,C0003542,aortic valve,34202048,_ mean subaortic gradient,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,AV-0043         ,AV,C0003543,aortic valve,34202049,_ peak subaortic gradient,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,AV-0044         ,AV,C0003544,aortic valve,34202050,_ mean aortic valve gradient,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0045         ,AV,C0003545,aortic valve,34202051,_ peak aortic valve gradient,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0046         ,AV,C0003546,aortic valve,34202052,_ mean supravalvar gradient,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,AV-0047         ,AV,C0003547,aortic valve,34202053,_ peak supravalvar gradient,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,AV-0048         ,AV,C0003548,aortic valve,34202054,_ aortic valve insufficiency,C0003504,aortic valve insufficiency,60234000,C0003504,aortic valve insufficiency,60234000
+1,AgilentB00      ,AV-0049         ,AV,C0003549,aortic valve,34202055,Normal prosthetic aortic valve gradient,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0050         ,AV,C0003550,aortic valve,34202056,_ prosthetic aortic valve stenosis,C0003507,aortic valve stenosis,390722003,C0003507,aortic valve stenosis,390722003
+1,AgilentB00      ,AV-0051         ,AV,C0003551,aortic valve,34202057,No prosthetic aortic valve insufficiency,C0003504,aortic valve insufficiency,60234000,C0003504,aortic valve insufficiency,60234000
+1,AgilentB00      ,AV-0052         ,AV,C0003552,aortic valve,34202058,_ prosthetic aortic valve insufficiency,C0003504,aortic valve insufficiency,60234000,C0003504,aortic valve insufficiency,60234000
+1,AgilentB00      ,AV-0053         ,AV,C0003553,aortic valve,34202059,Normal neoaortic valve velocity,C0232357,Normal,45332005,C0232357,Normal,45332005
+1,AgilentB00      ,AV-0054         ,AV,C0003554,aortic valve,34202060,_ mean neoaortic valve gradient,C0184252,valve,No match,C0184252,valve,No match
+1,AgilentB00      ,AV-0055         ,AV,C0003555,aortic valve,34202061,_ peak neoaortic valve gradient,C0184252,valve,No match,C0184252,valve,No match
+1,AgilentB00      ,AV-0056         ,AV,C0003556,aortic valve,34202062,Mild peak neoaortic valve gradient,C0184252,valve,No match,C0184252,valve,No match
+1,AgilentB00      ,AV-0057         ,AV,C0003557,aortic valve,34202063,Moderate peak neoaortic valve gradient,C0334047,Moderate,57045007,C0334047,Moderate,57045007
+1,AgilentB00      ,AV-0058         ,AV,C0003558,aortic valve,34202064,Severe peak neoaortic valve gradient,C0334048,Severe,55237006,C0334048,Severe,55237006
+1,AgilentB00      ,AV-0059         ,AV,C0003559,aortic valve,34202065,No neoaortic valve insufficiency,C0184252,valve,No match,C0184252,valve,No match
+1,AgilentB00      ,AV-0060         ,AV,C0003560,aortic valve,34202066,_ neoaortic valve insufficiency,C0184252,valve,No match,C0184252,valve,No match
+1,AgilentB00      ,AV-0061         ,AV,C0003561,aortic valve,34202067,The aortic valve is not well visualized.,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0070         ,AV,C0003562,aortic valve,34202068,There is systolic doming of the aortic valve leaflets(s).,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0074         ,AV,C0003563,aortic valve,34202069,The _ coronary cusp is flail.,C0018787,coronary,80891009,C0018787,coronary,80891009
+1,AgilentB00      ,AV-0078         ,AV,C0003564,aortic valve,34202070,There is no aortic valvular vegetation.,C1285498,vegetation,363564008,C1285498,vegetation,363564008
+1,AgilentB00      ,AV-0079         ,AV,C0003565,aortic valve,34202071,Cannot exclude aortic valvular vegetation.,C1285498,vegetation,363564008,C1285498,vegetation,363564008
+1,AgilentB00      ,AV-0080         ,AV,C0003566,aortic valve,34202072,There is a _ vegetation or mass on the aortic valve.,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0083         ,AV,C0003567,aortic valve,34202073,_ valvular aortic stenosis.,C0003507,aortic stenosis,390722003,C0003507,aortic stenosis,390722003
+1,AgilentB00      ,AV-0084         ,AV,C0003568,aortic valve,34202074,_ supravalvular aortic stenosis.,C0003499,supravalvular aortic stenosis,268185002,C0003499,supravalvular aortic stenosis,268185002
+1,AgilentB00      ,AV-0085         ,AV,C0003569,aortic valve,34202075,_ subvalvular aortic stenosis.,C0003507,aortic stenosis,390722003,C0003507,aortic stenosis,390722003
+1,AgilentB00      ,AV-0088         ,AV,C0003570,aortic valve,34202076,There is an eccentric jet of aortic insufficiency directed against the anterior mitral leaflet.,C0003504,aortic insufficiency,60234000,C0003504,aortic insufficiency,60234000
+1,AgilentB00      ,AV-0089         ,AV,C0003571,aortic valve,34202077,There is an eccentric jet of aortic insufficiency directed against the septum.,C0003504,aortic insufficiency,60234000,C0003504,aortic insufficiency,60234000
+1,AgilentB00      ,AV-0090         ,AV,C0003572,aortic valve,34202078,The prosthetic aortic valve is not well visualized.,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0091         ,AV,C0003573,aortic valve,34202079,The prosthetic aortic valve is well-seated.,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0092         ,AV,C0003574,aortic valve,34202080,There is a _ aortic valve.,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0093         ,AV,C0003575,aortic valve,34202081,There is a _ aortic mechanical prosthesis.,C0525024,prosthesis,118663006,C0525024,prosthesis,118663006
+1,AgilentB00      ,AV-0094         ,AV,C0003576,aortic valve,34202082,A homograft is present.,C0040739,homograft,50223000,C0040739,homograft,50223000
+1,AgilentB00      ,AV-0095         ,AV,C0003577,aortic valve,34202083,The prosthetic aortic valve appears to open well.,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0096         ,AV,C0003578,aortic valve,34202084,The opening of the prosthetic aortic valve appears to be limited.,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0097         ,AV,C0003579,aortic valve,34202085,The prosthetic aortic valve appears abnormal.,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0098         ,AV,C0003580,aortic valve,34202086,There is no thrombus on the prosthetic aortic valve.,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0099         ,AV,C0003581,aortic valve,34202087,There appears to be a thrombus associated with the prosthetic aortic valve.,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0100         ,AV,C0003582,aortic valve,34202088,Abnormal rocking of prosthetic aortic valve suggests dehiscence.,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0106         ,AV,C0003583,aortic valve,34202089,There are no vegetations on this prosthetic aortic valve.,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0107         ,AV,C0003584,aortic valve,34202090,Vegetations are suspected on this prosthetic aortic valve.,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0108         ,AV,C0003585,aortic valve,34202091,Vegetations are present on this prosthetic aortic valve.,C0003501,aortic valve,34202007,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0109         ,AV,C0003586,aortic valve,34202092,Bioprosthetic leaflets are not well visualized.,C4697772,Bioprosthetic,No match,C4697772,Bioprosthetic,No match
+1,AgilentB00      ,AV-0110         ,AV,C0003587,aortic valve,34202093,Bioprosthetic leaflets are thin and move normally.,C4697772,Bioprosthetic,No match,C4697772,Bioprosthetic,No match
+1,AgilentB00      ,AV-0111         ,AV,C0003588,aortic valve,34202094,Bioprosthetic leaflets are thick and move well.,C4697772,Bioprosthetic,No match,C4697772,Bioprosthetic,No match
+1,AgilentB00      ,AV-0112         ,AV,C0003589,aortic valve,34202095,Bioprosthetic leaflets are thickened and motion is restricted.,C4697772,Bioprosthetic,No match,C4697772,Bioprosthetic,No match
+1,AgilentB00      ,AV-0114         ,AV,C0003590,aortic valve,34202096,The valve opening cannot be assessed due to imaging artifacts from the prosthesis.,C0525024,prosthesis,118663006,C0525024,prosthesis,118663006
+1,AgilentB00      ,AV-0115         ,AV,C0003591,aortic valve,34202097,Status post Ross procedure.,C0184661,procedure,71388002,C0184661,procedure,71388002
+1,AgilentB00      ,CA-0001         ,CA,C0428821,Coronary artery finding (finding),251015000,Normal coronary arteries,C1299335,Normal coronary arteries,371860003,C1299335,Normal coronary arteries,371860003
+1,AgilentB00      ,CA-0002         ,CA,C0428822,Coronary artery finding (finding),251015001,Usual coronary arteries,C0205042,coronary arteries,41801008,C0205042,coronary arteries,41801008
+1,AgilentB00      ,CA-0003         ,CA,C0428823,Coronary artery finding (finding),251015002,Circumflex from right coronary artery,C1261316,right coronary artery,13647002,C1261316,right coronary artery,13647002
+1,AgilentB00      ,CA-0004         ,CA,C0428824,Coronary artery finding (finding),251015003,Single left coronary artery,C1261082,left coronary artery,50018008,C1261082,left coronary artery,50018008
+1,AgilentB00      ,CA-0005         ,CA,C0428825,Coronary artery finding (finding),251015004,Single right coronary artery,C1261316,right coronary artery,13647002,C1261316,right coronary artery,13647002
+1,AgilentB00      ,CA-0006         ,CA,C0428826,Coronary artery finding (finding),251015005,Inverted coronary arteries,C0205042,coronary arteries,41801008,C0205042,coronary arteries,41801008
+1,AgilentB00      ,CA-0007         ,CA,C0428827,Coronary artery finding (finding),251015006,Left anterior descending from right coronary artery,C1261316,right coronary artery,13647002,C1261316,right coronary artery,13647002
+1,AgilentB00      ,CA-0008         ,CA,C0428828,Coronary artery finding (finding),251015007,Intramural left coronary artery from right septal sinus of Valsalva,C1261082,left coronary artery,50018008,C1261082,left coronary artery,50018008
+1,AgilentB00      ,CA-0009         ,CA,C0428829,Coronary artery finding (finding),251015008,Intramural LAD from the right septal sinus with the LCCA from RCA,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,CA-0010         ,CA,C0428830,Coronary artery finding (finding),251015009,Intramural LAD  from right sinus with LCCA and accessory LAD from RCA,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,CA-0011         ,CA,C0428831,Coronary artery finding (finding),251015010,Intramural RCA from left septal sinus of Valsalva,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,CA-0012         ,CA,C0428832,Coronary artery finding (finding),251015011,Intramural RCA from left septal sinus of Valsalva with LCCA  from RCA,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,CA-0013         ,CA,C0428833,Coronary artery finding (finding),251015012,Intramural RCA from right septal sinus near intercoronary commissure,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,CA-0014         ,CA,C0428834,Coronary artery finding (finding),251015013,Anomalous origin of coronary artery; LCA from pulmonary artery,C0221359,Anomalous origin of coronary artery,75398000,C0221359,Anomalous origin of coronary artery,75398000
+1,AgilentB00      ,CA-0015         ,CA,C0428835,Coronary artery finding (finding),251015014,Anomalous origin of coronary artery; circumflex from pulmonary artery,C0221359,Anomalous origin of coronary artery,75398000,C0221359,Anomalous origin of coronary artery,75398000
+1,AgilentB00      ,CA-0016         ,CA,C0428836,Coronary artery finding (finding),251015015,Anomalous origin of coronary artery; LAD from pulmonary artery,C0221359,Anomalous origin of coronary artery,75398000,C0221359,Anomalous origin of coronary artery,75398000
+1,AgilentB00      ,CA-0017         ,CA,C0428837,Coronary artery finding (finding),251015016,Anomalous origin of coronary artery; RCA from pulmonary artery,C0221359,Anomalous origin of coronary artery,75398000,C0221359,Anomalous origin of coronary artery,75398000
+1,AgilentB00      ,CA-0018         ,CA,C0428838,Coronary artery finding (finding),251015017,Right coronary artery fistula,C0265898,coronary artery fistula,373093003,C0265898,coronary artery fistula,373093003
+1,AgilentB00      ,CA-0019         ,CA,C0428839,Coronary artery finding (finding),251015018,Left coronary artery fistula,C0265898,coronary artery fistula,373093003,C0265898,coronary artery fistula,373093003
+1,AgilentB00      ,CA-0020         ,CA,C0428840,Coronary artery finding (finding),251015019,Right coronary artery measures _ mm,C1261316,Right coronary artery,13647002,C1261316,Right coronary artery,13647002
+1,AgilentB00      ,CA-0021         ,CA,C0428841,Coronary artery finding (finding),251015020,Left main coronary artery measures _ mm,C1261082,Left main coronary artery,50018008,C1261082,Left main coronary artery,50018008
+1,AgilentB00      ,CA-0022         ,CA,C0428842,Coronary artery finding (finding),251015021,Left anterior descending coronary artery measures _ mm,C0226032,Left anterior descending coronary artery,59438005,C0226032,Left anterior descending coronary artery,59438005
+1,AgilentB00      ,CA-0023         ,CA,C0428843,Coronary artery finding (finding),251015022,Circumflex coronary artery measures _ mm,C0226037,Circumflex coronary artery,57396003,C0226037,Circumflex coronary artery,57396003
+1,AgilentB00      ,CA-0024         ,CA,C0428844,Coronary artery finding (finding),251015023,Posterior descending coronary artery measures _ mm,C0226047,Posterior descending coronary artery,53655008,C0226047,Posterior descending coronary artery,53655008
+1,AgilentB00      ,CA-0025         ,CA,C0428845,Coronary artery finding (finding),251015024,No evidence of right coronary artery aneurysm,C0010051,coronary artery aneurysm,50570003,C0010051,coronary artery aneurysm,50570003
+1,AgilentB00      ,CA-0026         ,CA,C0428846,Coronary artery finding (finding),251015025,Ectasia of right coronary artery,C1261316,right coronary artery,13647002,C1261316,right coronary artery,13647002
+1,AgilentB00      ,CA-0027         ,CA,C0428847,Coronary artery finding (finding),251015026,_ sacular aneurysm of right coronary artery,C1261316,right coronary artery,13647002,C1261316,right coronary artery,13647002
+1,AgilentB00      ,CA-0028         ,CA,C0428848,Coronary artery finding (finding),251015027,_ fusiform aneurysm of right coronary artery,C1261316,right coronary artery,13647002,C1261316,right coronary artery,13647002
+1,AgilentB00      ,CA-0029         ,CA,C0428849,Coronary artery finding (finding),251015028,No evidence of left main coronary artery aneurysm,C0010051,coronary artery aneurysm,50570003,C0010051,coronary artery aneurysm,50570003
+1,AgilentB00      ,CA-0030         ,CA,C0428850,Coronary artery finding (finding),251015029,Ectasia of left main coronary artery,C0205042,coronary artery,41801008,C0205042,coronary artery,41801008
+1,AgilentB00      ,CA-0031         ,CA,C0428851,Coronary artery finding (finding),251015030,_ sacular aneurysm of left main coronary artery,C0205042,coronary artery,41801008,C0205042,coronary artery,41801008
+1,AgilentB00      ,CA-0032         ,CA,C0428852,Coronary artery finding (finding),251015031,_ fusiform aneurysm of left main coronary artery,C0333099,fusiform aneurysm,85431000,C0333099,fusiform aneurysm,85431000
+1,AgilentB00      ,CA-0033         ,CA,C0428853,Coronary artery finding (finding),251015032,No evidence of left anterior descending coronary artery aneurysm,C0010051,coronary artery aneurysm,50570003,C0010051,coronary artery aneurysm,50570003
+1,AgilentB00      ,CA-0034         ,CA,C0428854,Coronary artery finding (finding),251015033,Ectasia of left anterior descending coronary artery,C0205042,coronary artery,41801008,C0205042,coronary artery,41801008
+1,AgilentB00      ,CA-0035         ,CA,C0428855,Coronary artery finding (finding),251015034,_ sacular aneurysm of left anterior descending coronary artery,C0205042,coronary artery,41801008,C0205042,coronary artery,41801008
+1,AgilentB00      ,CA-0036         ,CA,C0428856,Coronary artery finding (finding),251015035,_ fusiform aneurysm of left anterior descending coronary artery,C0333099,fusiform aneurysm,85431000,C0333099,fusiform aneurysm,85431000
+1,AgilentB00      ,CA-0037         ,CA,C0428857,Coronary artery finding (finding),251015036,No evidence of circumflex artery aneurysm,C0226037,circumflex artery,57396003,C0226037,circumflex artery,57396003
+1,AgilentB00      ,CA-0038         ,CA,C0428858,Coronary artery finding (finding),251015037,Ectasia of circumflex coronary artery,C0205042,coronary artery,41801008,C0205042,coronary artery,41801008
+1,AgilentB00      ,CA-0039         ,CA,C0428859,Coronary artery finding (finding),251015038,_ sacular aneurysm of left circumflex coronary artery,C0226037,left circumflex coronary artery,57396003,C0226037,left circumflex coronary artery,57396003
+1,AgilentB00      ,CA-0040         ,CA,C0428860,Coronary artery finding (finding),251015039,_ fusiform aneurysm of left circumflex coronary artery,C0226037,left circumflex coronary artery,57396003,C0226037,left circumflex coronary artery,57396003
+1,AgilentB00      ,CA-0041         ,CA,C0428861,Coronary artery finding (finding),251015040,No evidence of posterior descending coronary artery aneurysm,C0010051,coronary artery aneurysm,50570003,C0010051,coronary artery aneurysm,50570003
+1,AgilentB00      ,CA-0042         ,CA,C0428862,Coronary artery finding (finding),251015041,Ectasia of posterior descending coronary artery,C0205042,coronary artery,41801008,C0205042,coronary artery,41801008
+1,AgilentB00      ,CA-0043         ,CA,C0428863,Coronary artery finding (finding),251015042,_ sacular aneurysm of posterior descending coronary artery,C0205042,coronary artery,41801008,C0205042,coronary artery,41801008
+1,AgilentB00      ,CA-0044         ,CA,C0428864,Coronary artery finding (finding),251015043,_ fusiform aneurysm of posterior descending coronary artery,C0333099,fusiform aneurysm,85431000,C0333099,fusiform aneurysm,85431000
+1,AgilentB00      ,CT-0001         ,CT,no match,Conotruncus,no match,Tetralogy of Fallot with pulmonary stenosis,C0344881,Tetralogy of Fallot with pulmonary stenosis,253512000,C0344881,Tetralogy of Fallot with pulmonary stenosis,253512000
+1,AgilentB00      ,CT-0002         ,CT,no match,Conotruncus,no match,Tetralogy of Fallot with pulmonary atresia,C0344882,Tetralogy of Fallot with pulmonary atresia,253513005,C0344882,Tetralogy of Fallot with pulmonary atresia,253513005
+1,AgilentB00      ,CT-0003         ,CT,no match,Conotruncus,no match,Tetralogy of Fallot with absent pulmonary valve,C1302264,Tetralogy of Fallot with absent pulmonary valve,399228007,C1302264,Tetralogy of Fallot with absent pulmonary valve,399228007
+1,AgilentB00      ,CT-0004         ,CT,no match,Conotruncus,no match,D-Transposition of the great arteries,C3536741,Transposition of great arteries,204296002,C3536741,Transposition of great arteries,204296002
+1,AgilentB00      ,CT-0005         ,CT,no match,Conotruncus,no match,L-Transposition of the great arteries,C3536741,Transposition of great arteries,204296002,C3536741,Transposition of great arteries,204296002
+1,AgilentB00      ,CT-0006         ,CT,no match,Conotruncus,no match,Double outlet right ventricle,C0013069,Double outlet right ventricle,7484005,C0013069,Double outlet right ventricle,7484005
+1,AgilentB00      ,CT-0007         ,CT,no match,Conotruncus,no match,Double outlet right ventricle with subaortic VSD,C0013069,Double outlet right ventricle,7484005,C0013069,Double outlet right ventricle,7484005
+1,AgilentB00      ,CT-0008         ,CT,no match,Conotruncus,no match,Double outlet right ventricle with subaortic VSD and PS,C0013069,Double outlet right ventricle,7484005,C0013069,Double outlet right ventricle,7484005
+1,AgilentB00      ,CT-0009         ,CT,no match,Conotruncus,no match,Double outlet right ventricle with subpulmonary VSD,C0013069,Double outlet right ventricle,7484005,C0013069,Double outlet right ventricle,7484005
+1,AgilentB00      ,CT-0010         ,CT,no match,Conotruncus,no match,Taussig-Bing heart,C0018787,heart,80891009,C0018787,heart,80891009
+1,AgilentB00      ,CT-0011         ,CT,no match,Conotruncus,no match,"Truncus arteriosus, Type I",C0041207,Truncus arteriosus,204291007,C0041207,Truncus arteriosus,204291007
+1,AgilentB00      ,CT-0012         ,CT,no match,Conotruncus,no match,"Truncus arteriosus, Type II",C0041207,Truncus arteriosus,204291007,C0041207,Truncus arteriosus,204291007
+1,AgilentB00      ,CT-0013         ,CT,no match,Conotruncus,no match,"Truncus arteriosus, Type III",C0041207,Truncus arteriosus,204291007,C0041207,Truncus arteriosus,204291007
+1,AgilentB00      ,CT-0014         ,CT,no match,Conotruncus,no match,Double outlet left ventricle,C0265809,Double outlet left ventricle,204333006,C0265809,Double outlet left ventricle,204333006
+1,AgilentB00      ,CT-0015         ,CT,no match,Conotruncus,no match,Aorto-pulmonary window,C0024109,pulmonary,39607008,C0024109,pulmonary,39607008
+1,AgilentB00      ,CV-0001         ,CV,C0447015,Component of common atrioventricular valve,244370004,"Common atrio-ventricular valve, Type A Rastelli",C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,CV-0002         ,CV,C0447016,Component of common atrioventricular valve,244370005,"Common atrio-ventricular valve, Type B Rastelli",C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,CV-0003         ,CV,C0447017,Component of common atrioventricular valve,244370006,"Common atrio-ventricular valve, Type C Rastelli",C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,CV-0004         ,CV,C0447018,Component of common atrioventricular valve,244370007,Unbalanced atrio-ventricular canal defect: small left side,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,CV-0005         ,CV,C0447019,Component of common atrioventricular valve,244370008,Unbalanced atrio-ventricular canal defect: small right side,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,CV-0006         ,CV,C0447020,Component of common atrioventricular valve,244370009,Transitional atrio-ventricular canal defect,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,CV-0007         ,CV,C0447021,Component of common atrioventricular valve,244370010,Tricuspid pouch,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,CV-0008         ,CV,C0447022,Component of common atrioventricular valve,244370011,Repaired atrioventricular septal defect without cleft mitral valve,C1389018,atrioventricular septal defect,253414002,C1389018,atrioventricular septal defect,253414002
+1,AgilentB00      ,CV-0009         ,CV,C0447023,Component of common atrioventricular valve,244370012,Repaired atrioventricular septal defect with cleft mitral valve,C1389018,atrioventricular septal defect,253414002,C1389018,atrioventricular septal defect,253414002
+1,AgilentB00      ,DA-0001         ,DA,C0013273,Structure of ductus arteriosus,4432005,No patent ductus arteriosus,C3495549,patent ductus arteriosus,253686000,C3495549,patent ductus arteriosus,253686000
+1,AgilentB00      ,DA-0002         ,DA,C0013274,Structure of ductus arteriosus,4432006,Normal fetal patent ductus arteriosus,C3495549,patent ductus arteriosus,253686000,C3495549,patent ductus arteriosus,253686000
+1,AgilentB00      ,DA-0003         ,DA,C0013275,Structure of ductus arteriosus,4432007,"Patent ductus arteriosus, _",C0013274,Patent ductus arteriosus,83330001,C0013274,Patent ductus arteriosus,83330001
+1,AgilentB00      ,DA-0004         ,DA,C0013276,Structure of ductus arteriosus,4432008,Vertical patent ductus arteriosus,C3495549,patent ductus arteriosus,253686000,C3495549,patent ductus arteriosus,253686000
+1,AgilentB00      ,DA-0005         ,DA,C0013277,Structure of ductus arteriosus,4432009,"Patent ductus arteriosus, coil visualized",C0013274,Patent ductus arteriosus,83330001,C0013274,Patent ductus arteriosus,83330001
+1,AgilentB00      ,DA-0006         ,DA,C0013278,Structure of ductus arteriosus,4432010,Aorto-pulmonary collateral,C0024109,pulmonary,39607008,C0024109,pulmonary,39607008
+1,AgilentB00      ,ID-0001         ,ID,C0009450,Infectious Disease,40733004,No evidence of vegetation,C1285498,vegetation,363564008,C1285498,vegetation,363564008
+1,AgilentB00      ,ID-0002         ,ID,C0009451,Infectious Disease,40733005,"No evidence of endocarditis, TTE does not rule out  vegetations",C0014118,endocarditis,56819008,C0014118,endocarditis,56819008
+1,AgilentB00      ,ID-0003         ,ID,C0009452,Infectious Disease,40733006,Echocardiogram suggestive of endocarditis,C0476369,Echocardiogram,169241000,C0476369,Echocardiogram,169241000
+1,AgilentB00      ,ID-0004         ,ID,C0009453,Infectious Disease,40733007,Kawasaki disease,C0026691,Kawasaki disease,75053002,C0026691,Kawasaki disease,75053002
+1,AgilentB00      ,ID-0005         ,ID,C0009454,Infectious Disease,40733008,Echocardiogram suggestive of rheumatic heart disease,C0035439,rheumatic heart disease,201793007,C0035439,rheumatic heart disease,201793007
+1,AgilentB00      ,IN-0001         ,IN,C0007430,Catheterization,45211000,Balloon atrial septostomy,C0189771,Balloon atrial septostomy,32878001,C0189771,Balloon atrial septostomy,32878001
+1,AgilentB00      ,IN-0002         ,IN,C0007431,Catheterization,45211001,"Closure by device, secundum atrial septal defect",C0016522,secundum atrial septal defect,78902000,C0016522,secundum atrial septal defect,78902000
+1,AgilentB00      ,IN-0003         ,IN,C0007432,Catheterization,45211002,Patent ductus arteriosus coil closure,C0013274,Patent ductus arteriosus,83330001,C0013274,Patent ductus arteriosus,83330001
+1,AgilentB00      ,IN-0004         ,IN,C0007433,Catheterization,45211003,Balloon pulmonary valvuloplasty,C0024109,pulmonary,39607008,C0024109,pulmonary,39607008
+1,AgilentB00      ,IN-0005         ,IN,C0007434,Catheterization,45211004,Left pulmonary balloon arterioplasty,C2937236,arterioplasty,392245003,C2937236,arterioplasty,392245003
+1,AgilentB00      ,IN-0006         ,IN,C0007435,Catheterization,45211005,Right pulmonary balloon arterioplasty,C2937236,arterioplasty,392245003,C2937236,arterioplasty,392245003
+1,AgilentB00      ,IN-0007         ,IN,C0007436,Catheterization,45211006,Left pulmonary artery stent placement,C1269883,Left pulmonary artery,244234004,C1269883,Left pulmonary artery,244234004
+1,AgilentB00      ,IN-0008         ,IN,C0007437,Catheterization,45211007,Right pulmonary artery stent placement,C1269884,Right pulmonary artery,244235003,C1269884,Right pulmonary artery,244235003
+1,AgilentB00      ,IN-0009         ,IN,C0007438,Catheterization,45211008,Balloon aortic valvuloplasty,C0396949,aortic valvuloplasty,112816004,C0396949,aortic valvuloplasty,112816004
+1,AgilentB00      ,IN-0010         ,IN,C0007439,Catheterization,45211009,Coarctation balloon arterioplasty,C2937236,arterioplasty,392245003,C2937236,arterioplasty,392245003
+1,AgilentB00      ,IN-0011         ,IN,C0007440,Catheterization,45211010,Coarctation stent arterioplasty,C2937236,arterioplasty,392245003,C2937236,arterioplasty,392245003
+1,AgilentB00      ,IN-0012         ,IN,C0007441,Catheterization,45211011,Tranvenous pacemaker,C0030163,pacemaker,149206005,C0030163,pacemaker,149206005
+1,AgilentB00      ,IN-0013         ,IN,C0007442,Catheterization,45211012,Implantable defibrillator,C0162589,Implantable defibrillator,72506001,C0162589,Implantable defibrillator,72506001
+1,AgilentB00      ,IN-0014         ,IN,C0007443,Catheterization,45211013,Pulmonary artery band,C1269026,Pulmonary artery,181380003,C1269026,Pulmonary artery,181380003
+1,AgilentB00      ,IN-0015         ,IN,C0007444,Catheterization,45211014,Removal of pulmonary artery band,C0034052,pulmonary artery,45341000,C0034052,pulmonary artery,45341000
+1,AgilentB00      ,IN-0016         ,IN,C0007445,Catheterization,45211015,Oversewn pulmonary valve,C0034086,pulmonary valve,39057004,C0034086,pulmonary valve,39057004
+1,AgilentB00      ,IN-0017         ,IN,C0007446,Catheterization,45211016,Left modified Blalock-Taussig shunt,C0397560,Blalock-Taussig shunt,13662000,C0397560,Blalock-Taussig shunt,13662000
+1,AgilentB00      ,IN-0018         ,IN,C0007447,Catheterization,45211017,Right modified Blalock-Taussig shunt,C0397560,Blalock-Taussig shunt,13662000,C0397560,Blalock-Taussig shunt,13662000
+1,AgilentB00      ,IN-0019         ,IN,C0007448,Catheterization,45211018,Gortex central shunt,C0542331,shunt,257351008,C0542331,shunt,257351008
+1,AgilentB00      ,IN-0020         ,IN,C0007449,Catheterization,45211019,Ligation of aorto-pulmonary shunt,C0024109,pulmonary,39607008,C0024109,pulmonary,39607008
+1,AgilentB00      ,IN-0021         ,IN,C0007450,Catheterization,45211020,Norwood (stage1) procedure,C0184661,procedure,71388002,C0184661,procedure,71388002
+1,AgilentB00      ,IN-0022         ,IN,C0007451,Catheterization,45211021,Damus-Kaye-Stansel procedure,C0184661,procedure,71388002,C0184661,procedure,71388002
+1,AgilentB00      ,IN-0023         ,IN,C0007452,Catheterization,45211022,Glenn: bi-directional,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,IN-0024         ,IN,C0007453,Catheterization,45211023,Glenn: bilateral bi-directional,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,IN-0025         ,IN,C0007454,Catheterization,45211024,Glenn: classical,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,IN-0026         ,IN,C0007455,Catheterization,45211025,Hemifontan procedure,C0184661,procedure,71388002,C0184661,procedure,71388002
+1,AgilentB00      ,IN-0027         ,IN,C0007456,Catheterization,45211026,Fontan procedure,C0190010,Fontan procedure,56527009,C0190010,Fontan procedure,56527009
+1,AgilentB00      ,IN-0028         ,IN,C0007457,Catheterization,45211027,Fontan procedure: lateral tunnel,C0190010,Fontan procedure,56527009,C0190010,Fontan procedure,56527009
+1,AgilentB00      ,IN-0029         ,IN,C0007458,Catheterization,45211028,Fontan procedure: fenestrated lateral tunnel,C0190010,Fontan procedure,56527009,C0190010,Fontan procedure,56527009
+1,AgilentB00      ,IN-0030         ,IN,C0007459,Catheterization,45211029,Fontan procedure: extra-cardiac conduit,C0190010,Fontan procedure,56527009,C0190010,Fontan procedure,56527009
+1,AgilentB00      ,IN-0031         ,IN,C0007460,Catheterization,45211030,Repair partial anomalous pulmonary venous return,C0024109,pulmonary,39607008,C0024109,pulmonary,39607008
+1,AgilentB00      ,IN-0032         ,IN,C0007461,Catheterization,45211031,Repair total anomalous pulmonary venous return,C0024109,pulmonary,39607008,C0024109,pulmonary,39607008
+1,AgilentB00      ,IN-0033         ,IN,C0007462,Catheterization,45211032,"Closure by patch, secundum atrial septal defect",C0016522,secundum atrial septal defect,78902000,C0016522,secundum atrial septal defect,78902000
+1,AgilentB00      ,IN-0034         ,IN,C0007463,Catheterization,45211033,"Closure by suture, secundum atrial septal defect",C0016522,secundum atrial septal defect,78902000,C0016522,secundum atrial septal defect,78902000
+1,AgilentB00      ,IN-0035         ,IN,C0007464,Catheterization,45211034,Repair sinus venosus atrial septal defect,C0344730,sinus venosus atrial septal defect,95268002,C0344730,sinus venosus atrial septal defect,95268002
+1,AgilentB00      ,IN-0036         ,IN,C0007465,Catheterization,45211035,Repair primum atrial septal defect,C0018817,atrial septal defect,69524004,C0018817,atrial septal defect,69524004
+1,AgilentB00      ,IN-0037         ,IN,C0007466,Catheterization,45211036,"Closure by patch, ventricular septal defect",C0018818,ventricular septal defect,156914003,C0018818,ventricular septal defect,156914003
+1,AgilentB00      ,IN-0038         ,IN,C0007467,Catheterization,45211037,"Closure by suture, ventricular septal defect",C0018818,ventricular septal defect,156914003,C0018818,ventricular septal defect,156914003
+1,AgilentB00      ,IN-0039         ,IN,C0007468,Catheterization,45211038,"Repair, partial atrioventricular septal defect",C1389018,atrioventricular septal defect,253414002,C1389018,atrioventricular septal defect,253414002
+1,AgilentB00      ,IN-0040         ,IN,C0007469,Catheterization,45211039,"Repair, complete atrioventricular septal defect",C1389018,atrioventricular septal defect,253414002,C1389018,atrioventricular septal defect,253414002
+1,AgilentB00      ,IN-0041         ,IN,C0007470,Catheterization,45211040,Tetralogy of Fallot repair with infundibular patch,C0039685,Tetralogy of Fallot,86299006,C0039685,Tetralogy of Fallot,86299006
+1,AgilentB00      ,IN-0042         ,IN,C0007471,Catheterization,45211041,Tetralogy of Fallot repair with transannular patch,C0039685,Tetralogy of Fallot,86299006,C0039685,Tetralogy of Fallot,86299006
+1,AgilentB00      ,IN-0043         ,IN,C0007472,Catheterization,45211042,Tetralogy of Fallot repair:  right ventricle to pulmonary artery conduit,C0039685,Tetralogy of Fallot,86299006,C0039685,Tetralogy of Fallot,86299006
+1,AgilentB00      ,IN-0044         ,IN,C0007473,Catheterization,45211043,Repair of aorto-pulmonary window,C0024109,pulmonary,39607008,C0024109,pulmonary,39607008
+1,AgilentB00      ,IN-0045         ,IN,C0007474,Catheterization,45211044,Patent ductus arteriosus ligation,C0013274,Patent ductus arteriosus,83330001,C0013274,Patent ductus arteriosus,83330001
+1,AgilentB00      ,IN-0046         ,IN,C0007475,Catheterization,45211045,Tricuspid repair: annuloplasty,C0190165,annuloplasty,58204008,C0190165,annuloplasty,58204008
+1,AgilentB00      ,IN-0047         ,IN,C0007476,Catheterization,45211046,Tricuspid repair: valvuloplasty,C0043240,repair,18867006,C0043240,repair,18867006
+1,AgilentB00      ,IN-0048         ,IN,C0007477,Catheterization,45211047,Tricuspid valve replacement: bioprosthesis,C0190119,Tricuspid valve replacement,174934003,C0190119,Tricuspid valve replacement,174934003
+1,AgilentB00      ,IN-0049         ,IN,C0007478,Catheterization,45211048,Tricuspid replacement: mechanical prosthesis,C0035139,replacement,3137001,C0035139,replacement,3137001
+1,AgilentB00      ,IN-0050         ,IN,C0007479,Catheterization,45211049,Repair of double chambered RV by excision of muscle bundle,C0504095,muscle bundle,No match,C0504095,muscle bundle,No match
+1,AgilentB00      ,IN-0051         ,IN,C0007480,Catheterization,45211050,Pulmonary Valvotomy,C2707265,Pulmonary,No match,C2707265,Pulmonary,No match
+1,AgilentB00      ,IN-0052         ,IN,C0007481,Catheterization,45211051,Pulmonary Valvectomy,C2707265,Pulmonary,No match,C2707265,Pulmonary,No match
+1,AgilentB00      ,IN-0053         ,IN,C0007482,Catheterization,45211052,Right ventricular outflow patch,C0455844,Right ventricular outflow,250940000,C0455844,Right ventricular outflow,250940000
+1,AgilentB00      ,IN-0054         ,IN,C0007483,Catheterization,45211053,Pulmonary valve replacement with homograft,C0190129,Pulmonary valve replacement,174943007,C0190129,Pulmonary valve replacement,174943007
+1,AgilentB00      ,IN-0055         ,IN,C0007484,Catheterization,45211054,Rastelli (right ventricle to pulmonary artery) conduit,C0034052,pulmonary artery,45341000,C0034052,pulmonary artery,45341000
+1,AgilentB00      ,IN-0056         ,IN,C0007485,Catheterization,45211055,Left ventricle to pulmonary artery conduit,C0034052,pulmonary artery,45341000,C0034052,pulmonary artery,45341000
+1,AgilentB00      ,IN-0057         ,IN,C0007486,Catheterization,45211056,Repair of supravalvar pulmonary stenosis,C0034089,pulmonary stenosis,56786000,C0034089,pulmonary stenosis,56786000
+1,AgilentB00      ,IN-0058         ,IN,C0007487,Catheterization,45211057,Left pulmonary arterioplasty,C2937236,arterioplasty,392245003,C2937236,arterioplasty,392245003
+1,AgilentB00      ,IN-0059         ,IN,C0007488,Catheterization,45211058,Right pulmonary arterioplasty,C2937236,arterioplasty,392245003,C2937236,arterioplasty,392245003
+1,AgilentB00      ,IN-0060         ,IN,C0007489,Catheterization,45211059,Cor triatriatum repair,C0009995,Cor triatriatum,204369003,C0009995,Cor triatriatum,204369003
+1,AgilentB00      ,IN-0061         ,IN,C0007490,Catheterization,45211060,"Resection, supravalvar mitral membrane",C0015252,Resection,315350008,C0015252,Resection,315350008
+1,AgilentB00      ,IN-0062         ,IN,C0007491,Catheterization,45211061,Mitral valve repair: commissurotomy,C0190069,commissurotomy,59469009,C0190069,commissurotomy,59469009
+1,AgilentB00      ,IN-0063         ,IN,C0007492,Catheterization,45211062,Mitral valve repair: closure of cleft,C1269004,Mitral valve,181286006,C1269004,Mitral valve,181286006
+1,AgilentB00      ,IN-0064         ,IN,C0007493,Catheterization,45211063,Mitral valve repair: annuloplasty,C1269004,Mitral valve,181286006,C1269004,Mitral valve,181286006
+1,AgilentB00      ,IN-0065         ,IN,C0007494,Catheterization,45211064,Mitral valve repair: valvuloplasty,C1269004,Mitral valve,181286006,C1269004,Mitral valve,181286006
+1,AgilentB00      ,IN-0066         ,IN,C0007495,Catheterization,45211065,Mitral valve replacement: porcine,C0026268,Mitral valve replacement,174917006,C0026268,Mitral valve replacement,174917006
+1,AgilentB00      ,IN-0067         ,IN,C0007496,Catheterization,45211066,Mitral valve replacement: mechanical prosthesis,C0026268,Mitral valve replacement,174917006,C0026268,Mitral valve replacement,174917006
+1,AgilentB00      ,IN-0068         ,IN,C0007497,Catheterization,45211067,Repair subaortic stenosis: resection of subaortic membrane,C0340375,subaortic stenosis,204368006,C0340375,subaortic stenosis,204368006
+1,AgilentB00      ,IN-0069         ,IN,C0007498,Catheterization,45211068,Repair subaortic stenosis: myomectomy,C0340375,subaortic stenosis,204368006,C0340375,subaortic stenosis,204368006
+1,AgilentB00      ,IN-0070         ,IN,C0007499,Catheterization,45211069,Konno procedure,C0184661,procedure,71388002,C0184661,procedure,71388002
+1,AgilentB00      ,IN-0071         ,IN,C0007500,Catheterization,45211070,Aortic valvotomy,C0190085,Aortic valvotomy,39717005,C0190085,Aortic valvotomy,39717005
+1,AgilentB00      ,IN-0072         ,IN,C0007501,Catheterization,45211071,Aortic valve replacement: homograft,C0003506,Aortic valve replacement,174926009,C0003506,Aortic valve replacement,174926009
+1,AgilentB00      ,IN-0073         ,IN,C0007502,Catheterization,45211072,Aortic valve replacement: mechanical prosthesis,C0003506,Aortic valve replacement,174926009,C0003506,Aortic valve replacement,174926009
+1,AgilentB00      ,IN-0074         ,IN,C0007503,Catheterization,45211073,Ross procedure,C0184661,procedure,71388002,C0184661,procedure,71388002
+1,AgilentB00      ,IN-0075         ,IN,C0007504,Catheterization,45211074,Anomalous left coronary artery repair by reimplantation,C0190211,coronary artery repair,41339005,C0190211,coronary artery repair,41339005
+1,AgilentB00      ,IN-0076         ,IN,C0007505,Catheterization,45211075,Takeuchi repair of anomalous left coronary artery,C1261082,left coronary artery,50018008,C1261082,left coronary artery,50018008
+1,AgilentB00      ,IN-0077         ,IN,C0007506,Catheterization,45211076,Coronary fistula ligation,C0265898,Coronary fistula,373093003,C0265898,Coronary fistula,373093003
+1,AgilentB00      ,IN-0078         ,IN,C0007507,Catheterization,45211077,Coronary artery bypass graft,C0010055,Coronary artery bypass graft,67166004,C0010055,Coronary artery bypass graft,67166004
+1,AgilentB00      ,IN-0079         ,IN,C0007508,Catheterization,45211078,"Doty repair, supravalvar aortic stenosis",C0003499,supravalvar aortic stenosis,268185002,C0003499,supravalvar aortic stenosis,268185002
+1,AgilentB00      ,IN-0080         ,IN,C0007509,Catheterization,45211079,Coarctation repair,C0003492,Coarctation,7305005,C0003492,Coarctation,7305005
+1,AgilentB00      ,IN-0081         ,IN,C0007510,Catheterization,45211080,"Coarctation repair, subclavian flap",C0003492,Coarctation,7305005,C0003492,Coarctation,7305005
+1,AgilentB00      ,IN-0082         ,IN,C0007511,Catheterization,45211081,"Coarctation repair, end to end anastomosis",C0332855,to end anastomosis,257744002,C0332855,to end anastomosis,257744002
+1,AgilentB00      ,IN-0083         ,IN,C0007512,Catheterization,45211082,"Coarctation repair, extended end to end anastomosis",C0332855,to end anastomosis,257744002,C0332855,to end anastomosis,257744002
+1,AgilentB00      ,IN-0084         ,IN,C0007513,Catheterization,45211083,"Coarctation repair, patch aortoplasty",C0003492,Coarctation,7305005,C0003492,Coarctation,7305005
+1,AgilentB00      ,IN-0085         ,IN,C0007514,Catheterization,45211084,"Coarctation repair, tube graft",C0003492,Coarctation,7305005,C0003492,Coarctation,7305005
+1,AgilentB00      ,IN-0086         ,IN,C0007515,Catheterization,45211085,Interrupted aortic arch repair,C0152419,Interrupted aortic arch,218728005,C0152419,Interrupted aortic arch,218728005
+1,AgilentB00      ,IN-0087         ,IN,C0007516,Catheterization,45211086,Vascular ring repair,C0221214,Vascular ring,253659000,C0221214,Vascular ring,253659000
+1,AgilentB00      ,IN-0088         ,IN,C0007517,Catheterization,45211087,Truncus arteriosus repair,C0041207,Truncus arteriosus,204291007,C0041207,Truncus arteriosus,204291007
+1,AgilentB00      ,IN-0089         ,IN,C0007518,Catheterization,45211088,Double outlet right ventricle repair,C0013069,Double outlet right ventricle,7484005,C0013069,Double outlet right ventricle,7484005
+1,AgilentB00      ,IN-0090         ,IN,C0007519,Catheterization,45211089,Senning atrial switch procedure,C0184661,procedure,71388002,C0184661,procedure,71388002
+1,AgilentB00      ,IN-0091         ,IN,C0007520,Catheterization,45211090,Mustard atrial switch procedure,C0184661,procedure,71388002,C0184661,procedure,71388002
+1,AgilentB00      ,IN-0092         ,IN,C0007521,Catheterization,45211091,Jatene arterial switch procedure,C0184661,procedure,71388002,C0184661,procedure,71388002
+1,AgilentB00      ,IN-0093         ,IN,C0007522,Catheterization,45211092,Epicardial pacemaker,C0030163,pacemaker,149206005,C0030163,pacemaker,149206005
+1,AgilentB00      ,IN-0094         ,IN,C0007523,Catheterization,45211093,Pericardectomy,C0031042,Pericardectomy,34646007,C0031042,Pericardectomy,34646007
+1,AgilentB00      ,IN-0095         ,IN,C0007524,Catheterization,45211094,Heart transplantation,C0018823,Heart transplantation,149204008,C0018823,Heart transplantation,149204008
+1,AgilentB00      ,LA-0001         ,LA,C0225860,Left Atrium,82471001,Normal left atrial size,C0225860,left atrium,82471001,C0232357,Normal,45332005
+1,AgilentB00      ,LA-0002         ,LA,C0225861,Left Atrium,82471002,_ left atrial enlargement,C0238705,left atrial enlargement,6.7741E+13,N / A,N / A,N / A
+1,AgilentB00      ,LA-0003         ,LA,C0225862,Left Atrium,82471003,_ left atrium,C0225860,left atrium,82471001,N / A,N / A,N / A
+1,AgilentB00      ,LA-0004         ,LA,C0225863,Left Atrium,82471004,"No evidence of left atrial myxoma, mass or thrombus",C0518959,left atrial myxoma,No match,C0332125,No evidence of,41647002
+1,AgilentB00      ,LA-0005         ,LA,C0225864,Left Atrium,82471005,Left atrial myxoma,C0518959,Left atrial myxoma,No match,N / A,N / A,N / A
+1,AgilentB00      ,LA-0006         ,LA,C0225865,Left Atrium,82471006,Left atrial mass,C0018792,atrial,59652004,C0018792,atrial,59652004
+1,AgilentB00      ,LA-0007         ,LA,C0225866,Left Atrium,82471007,Left atrial thrombus,C3532827,Left atrial thrombus,473360003,C3532827,Left atrial thrombus,473360003
+1,AgilentB00      ,LA-0008         ,LA,C0225867,Left Atrium,82471008,Left atrial catheter,C5566353,Left atrial catheter,1162468008,C5566353,Left atrial catheter,1162468008
+1,AgilentB00      ,LA-0009         ,LA,C0225868,Left Atrium,82471009,Tumor in left atrium,C0225860,left atrium,82471001,C0225860,left atrium,82471001
+1,AgilentB00      ,LA-0010         ,LA,C0225869,Left Atrium,82471010,Spontaneous contrast in left atrium,C0225860,left atrium,82471001,C0225860,left atrium,82471001
+1,AgilentB00      ,LA-0011         ,LA,C0225870,Left Atrium,82471011,Umbilical vein catheter in left atrium,C1280193,Umbilical vein,244409001,C1280193,Umbilical vein,244409001
+1,AgilentB00      ,LA-0012         ,LA,C0225871,Left Atrium,82471012,The left atrium is not well visualized.,C0225860,left atrium,82471001,C0225860,left atrium,82471001
+1,AgilentB00      ,LA-0017         ,LA,C0225872,Left Atrium,82471013,The left atrium is enlarged due to cardiac transplantation.,C0018823,cardiac transplantation,149204008,C0018823,cardiac transplantation,149204008
+1,AgilentB00      ,LA-0021         ,LA,C0225873,Left Atrium,82471014,A thrombus is seen in the left atrium.,C0225860,left atrium,82471001,C0225860,left atrium,82471001
+1,AgilentB00      ,LA-0022         ,LA,C0225874,Left Atrium,82471015,There is a thrombus seen in the left atrial appendage.,C0225832,atrial appendage,68786006,C0225832,atrial appendage,68786006
+1,AgilentB00      ,LA-0024         ,LA,C0225875,Left Atrium,82471016,No thrombus is detected in the left atrial appendage.,C0225832,atrial appendage,68786006,C0225832,atrial appendage,68786006
+1,AgilentB00      ,LA-0025         ,LA,C0225876,Left Atrium,82471017,No left atrial mass or thrombus visualized.,C0087086,thrombus,70281000,C0087086,thrombus,70281000
+1,AgilentB00      ,LV-0001         ,LV,C0225897,Left Ventricle,87878005,Normal left ventricle structure and size,C0225897,left ventricle,87878005,C0225897,left ventricle,87878005
+1,AgilentB00      ,LV-0002         ,LV,C0225898,Left Ventricle,87878006,"Dilated left ventricle, _",C0344911,Dilated left ventricle,253541009,C0344911,Dilated left ventricle,253541009
+1,AgilentB00      ,LV-0003         ,LV,C0225899,Left Ventricle,87878007,Left Ventricle false tendon,C0225897,Left Ventricle,87878005,C0225897,Left Ventricle,87878005
+1,AgilentB00      ,LV-0004         ,LV,C0225900,Left Ventricle,87878008,_ concentric left ventricular hypertrophy,C0149721,left ventricular hypertrophy,55827005,C0149721,left ventricular hypertrophy,55827005
+1,AgilentB00      ,LV-0005         ,LV,C0225901,Left Ventricle,87878009,_ septal wall hypertrophy,C0020564,hypertrophy,56246009,C0020564,hypertrophy,56246009
+1,AgilentB00      ,LV-0006         ,LV,C0225902,Left Ventricle,87878010,Left ventricular hypertrophy: asymmetric with no LVOT obstruction,C3484363,Left ventricular hypertrophy,No match,C3484363,Left ventricular hypertrophy,No match
+1,AgilentB00      ,LV-0007         ,LV,C0225903,Left Ventricle,87878011,Left ventricular hypertrophy: asymmetric with dynamic LVOT obstruction,C3484363,Left ventricular hypertrophy,No match,C3484363,Left ventricular hypertrophy,No match
+1,AgilentB00      ,LV-0008         ,LV,C0225904,Left Ventricle,87878012,_ posterior wall hypertrophy,C0020564,hypertrophy,56246009,C0020564,hypertrophy,56246009
+1,AgilentB00      ,LV-0009         ,LV,C0225905,Left Ventricle,87878013,_ apical hypertrophy,C0020564,hypertrophy,56246009,C0020564,hypertrophy,56246009
+1,AgilentB00      ,LV-0010         ,LV,C0225906,Left Ventricle,87878014,"Hypoplastic left ventricle, _",C3280941,Hypoplastic left ventricle,No match,C3280941,Hypoplastic left ventricle,No match
+1,AgilentB00      ,LV-0011         ,LV,C0225907,Left Ventricle,87878015,Hypoplastic left heart syndrome,C0152101,Hypoplastic left heart syndrome,62067003,C0152101,Hypoplastic left heart syndrome,62067003
+1,AgilentB00      ,LV-0012         ,LV,C0225908,Left Ventricle,87878016,"Cardiomyopathy, dilated congestive",C0007193,"Cardiomyopathy, dilated",399020009,C0007193,"Cardiomyopathy, dilated",399020009
+1,AgilentB00      ,LV-0013         ,LV,C0225909,Left Ventricle,87878017,"Cardiomyopathy, hypertrophic non-obstructive",C0007194,"Cardiomyopathy, hypertrophic",15471000,C0007194,"Cardiomyopathy, hypertrophic",15471000
+1,AgilentB00      ,LV-0014         ,LV,C0225910,Left Ventricle,87878018,"Cardiomyopathy, hypertrophic obstructive",C0007194,"Cardiomyopathy, hypertrophic",15471000,C0007194,"Cardiomyopathy, hypertrophic",15471000
+1,AgilentB00      ,LV-0015         ,LV,C0225911,Left Ventricle,87878019,No evidence of left ventricular mass or tumors,C0455825,left ventricular mass,250925002,C0455825,left ventricular mass,250925002
+1,AgilentB00      ,LV-0016         ,LV,C0225912,Left Ventricle,87878020,Left ventricular tumor,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,LV-0017         ,LV,C0225913,Left Ventricle,87878021,Left ventricular thrombus,C0587044,Left ventricular thrombus,195148001,C0587044,Left ventricular thrombus,195148001
+1,AgilentB00      ,LV-0018         ,LV,C0225914,Left Ventricle,87878022,Left ventricular vegetation,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,LV-0019         ,LV,C0225915,Left Ventricle,87878023,Non-compaction of left ventricle,C0225897,left ventricle,87878005,C0225897,left ventricle,87878005
+1,AgilentB00      ,LV-0020         ,LV,C0225916,Left Ventricle,87878024,Tumor in left ventricle,C0225897,left ventricle,87878005,C0225897,left ventricle,87878005
+1,AgilentB00      ,LV-0021         ,LV,C0225917,Left Ventricle,87878025,Spontaneous contrast in left ventricle,C0225897,left ventricle,87878005,C0225897,left ventricle,87878005
+1,AgilentB00      ,LV-0022         ,LV,C0225918,Left Ventricle,87878026,Endocardial fibroelastosis of left ventricle,C0014117,Endocardial fibroelastosis,65457005,C0014117,Endocardial fibroelastosis,65457005
+1,AgilentB00      ,LV-0023         ,LV,C0225919,Left Ventricle,87878027,Unidentified echodense object on papillary muscle,C0030352,papillary muscle,35054001,C0030352,papillary muscle,35054001
+1,AgilentB00      ,LV-0024         ,LV,C0225920,Left Ventricle,87878028,Normal left ventricular systolic and diastolic function,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,LV-0025         ,LV,C0225921,Left Ventricle,87878029,Normal left ventricular systolic function,C3266756,Normal left ventricular systolic function,1.001E+12,C3266756,Normal left ventricular systolic function,1.001E+12
+1,AgilentB00      ,LV-0026         ,LV,C0225922,Left Ventricle,87878030,Normal left ventricular diastolic function,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,LV-0027         ,LV,C0225923,Left Ventricle,87878031,Hyperdynamic left ventricular function,C5238742,Hyperdynamic,No match,C5238742,Hyperdynamic,No match
+1,AgilentB00      ,LV-0028         ,LV,C0225924,Left Ventricle,87878032,_ decreased left ventricular systolic function,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,LV-0029         ,LV,C0225925,Left Ventricle,87878033,Abnormal left ventricular diastolic function,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,LV-0030         ,LV,C0225926,Left Ventricle,87878034,Normal VCFC/ESWS  relation,C0232357,Normal,45332005,C0232357,Normal,45332005
+1,AgilentB00      ,LV-0031         ,LV,C0225927,Left Ventricle,87878035,VCFC low for ESWS,C1550472,low,No match,C1550472,low,No match
+1,AgilentB00      ,LV-0032         ,LV,C0225928,Left Ventricle,87878036,High ESWS,C3889660,High,No match,C3889660,High,No match
+1,AgilentB00      ,LV-0033         ,LV,C0225929,Left Ventricle,87878037,VCFC high for ESWS,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,LV-0034         ,LV,C0225930,Left Ventricle,87878038,Normal left ventricular wall motion,C0507618,ventricular wall,No match,C0507618,ventricular wall,No match
+1,AgilentB00      ,LV-0035         ,LV,C0225931,Left Ventricle,87878039,Global hypokinesia of the left ventricle,C0225897,left ventricle,87878005,C0225897,left ventricle,87878005
+1,AgilentB00      ,LV-0036         ,LV,C0225932,Left Ventricle,87878040,Normal septal motion,C0232357,Normal,45332005,C0232357,Normal,45332005
+1,AgilentB00      ,LV-0037         ,LV,C0225933,Left Ventricle,87878041,_ septal hypokinesis,C0086439,hypokinesis,43994002,C0086439,hypokinesis,43994002
+1,AgilentB00      ,LV-0038         ,LV,C0225934,Left Ventricle,87878042,Septal akinesis,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,LV-0039         ,LV,C0225935,Left Ventricle,87878043,Septal dyskinesis,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,LV-0040         ,LV,C0225936,Left Ventricle,87878044,Normal posterior wall motion,C0232357,Normal,45332005,C0232357,Normal,45332005
+1,AgilentB00      ,LV-0041         ,LV,C0225937,Left Ventricle,87878045,_ posterior wall hypokinesis,C0086439,hypokinesis,43994002,C0086439,hypokinesis,43994002
+1,AgilentB00      ,LV-0042         ,LV,C0225938,Left Ventricle,87878046,Posterior wall akinesis,C0751438,Posterior,72442006,C0751438,Posterior,72442006
+1,AgilentB00      ,LV-0043         ,LV,C0225939,Left Ventricle,87878047,Posterior wall dyskinesis,C0751438,Posterior,72442006,C0751438,Posterior,72442006
+1,AgilentB00      ,LV-0044         ,LV,C0225940,Left Ventricle,87878048,Normal inferior wall motion,C0232357,Normal,45332005,C0232357,Normal,45332005
+1,AgilentB00      ,LV-0045         ,LV,C0225941,Left Ventricle,87878049,_ inferior wall hypokinesis,C0086439,hypokinesis,43994002,C0086439,hypokinesis,43994002
+1,AgilentB00      ,LV-0046         ,LV,C0225942,Left Ventricle,87878050,Inferior wall akinesis,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,LV-0047         ,LV,C0225943,Left Ventricle,87878051,Inferior wall dyskinesis,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,LV-0048         ,LV,C0225944,Left Ventricle,87878052,Normal apical wall motion,C0232357,Normal,45332005,C0232357,Normal,45332005
+1,AgilentB00      ,LV-0049         ,LV,C0225945,Left Ventricle,87878053,_ apical wall hypokinesis,C0086439,hypokinesis,43994002,C0086439,hypokinesis,43994002
+1,AgilentB00      ,LV-0050         ,LV,C0225946,Left Ventricle,87878054,Apical wall akinesis,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,LV-0051         ,LV,C0225947,Left Ventricle,87878055,Apical wall dyskinesis,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,LV-0052         ,LV,C0225948,Left Ventricle,87878056,Normal lateral wall motion,C0232357,Normal,45332005,C0232357,Normal,45332005
+1,AgilentB00      ,LV-0053         ,LV,C0225949,Left Ventricle,87878057,_ lateral wall hypokinesis,C0086439,hypokinesis,43994002,C0086439,hypokinesis,43994002
+1,AgilentB00      ,LV-0054         ,LV,C0225950,Left Ventricle,87878058,Lateral wall akinesis,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,LV-0055         ,LV,C0225951,Left Ventricle,87878059,Lateral wall dyskinesis,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,LV-0056         ,LV,C0225952,Left Ventricle,87878060,Normal anterior wall motion,C0232357,Normal,45332005,C0232357,Normal,45332005
+1,AgilentB00      ,LV-0057         ,LV,C0225953,Left Ventricle,87878061,_ anterior wall hypokinesis,C0086439,hypokinesis,43994002,C0086439,hypokinesis,43994002
+1,AgilentB00      ,LV-0058         ,LV,C0225954,Left Ventricle,87878062,Anterior wall akinesis,C0751437,Anterior,51742006,C0751437,Anterior,51742006
+1,AgilentB00      ,LV-0059         ,LV,C0225955,Left Ventricle,87878063,Anterior wall dyskinesis,C0751437,Anterior,51742006,C0751437,Anterior,51742006
+1,AgilentB00      ,LV-0065         ,LV,C0225956,Left Ventricle,87878064,There is normal left ventricular wall thickness.,C0507618,ventricular wall,No match,C0507618,ventricular wall,No match
+1,AgilentB00      ,LV-0074         ,LV,C0225957,Left Ventricle,87878065,An intracavitary gradient is suspected.,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,LV-0075         ,LV,C0225958,Left Ventricle,87878066,An intracavitary gradient is present.,C0150312,present,10828004,C0150312,present,10828004
+1,AgilentB00      ,LV-0076         ,LV,C0225959,Left Ventricle,87878067,A mid-cavitary gradient is present.,C0150312,present,10828004,C0150312,present,10828004
+1,AgilentB00      ,LV-0079         ,LV,C0225960,Left Ventricle,87878068,Left ventricular systolic function is low normal.,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,LV-0080         ,LV,C0225961,Left Ventricle,87878069,Left ventricular systolic function is _ reduced.,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,LV-0081         ,LV,C0225962,Left Ventricle,87878070,The left ventricular ejection fraction is grossly normal.,C0042508,ventricular ejection fraction,No match,C0042508,ventricular ejection fraction,No match
+1,AgilentB00      ,LV-0084         ,LV,C0225963,Left Ventricle,87878071,The left ventricle is hyperdynamic.,C0225897,left ventricle,87878005,C0225897,left ventricle,87878005
+1,AgilentB00      ,LV-0085         ,LV,C0225964,Left Ventricle,87878072,"Due to the poor quality of the echocardiogram, an assessment of left ventricular ejection fraction cannot be made.",C0042508,ventricular ejection fraction,No match,C0042508,ventricular ejection fraction,No match
+1,AgilentB00      ,LV-0086         ,LV,C0225965,Left Ventricle,87878073,The transmitral spectral Doppler flow pattern is _.,C0554756,Doppler,252442005,C0554756,Doppler,252442005
+1,AgilentB00      ,LV-0087         ,LV,C0225966,Left Ventricle,87878074,The transmitral spectral Doppler flow pattern is suggestive of _.,C0554756,Doppler,252442005,C0554756,Doppler,252442005
+1,AgilentB00      ,LV-0091         ,LV,C0225967,Left Ventricle,87878075,No regional wall motion abnormalities noted.,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,LV-0117         ,LV,C0225968,Left Ventricle,87878076,There is a no left ventricular aneurysm.,C0519097,left ventricular aneurysm,297160003,C0519097,left ventricular aneurysm,297160003
+1,AgilentB00      ,LV-0118         ,LV,C0225969,Left Ventricle,87878077,There is a _ apical aneurysm.,C0002940,aneurysm,85659009,C0002940,aneurysm,85659009
+1,AgilentB00      ,LV-0119         ,LV,C0225970,Left Ventricle,87878078,A pseudoaneurysm is present.,C1510412,pseudoaneurysm,22036004,C1510412,pseudoaneurysm,22036004
+1,AgilentB00      ,LV-0120         ,LV,C0225971,Left Ventricle,87878079,A basal inferior aneurysm is present.,C0002940,aneurysm,85659009,C0002940,aneurysm,85659009
+1,AgilentB00      ,LV-0121         ,LV,C0225972,Left Ventricle,87878080,A basal posterior aneurysm is present.,C0002940,aneurysm,85659009,C0002940,aneurysm,85659009
+1,AgilentB00      ,LV-0122         ,LV,C0225973,Left Ventricle,87878081,A basal lateral aneurysm is present.,C0002940,aneurysm,85659009,C0002940,aneurysm,85659009
+1,AgilentB00      ,LV-0124         ,LV,C0225974,Left Ventricle,87878082,There is no thrombus.,C0087086,thrombus,70281000,C0087086,thrombus,70281000
+1,AgilentB00      ,LV-0125         ,LV,C0225975,Left Ventricle,87878083,There is a _ apical thrombus.,C0087086,thrombus,70281000,C0087086,thrombus,70281000
+1,AgilentB00      ,LV-0126         ,LV,C0225976,Left Ventricle,87878084,Thrombus can not be excluded.,C0087086,Thrombus,70281000,C0087086,Thrombus,70281000
+1,AgilentB00      ,LV-0131         ,LV,C0225977,Left Ventricle,87878085,A mass is noted in the left ventricle.,C0225897,left ventricle,87878005,C0225897,left ventricle,87878005
+1,AgilentB00      ,MV-0001         ,MV,C0026264,Mitral Valve,91134007,Normal mitral valve,C0026264,mitral valve,91134007,C0026264,mitral valve,91134007
+1,AgilentB00      ,MV-0002         ,MV,C0026265,Mitral Valve,91134008,Large mitral valve annulus,C0026264,mitral valve,91134007,C0026264,mitral valve,91134007
+1,AgilentB00      ,MV-0003         ,MV,C0026266,Mitral Valve,91134009,Mitral valve deformities; unspecified,C1269004,Mitral valve,181286006,C1269004,Mitral valve,181286006
+1,AgilentB00      ,MV-0004         ,MV,C0026267,Mitral Valve,91134010,Mitral valve fails to coapt,C1269004,Mitral valve,181286006,C1269004,Mitral valve,181286006
+1,AgilentB00      ,MV-0005         ,MV,C0026268,Mitral Valve,91134011,No mitral valve prolapse,C0026267,mitral valve prolapse,8074002,C0026267,mitral valve prolapse,8074002
+1,AgilentB00      ,MV-0006         ,MV,C0026269,Mitral Valve,91134012,"_ mitral valve prolapse, anterior leaflet",C0026267,mitral valve prolapse,8074002,C0026267,mitral valve prolapse,8074002
+1,AgilentB00      ,MV-0007         ,MV,C0026270,Mitral Valve,91134013,"_ mitral valve prolapse, posterior leaflet",C0026267,mitral valve prolapse,8074002,C0026267,mitral valve prolapse,8074002
+1,AgilentB00      ,MV-0008         ,MV,C0026271,Mitral Valve,91134014,Ruptured chordae tendineae of mitral valve,C0008484,chordae tendineae,102298001,C0008484,chordae tendineae,102298001
+1,AgilentB00      ,MV-0009         ,MV,C0026272,Mitral Valve,91134015,Hypoplastic mitral valve,C4748959,Hypoplastic mitral valve,No match,C4748959,Hypoplastic mitral valve,No match
+1,AgilentB00      ,MV-0010         ,MV,C0026273,Mitral Valve,91134016,Mitral valve stenosis,C0264766,Mitral valve stenosis,155277002,C0264766,Mitral valve stenosis,155277002
+1,AgilentB00      ,MV-0011         ,MV,C0026274,Mitral Valve,91134017,Small mitral valve annulus,C0026264,mitral valve,91134007,C0026264,mitral valve,91134007
+1,AgilentB00      ,MV-0012         ,MV,C0026275,Mitral Valve,91134018,Thickened mitral valve leaflets,C3807622,Thickened mitral valve leaflets,No match,C3807622,Thickened mitral valve leaflets,No match
+1,AgilentB00      ,MV-0013         ,MV,C0026276,Mitral Valve,91134019,Thickened mitral valve anterior leaflet,C0026264,mitral valve,91134007,C0026264,mitral valve,91134007
+1,AgilentB00      ,MV-0014         ,MV,C0026277,Mitral Valve,91134020,Thickened mitral valve posterior leaflet,C0026264,mitral valve,91134007,C0026264,mitral valve,91134007
+1,AgilentB00      ,MV-0015         ,MV,C0026278,Mitral Valve,91134021,Immobile mitral valve leaflets,C0026264,mitral valve,91134007,C0026264,mitral valve,91134007
+1,AgilentB00      ,MV-0016         ,MV,C0026279,Mitral Valve,91134022,Immobile mitral valve anterior leaflet,C0026264,mitral valve,91134007,C0026264,mitral valve,91134007
+1,AgilentB00      ,MV-0017         ,MV,C0026280,Mitral Valve,91134023,Immobile mitral valve posterior leaflet,C0026264,mitral valve,91134007,C0026264,mitral valve,91134007
+1,AgilentB00      ,MV-0018         ,MV,C0026281,Mitral Valve,91134024,Cleft mitral valve,C0344772,Cleft mitral valve,78495000,C0344772,Cleft mitral valve,78495000
+1,AgilentB00      ,MV-0019         ,MV,C0026282,Mitral Valve,91134025,Parachute mitral valve,C0546965,Parachute mitral valve,82458004,C0546965,Parachute mitral valve,82458004
+1,AgilentB00      ,MV-0020         ,MV,C0026283,Mitral Valve,91134026,Shortened mitral valve chordae,C0026264,mitral valve,91134007,C0026264,mitral valve,91134007
+1,AgilentB00      ,MV-0021         ,MV,C0026284,Mitral Valve,91134027,Thickened mitral valve chordae,C0026264,mitral valve,91134007,C0026264,mitral valve,91134007
+1,AgilentB00      ,MV-0022         ,MV,C0026285,Mitral Valve,91134028,Single papillary muscle,C0030352,papillary muscle,35054001,C0030352,papillary muscle,35054001
+1,AgilentB00      ,MV-0023         ,MV,C0026286,Mitral Valve,91134029,Closely spaced papillary muscle,C0030352,papillary muscle,35054001,C0030352,papillary muscle,35054001
+1,AgilentB00      ,MV-0024         ,MV,C0026287,Mitral Valve,91134030,Double orifice mitral valve,C0344770,Double orifice mitral valve,253402005,C0344770,Double orifice mitral valve,253402005
+1,AgilentB00      ,MV-0025         ,MV,C0026288,Mitral Valve,91134031,Vegetation on mitral valve,C0026264,mitral valve,91134007,C0026264,mitral valve,91134007
+1,AgilentB00      ,MV-0026         ,MV,C0026289,Mitral Valve,91134032,Supravalvar mitral membrane,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,MV-0027         ,MV,C0026290,Mitral Valve,91134033,Mitral valve atresia,C0344760,Mitral valve atresia,23063005,C0344760,Mitral valve atresia,23063005
+1,AgilentB00      ,MV-0028         ,MV,C0026291,Mitral Valve,91134034,Mitral valve prolapse: only with sitting/standing,C0026267,Mitral valve prolapse,8074002,C0026267,Mitral valve prolapse,8074002
+1,AgilentB00      ,MV-0029         ,MV,C0026292,Mitral Valve,91134035,No positional change in mitral valve motion with sitting/standing,C0026264,mitral valve,91134007,C0026264,mitral valve,91134007
+1,AgilentB00      ,MV-0030         ,MV,C0026293,Mitral Valve,91134036,Mitral valve straddle,C1269004,Mitral valve,181286006,C1269004,Mitral valve,181286006
+1,AgilentB00      ,MV-0031         ,MV,C0026294,Mitral Valve,91134037,Mitral valve attachments to ventricular septum,C0225870,ventricular septum,589001,C0225870,ventricular septum,589001
+1,AgilentB00      ,MV-0032         ,MV,C0026295,Mitral Valve,91134038,Mitral valve prosthesis,C0182494,Mitral valve prosthesis,17107009,C0182494,Mitral valve prosthesis,17107009
+1,AgilentB00      ,MV-0033         ,MV,C0026296,Mitral Valve,91134039,Normal mitral valve velocity,C0026264,mitral valve,91134007,C0026264,mitral valve,91134007
+1,AgilentB00      ,MV-0034         ,MV,C0026297,Mitral Valve,91134040,No mitral valve insufficiency,C0026266,mitral valve insufficiency,194977007,C0026266,mitral valve insufficiency,194977007
+1,AgilentB00      ,MV-0035         ,MV,C0026298,Mitral Valve,91134041,Increased mitral valve velocity,C0026264,mitral valve,91134007,C0026264,mitral valve,91134007
+1,AgilentB00      ,MV-0036         ,MV,C0026299,Mitral Valve,91134042,Decreased mitral valve velocity,C0026264,mitral valve,91134007,C0026264,mitral valve,91134007
+1,AgilentB00      ,MV-0037         ,MV,C0026300,Mitral Valve,91134043,_ mean mitral valve gradient,C0026264,mitral valve,91134007,C0026264,mitral valve,91134007
+1,AgilentB00      ,MV-0038         ,MV,C0026301,Mitral Valve,91134044,_ mitral valve insufficiency,C0026266,mitral valve insufficiency,194977007,C0026266,mitral valve insufficiency,194977007
+1,AgilentB00      ,MV-0039         ,MV,C0026302,Mitral Valve,91134045,Normal prosthetic mitral valve gradient,C0182494,prosthetic mitral valve,17107009,C0182494,prosthetic mitral valve,17107009
+1,AgilentB00      ,MV-0040         ,MV,C0026303,Mitral Valve,91134046,_ prosthetic mitral valve stenosis,C0182494,prosthetic mitral valve,17107009,C0182494,prosthetic mitral valve,17107009
+1,AgilentB00      ,MV-0041         ,MV,C0026304,Mitral Valve,91134047,No prosthetic mitral valve insufficiency,C0026266,mitral valve insufficiency,194977007,C0026266,mitral valve insufficiency,194977007
+1,AgilentB00      ,MV-0042         ,MV,C0026305,Mitral Valve,91134048,_ prosthetic mitral valve insufficiency,C0026266,mitral valve insufficiency,194977007,C0026266,mitral valve insufficiency,194977007
+1,AgilentB00      ,MV-0043         ,MV,C0026306,Mitral Valve,91134049,No left sided atrioventricular valve stenosis,C0225924,atrioventricular valve,11124005,C0225924,atrioventricular valve,11124005
+1,AgilentB00      ,MV-0044         ,MV,C0026307,Mitral Valve,91134050,_ left sided atrioventricular valve stenosis,C0225924,atrioventricular valve,11124005,C0225924,atrioventricular valve,11124005
+1,AgilentB00      ,MV-0045         ,MV,C0026308,Mitral Valve,91134051,No left sided atrioventricular valve insufficiency,C0225924,atrioventricular valve,11124005,C0225924,atrioventricular valve,11124005
+1,AgilentB00      ,MV-0046         ,MV,C0026309,Mitral Valve,91134052,_ left sided atrioventricular valve insufficiency,C0225924,atrioventricular valve,11124005,C0225924,atrioventricular valve,11124005
+1,AgilentB00      ,MV-0047         ,MV,C0026310,Mitral Valve,91134053,The mitral valve is not well visualized.,C0026264,mitral valve,91134007,C0026264,mitral valve,91134007
+1,AgilentB00      ,MV-0060         ,MV,C0026311,Mitral Valve,91134054,Perforation of the leaflet(s) is suspected.,C0549099,Perforation,263837003,C0549099,Perforation,263837003
+1,AgilentB00      ,MV-0061         ,MV,C0026312,Mitral Valve,91134055,Perforation of the anterior mitral leaflet is suspected.,C0549099,Perforation,263837003,C0549099,Perforation,263837003
+1,AgilentB00      ,MV-0062         ,MV,C0026313,Mitral Valve,91134056,Perforation of the posterior mitral leaflet is suspected.,C0225951,posterior mitral leaflet,57793009,C0225951,posterior mitral leaflet,57793009
+1,AgilentB00      ,MV-0063         ,MV,C0026314,Mitral Valve,91134057,Perivalvular appearance suggests abscess.,C0000833,abscess,128477000,C0000833,abscess,128477000
+1,AgilentB00      ,MV-0078         ,MV,C0026315,Mitral Valve,91134058,There is _ mitral valve prolapse.,C0026267,mitral valve prolapse,8074002,C0026267,mitral valve prolapse,8074002
+1,AgilentB00      ,MV-0088         ,MV,C0026316,Mitral Valve,91134059,There is no vegetation seen on the mitral valve.,C0026264,mitral valve,91134007,C0026264,mitral valve,91134007
+1,AgilentB00      ,MV-0089         ,MV,C0026317,Mitral Valve,91134060,A vegetation on the mitral valve cannot be excluded.,C0026264,mitral valve,91134007,C0026264,mitral valve,91134007
+1,AgilentB00      ,MV-0090         ,MV,C0026318,Mitral Valve,91134061,There is a _ vegetation or mass on the mitral valve.,C0026264,mitral valve,91134007,C0026264,mitral valve,91134007
+1,AgilentB00      ,MV-0096         ,MV,C0026319,Mitral Valve,91134062,There is no mitral valve stenosis.,C0026269,mitral valve stenosis,194725005,C0026269,mitral valve stenosis,194725005
+1,AgilentB00      ,MV-0097         ,MV,C0026320,Mitral Valve,91134063,No significant mitral valve stenosis.,C0026269,mitral valve stenosis,194725005,C0026269,mitral valve stenosis,194725005
+1,AgilentB00      ,MV-0099         ,MV,C0026321,Mitral Valve,91134064,There is _ mitral stenosis.,C0026269,mitral stenosis,194725005,C0026269,mitral stenosis,194725005
+1,AgilentB00      ,MV-0113         ,MV,C0026322,Mitral Valve,91134065,"The mitral regurgitant jet is posteriorly directed, which is consistent with anterior leaflet pathology.",C0677042,pathology,No match,C0677042,pathology,No match
+1,AgilentB00      ,MV-0114         ,MV,C0026323,Mitral Valve,91134066,"The mitral regurgitant jet is anteriorly directed, which is consistent with posterior leaflet pathology.",C0677042,pathology,No match,C0677042,pathology,No match
+1,AgilentB00      ,MV-0115         ,MV,C0026324,Mitral Valve,91134067,The prosthetic mitral valve is not well visualized.,C0182494,prosthetic mitral valve,17107009,C0182494,prosthetic mitral valve,17107009
+1,AgilentB00      ,MV-0116         ,MV,C0026325,Mitral Valve,91134068,The prosthetic mitral valve is well-seated.,C0182494,prosthetic mitral valve,17107009,C0182494,prosthetic mitral valve,17107009
+1,AgilentB00      ,MV-0117         ,MV,C0026326,Mitral Valve,91134069,There is a _ mitral valve.,C0026264,mitral valve,91134007,C0026264,mitral valve,91134007
+1,AgilentB00      ,MV-0118         ,MV,C0026327,Mitral Valve,91134070,There is a _ mechanical prosthesis.,C0525024,prosthesis,118663006,C0525024,prosthesis,118663006
+1,AgilentB00      ,MV-0119         ,MV,C0026328,Mitral Valve,91134071,The prosthetic mitral valve appears to open well.,C0182494,prosthetic mitral valve,17107009,C0182494,prosthetic mitral valve,17107009
+1,AgilentB00      ,MV-0120         ,MV,C0026329,Mitral Valve,91134072,The opening of the prosthetic mitral valve appears to be limited.,C0182494,prosthetic mitral valve,17107009,C0182494,prosthetic mitral valve,17107009
+1,AgilentB00      ,MV-0121         ,MV,C0026330,Mitral Valve,91134073,The prosthetic mitral valve appears abnormal.,C0182494,prosthetic mitral valve,17107009,C0182494,prosthetic mitral valve,17107009
+1,AgilentB00      ,MV-0122         ,MV,C0026331,Mitral Valve,91134074,Bioprosthesis leaflets are not well visualized.,C0005557,Bioprosthesis,No match,C0005557,Bioprosthesis,No match
+1,AgilentB00      ,MV-0123         ,MV,C0026332,Mitral Valve,91134075,Bioprosthesis leaflets are thin and move normally.,C0005557,Bioprosthesis,No match,C0005557,Bioprosthesis,No match
+1,AgilentB00      ,MV-0124         ,MV,C0026333,Mitral Valve,91134076,Bioprosthesis leaflets are thickened but move well.,C0005557,Bioprosthesis,No match,C0005557,Bioprosthesis,No match
+1,AgilentB00      ,MV-0125         ,MV,C0026334,Mitral Valve,91134077,Bioprosthesis leaflets are thickened and motion is restricted.,C0005557,Bioprosthesis,No match,C0005557,Bioprosthesis,No match
+1,AgilentB00      ,MV-0128         ,MV,C0026335,Mitral Valve,91134078,An annuloplasty ring is noted in the mitral position.,C0179082,annuloplasty ring,705992009,C0179082,annuloplasty ring,705992009
+1,AgilentB00      ,MV-0129         ,MV,C0026336,Mitral Valve,91134079,There is no thrombus on the prosthetic mitral valve.,C0182494,prosthetic mitral valve,17107009,C0182494,prosthetic mitral valve,17107009
+1,AgilentB00      ,MV-0130         ,MV,C0026337,Mitral Valve,91134080,There appears to be a thrombus associated with the prosthetic mitral valve.,C0182494,prosthetic mitral valve,17107009,C0182494,prosthetic mitral valve,17107009
+1,AgilentB00      ,MV-0131         ,MV,C0026338,Mitral Valve,91134081,Abnormal rocking of the prosthetic mitral valve suggests dehiscence.,C0182494,prosthetic mitral valve,17107009,C0182494,prosthetic mitral valve,17107009
+1,AgilentB00      ,MV-0140         ,MV,C0026339,Mitral Valve,91134082,There are no vegetations on this prosthetic mitral valve.,C0182494,prosthetic mitral valve,17107009,C0182494,prosthetic mitral valve,17107009
+1,AgilentB00      ,MV-0141         ,MV,C0026340,Mitral Valve,91134083,Perivalvular appearance suggests abscess.,C0000833,abscess,128477000,C0000833,abscess,128477000
+1,AgilentB00      ,MV-0142         ,MV,C0026341,Mitral Valve,91134084,Vegetations are suspected on this prosthetic mitral valve.,C0182494,prosthetic mitral valve,17107009,C0182494,prosthetic mitral valve,17107009
+1,AgilentB00      ,MV-0143         ,MV,C0026342,Mitral Valve,91134085,Vegetations are present on this prosthetic mitral valve.,C0182494,prosthetic mitral valve,17107009,C0182494,prosthetic mitral valve,17107009
+1,AgilentB00      ,MV-0149         ,MV,C0026343,Mitral Valve,91134086,No systolic anterior motion of the mitral valve.,C0026264,mitral valve,91134007,C0026264,mitral valve,91134007
+1,AgilentB00      ,PA-0001         ,PA,C0034052,Pulmonary Arteries,45341000,Normal pulmonary artery branches,C0034052,pulmonary artery,45341000,C0034052,pulmonary artery,45341000
+1,AgilentB00      ,PA-0002         ,PA,C0034053,Pulmonary Arteries,45341001,Pulmonary arteries not well visualized,C4071789,Pulmonary arteries,No match,C4071789,Pulmonary arteries,No match
+1,AgilentB00      ,PA-0003         ,PA,C0034054,Pulmonary Arteries,45341002,Dilated pulmonary arteries,C2072932,Dilated pulmonary arteries,No match,C2072932,Dilated pulmonary arteries,No match
+1,AgilentB00      ,PA-0004         ,PA,C0034055,Pulmonary Arteries,45341003,Bilateral pulmonary artery branch stenosis,C0034052,pulmonary artery,45341000,C0034052,pulmonary artery,45341000
+1,AgilentB00      ,PA-0005         ,PA,C0034056,Pulmonary Arteries,45341004,Left pulmonary artery branch stenosis,C1282009,Left pulmonary artery branch,314220005,C1282009,Left pulmonary artery branch,314220005
+1,AgilentB00      ,PA-0006         ,PA,C0034057,Pulmonary Arteries,45341005,Right pulmonary artery branch stenosis,C1282008,Right pulmonary artery branch,314219004,C1282008,Right pulmonary artery branch,314219004
+1,AgilentB00      ,PA-0007         ,PA,C0034058,Pulmonary Arteries,45341006,Bilateral pulmonary artery branch hypoplasia,C0034052,pulmonary artery,45341000,C0034052,pulmonary artery,45341000
+1,AgilentB00      ,PA-0008         ,PA,C0034059,Pulmonary Arteries,45341007,Left pulmonary artery branch hypoplasia,C1282009,Left pulmonary artery branch,314220005,C1282009,Left pulmonary artery branch,314220005
+1,AgilentB00      ,PA-0009         ,PA,C0034060,Pulmonary Arteries,45341008,Right pulmonary artery branch hypoplasia,C1282008,Right pulmonary artery branch,314219004,C1282008,Right pulmonary artery branch,314219004
+1,AgilentB00      ,PA-0010         ,PA,C0034061,Pulmonary Arteries,45341009,Continuous pulmonary arteries,C0034052,pulmonary arteries,45341000,C0034052,pulmonary arteries,45341000
+1,AgilentB00      ,PA-0011         ,PA,C0034062,Pulmonary Arteries,45341010,Discontinuous pulmonary arteries,C3164008,Discontinuous pulmonary arteries,447668005,C3164008,Discontinuous pulmonary arteries,447668005
+1,AgilentB00      ,PA-0012         ,PA,C0034063,Pulmonary Arteries,45341011,Diminutive pulmonary arteries,C0034052,pulmonary arteries,45341000,C0034052,pulmonary arteries,45341000
+1,AgilentB00      ,PA-0013         ,PA,C0034064,Pulmonary Arteries,45341012,Aorto-pulmonary collaterals,C0024109,pulmonary,39607008,C0024109,pulmonary,39607008
+1,AgilentB00      ,PA-0014         ,PA,C0034065,Pulmonary Arteries,45341013,Left pulmonary artery isolated from patent ductus arteriosus,C3495549,patent ductus arteriosus,253686000,C3495549,patent ductus arteriosus,253686000
+1,AgilentB00      ,PA-0015         ,PA,C0034066,Pulmonary Arteries,45341014,Stent in main pulmonary artery,C0034052,pulmonary artery,45341000,C0034052,pulmonary artery,45341000
+1,AgilentB00      ,PA-0016         ,PA,C0034067,Pulmonary Arteries,45341015,Stent in left pulmonary artery,C0226069,left pulmonary artery,50408007,C0226069,left pulmonary artery,50408007
+1,AgilentB00      ,PA-0017         ,PA,C0034068,Pulmonary Arteries,45341016,Stent in right pulmonary artery,C0034052,pulmonary artery,45341000,C0034052,pulmonary artery,45341000
+1,AgilentB00      ,PA-0018         ,PA,C0034069,Pulmonary Arteries,45341017,Post stenotic main pulmonary artery dilatation,C0034052,pulmonary artery,45341000,C0034052,pulmonary artery,45341000
+1,AgilentB00      ,PA-0019         ,PA,C0034070,Pulmonary Arteries,45341018,Pulmonary artery sling,C1856123,Pulmonary artery sling,No match,C1856123,Pulmonary artery sling,No match
+1,AgilentB00      ,PA-0020         ,PA,C0034071,Pulmonary Arteries,45341019,Normal pulmonary artery conduit gradient,C0034052,pulmonary artery,45341000,C0034052,pulmonary artery,45341000
+1,AgilentB00      ,PA-0021         ,PA,C0034072,Pulmonary Arteries,45341020,_ pulmonary artery conduit stenosis,C0034052,pulmonary artery,45341000,C0034052,pulmonary artery,45341000
+1,AgilentB00      ,PA-0022         ,PA,C0034073,Pulmonary Arteries,45341021,No pulmonary artery conduit insufficiency,C0034052,pulmonary artery,45341000,C0034052,pulmonary artery,45341000
+1,AgilentB00      ,PA-0023         ,PA,C0034074,Pulmonary Arteries,45341022,_ pulmonary artery conduit insufficiency,C0034052,pulmonary artery,45341000,C0034052,pulmonary artery,45341000
+1,AgilentB00      ,PA-0024         ,PA,C0034075,Pulmonary Arteries,45341023,No right pulmonary artery stenosis,C0238397,pulmonary artery stenosis,95441000,C0238397,pulmonary artery stenosis,95441000
+1,AgilentB00      ,PA-0025         ,PA,C0034076,Pulmonary Arteries,45341024,"Right pulmonary artery branch stenosis, _",C1282008,Right pulmonary artery branch,314219004,C1282008,Right pulmonary artery branch,314219004
+1,AgilentB00      ,PA-0026         ,PA,C0034077,Pulmonary Arteries,45341025,No left pulmonary artery stenosis,C0238397,pulmonary artery stenosis,95441000,C0238397,pulmonary artery stenosis,95441000
+1,AgilentB00      ,PA-0027         ,PA,C0034078,Pulmonary Arteries,45341026,"Left pulmonary artery branch stenosis, _",C1282009,Left pulmonary artery branch,314220005,C1282009,Left pulmonary artery branch,314220005
+1,AgilentB00      ,PE-0001         ,PE,C1278933,Pericardium,181295003,No pericardial effusion,C1253937,pericardial effusion,No match,C1253937,pericardial effusion,No match
+1,AgilentB00      ,PE-0002         ,PE,C1278934,Pericardium,181295004,_ pericardial effusion,C1253937,pericardial effusion,No match,C1253937,pericardial effusion,No match
+1,AgilentB00      ,PE-0003         ,PE,C1278935,Pericardium,181295005,_ anterior pericardial effusion,C1253937,pericardial effusion,No match,C1253937,pericardial effusion,No match
+1,AgilentB00      ,PE-0004         ,PE,C1278936,Pericardium,181295006,_ posterior pericardial effusion,C1253937,pericardial effusion,No match,C1253937,pericardial effusion,No match
+1,AgilentB00      ,PE-0005         ,PE,C1278937,Pericardium,181295007,"RV collapse, consistent with cardiac tamponade",C0007177,cardiac tamponade,155341007,C0007177,cardiac tamponade,155341007
+1,AgilentB00      ,PE-0006         ,PE,C1278938,Pericardium,181295008,No pericardial thickening,C0442031,pericardial,264135001,C0442031,pericardial,264135001
+1,AgilentB00      ,PE-0007         ,PE,C1278939,Pericardium,181295009,_ pericardial thickening,C0442031,pericardial,264135001,C0442031,pericardial,264135001
+1,AgilentB00      ,PE-0008         ,PE,C1278940,Pericardium,181295010,Constrictive pericarditis,C0031048,Constrictive pericarditis,155340008,C0031048,Constrictive pericarditis,155340008
+1,AgilentB00      ,PE-0009         ,PE,C1278941,Pericardium,181295011,Echo guided pericardiocentesis,C0191234,pericardiocentesis,8495002,C0191234,pericardiocentesis,8495002
+1,AgilentB00      ,PE-0010         ,PE,C1278942,Pericardium,181295012,Catheter in pericardial space,C0442031,pericardial,264135001,C0442031,pericardial,264135001
+1,AgilentB00      ,PE-0011         ,PE,C1278943,Pericardium,181295013,No pleural effusion,C1253943,pleural effusion,No match,C1253943,pleural effusion,No match
+1,AgilentB00      ,PE-0012         ,PE,C1278944,Pericardium,181295014,_ right pleural effusion,C1253943,pleural effusion,No match,C1253943,pleural effusion,No match
+1,AgilentB00      ,PE-0013         ,PE,C1278945,Pericardium,181295015,_ left pleural effusion,C1253943,pleural effusion,No match,C1253943,pleural effusion,No match
+1,AgilentB00      ,PE-0014         ,PE,C1278946,Pericardium,181295016,_ bilateral pleural effusion,C0747635,bilateral pleural effusion,425802001,C0747635,bilateral pleural effusion,425802001
+1,AgilentB00      ,PE-0020         ,PE,C1278947,Pericardium,181295017,The pericardial space suggests organizing pericardial effusion.,C1253937,pericardial effusion,No match,C1253937,pericardial effusion,No match
+1,AgilentB00      ,PE-0027         ,PE,C1278948,Pericardium,181295018,The diastolic compression of the right ventricle is suggestive of cardiac tamponade.,C0007177,cardiac tamponade,155341007,C0007177,cardiac tamponade,155341007
+1,AgilentB00      ,PE-0028         ,PE,C1278949,Pericardium,181295019,The diastolic compression of the right atrium is suggestive of cardiac tamponade.,C0007177,cardiac tamponade,155341007,C0007177,cardiac tamponade,155341007
+1,AgilentB00      ,PE-0029         ,PE,C1278950,Pericardium,181295020,The diastolic compression of the right atrium and right ventricle are suggestive of cardiac tamponade.,C0007177,cardiac tamponade,155341007,C0007177,cardiac tamponade,155341007
+1,AgilentB00      ,PE-0030         ,PE,C1278951,Pericardium,181295021,The pericardium appears normal.,C0031050,pericardium,76848001,C0031050,pericardium,76848001
+1,AgilentB00      ,PE-0031         ,PE,C1278952,Pericardium,181295022,The pericardium appears _ thickened.,C0031050,pericardium,76848001,C0031050,pericardium,76848001
+1,AgilentB00      ,PE-0032         ,PE,C1278953,Pericardium,181295023,There is no pericardial constriction.,C0009813,constriction,No match,C0009813,constriction,No match
+1,AgilentB00      ,PE-0033         ,PE,C1278954,Pericardium,181295024,There is evidence for pericardial constriction.,C0009813,constriction,No match,C0009813,constriction,No match
+1,AgilentB00      ,PE-0034         ,PE,C1278955,Pericardium,181295025,There is pericardial constriction.,C0009813,constriction,No match,C0009813,constriction,No match
+1,AgilentB00      ,PE-0035         ,PE,C1278956,Pericardium,181295026,Pericardial fibrinous strands are noted.,C0442031,Pericardial,264135001,C0442031,Pericardial,264135001
+1,AgilentB00      ,PE-0036         ,PE,C1278957,Pericardium,181295027,A hematoma/mass is seen in the pericardial space.,C0442031,pericardial,264135001,C0442031,pericardial,264135001
+1,AgilentB00      ,PE-0037         ,PE,C1278958,Pericardium,181295028,An extra-pericardial mass is suggested.,C0442031,pericardial,264135001,C0442031,pericardial,264135001
+1,AgilentB00      ,PE-0038         ,PE,C1278959,Pericardium,181295029,A loculated pericardial effusion is noted.,C1253937,pericardial effusion,No match,C1253937,pericardial effusion,No match
+1,AgilentB00      ,PE-0039         ,PE,C1278960,Pericardium,181295030,A circumferential pericardial effusion is noted.,C1253937,pericardial effusion,No match,C1253937,pericardial effusion,No match
+1,AgilentB00      ,PE-0040         ,PE,C1278961,Pericardium,181295031,There is no pleural effusion.,C1253943,pleural effusion,No match,C1253943,pleural effusion,No match
+1,AgilentB00      ,PH-0001         ,PH,C0007165,Cardiac Output,82799009,Cardiac output _,C0007165,Cardiac output,142252004,C0007165,Cardiac output,142252004
+1,AgilentB00      ,PH-0002         ,PH,C0007166,Cardiac Output,82799010,Right ventricle systolic pressure estimate normal,C0871470,systolic pressure,72313002,C0871470,systolic pressure,72313002
+1,AgilentB00      ,PH-0003         ,PH,C0007167,Cardiac Output,82799011,Right ventricle systolic pressure estimate _,C0871470,systolic pressure,72313002,C0871470,systolic pressure,72313002
+1,AgilentB00      ,PH-0004         ,PH,C0007168,Cardiac Output,82799012,Mean PA pressure estimate normal,C0460139,pressure,13543005,C0460139,pressure,13543005
+1,AgilentB00      ,PH-0005         ,PH,C0007169,Cardiac Output,82799013,Mean PA pressure estimate _,C0460139,pressure,13543005,C0460139,pressure,13543005
+1,AgilentB00      ,PH-0006         ,PH,C0007170,Cardiac Output,82799014,Pulmonary hypertension,C0020542,Pulmonary hypertension,266293003,C0020542,Pulmonary hypertension,266293003
+1,AgilentB00      ,PH-0007         ,PH,C0007171,Cardiac Output,82799015,"Pulmonary hypertension, newborn (PPHN)",C0020542,Pulmonary hypertension,266293003,C0020542,Pulmonary hypertension,266293003
+1,AgilentB00      ,PH-0008         ,PH,C0007172,Cardiac Output,82799016,Primary pulmonary hypertension,C3203102,Primary pulmonary hypertension,697898008,C3203102,Primary pulmonary hypertension,697898008
+1,AgilentB00      ,PH-0009         ,PH,C0007173,Cardiac Output,82799017,Secondary pulmonary hypertension,C0264936,Secondary pulmonary hypertension,194888002,C0264936,Secondary pulmonary hypertension,194888002
+1,AgilentB00      ,PH-0010         ,PH,C0007174,Cardiac Output,82799018,Normal sinus rhythm,C0232202,Normal sinus rhythm,64730000,C0232202,Normal sinus rhythm,64730000
+1,AgilentB00      ,PH-0011         ,PH,C0007175,Cardiac Output,82799019,Occasional premature atrial contractions,C0033036,premature atrial contractions,60299007,C0033036,premature atrial contractions,60299007
+1,AgilentB00      ,PH-0012         ,PH,C0007176,Cardiac Output,82799020,Frequent premature atrial contractions,C0033036,premature atrial contractions,60299007,C0033036,premature atrial contractions,60299007
+1,AgilentB00      ,PH-0013         ,PH,C0007177,Cardiac Output,82799021,Occasional premature ventricular contractions,C0151636,premature ventricular contraction,17338001,C0151636,premature ventricular contraction,17338001
+1,AgilentB00      ,PH-0014         ,PH,C0007178,Cardiac Output,82799022,Frequent premature ventricular contractions,C0151636,premature ventricular contraction,17338001,C0151636,premature ventricular contraction,17338001
+1,AgilentB00      ,PH-0015         ,PH,C0007179,Cardiac Output,82799023,Sinus bradycardia,C5235162,Sinus bradycardia,No match,C5235162,Sinus bradycardia,No match
+1,AgilentB00      ,PH-0016         ,PH,C0007180,Cardiac Output,82799024,Sinus tachycardia,C1963246,Sinus tachycardia,No match,C1963246,Sinus tachycardia,No match
+1,AgilentB00      ,PH-0017         ,PH,C0007181,Cardiac Output,82799025,Third degree atrioventricular block,C0151517,Third degree atrioventricular block,27885002,C0151517,Third degree atrioventricular block,27885002
+1,AgilentB00      ,PH-0018         ,PH,C0007182,Cardiac Output,82799026,Supraventricular tachycardia,C3815188,Supraventricular tachycardia,No match,C3815188,Supraventricular tachycardia,No match
+1,AgilentB00      ,PH-0019         ,PH,C0007183,Cardiac Output,82799027,Ventricular tachycardia,C0344428,Ventricular tachycardia,142055005,C0344428,Ventricular tachycardia,142055005
+1,AgilentB00      ,PH-0020         ,PH,C0007184,Cardiac Output,82799028,Normal arterial flow,C0429856,arterial flow,252061002,C0429856,arterial flow,252061002
+1,AgilentB00      ,PH-0021         ,PH,C0007185,Cardiac Output,82799029,Abnormal arterial flow,C0429856,arterial flow,252061002,C0429856,arterial flow,252061002
+1,AgilentB00      ,PH-0022         ,PH,C0007186,Cardiac Output,82799030,Normal venous flow,C0232357,Normal,45332005,C0232357,Normal,45332005
+1,AgilentB00      ,PH-0023         ,PH,C0007187,Cardiac Output,82799031,Abnormal venous flow,C0205161,Abnormal,263654008,C0205161,Abnormal,263654008
+1,AgilentB00      ,PH-0024         ,PH,C0007188,Cardiac Output,82799032,Placenta insufficiency - compensated,C1546742,Placenta,No match,C1546742,Placenta,No match
+1,AgilentB00      ,PH-0025         ,PH,C0007189,Cardiac Output,82799033,Placenta insufficiency - uncompensated,C1546742,Placenta,No match,C1546742,Placenta,No match
+1,AgilentB00      ,PO-0001         ,PO,C0042591,Vessel Positions,272735005,Levocardia,C0023569,Levocardia,31420001,C0023569,Levocardia,31420001
+1,AgilentB00      ,PO-0002         ,PO,C0042592,Vessel Positions,272735006,Dextrocardia,C3541877,Dextrocardia,No match,C3541877,Dextrocardia,No match
+1,AgilentB00      ,PO-0003         ,PO,C0042593,Vessel Positions,272735007,Dextroversion,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,PO-0004         ,PO,C0042594,Vessel Positions,272735008,Dextroposition,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,PO-0005         ,PO,C0042595,Vessel Positions,272735009,Mirror Image Dextrocardia,C3541877,Dextrocardia,No match,C3541877,Dextrocardia,No match
+1,AgilentB00      ,PO-0006         ,PO,C0042596,Vessel Positions,272735010,Mesocardia,C0265865,Mesocardia,16567006,C0265865,Mesocardia,16567006
+1,AgilentB00      ,PO-0007         ,PO,C0042597,Vessel Positions,272735011,Ectopia Cordis,C4085199,Ectopia Cordis,No match,C4085199,Ectopia Cordis,No match
+1,AgilentB00      ,PO-0008         ,PO,C0042598,Vessel Positions,272735012,Abdominal situs solitus,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,PO-0009         ,PO,C0042599,Vessel Positions,272735013,Abdominal situs inversus,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,PO-0010         ,PO,C0042600,Vessel Positions,272735014,Abdominal situs ambiguous,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,PO-0011         ,PO,C0042601,Vessel Positions,272735015,Atrial situs solitus,C3164923,Atrial situs solitus,448358007,C3164923,Atrial situs solitus,448358007
+1,AgilentB00      ,PO-0012         ,PO,C0042602,Vessel Positions,272735016,Atrial situs inversus,C4748850,Atrial situs,No match,C4748850,Atrial situs,No match
+1,AgilentB00      ,PO-0013         ,PO,C0042603,Vessel Positions,272735017,Atrial situs ambiguous,C3164429,Atrial situs ambiguous,448681000,C3164429,Atrial situs ambiguous,448681000
+1,AgilentB00      ,PO-0014         ,PO,C0042604,Vessel Positions,272735018,D Ventricular Loop,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,PO-0015         ,PO,C0042605,Vessel Positions,272735019,L Ventricular Loop,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,PO-0016         ,PO,C0042606,Vessel Positions,272735020,X Ventricular Loop,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,PO-0017         ,PO,C0042607,Vessel Positions,272735021,Criss-cross ventricles,C0018827,ventricles,21814001,C0018827,ventricles,21814001
+1,AgilentB00      ,PO-0018         ,PO,C0042608,Vessel Positions,272735022,S Normal position great vessels,C0225991,great vessels,3711007,C0225991,great vessels,3711007
+1,AgilentB00      ,PO-0019         ,PO,C0042609,Vessel Positions,272735023,D Malposition great vessels,C0225991,great vessels,3711007,C0225991,great vessels,3711007
+1,AgilentB00      ,PO-0020         ,PO,C0042610,Vessel Positions,272735024,L Malposition great vessels,C0225991,great vessels,3711007,C0225991,great vessels,3711007
+1,AgilentB00      ,PO-0021         ,PO,C0042611,Vessel Positions,272735025,I Inverted position great vessels,C0225991,great vessels,3711007,C0225991,great vessels,3711007
+1,AgilentB00      ,PO-0022         ,PO,C0042612,Vessel Positions,272735026,Side by side great vessels,C0225991,great vessels,3711007,C0225991,great vessels,3711007
+1,AgilentB00      ,PO-0023         ,PO,C0042613,Vessel Positions,272735027,Aorta directly anterior to pulmonary artery,C0034052,pulmonary artery,45341000,C0034052,pulmonary artery,45341000
+1,AgilentB00      ,PV-0001         ,PV,C0034086,Pulmonary Valve,39057004,Normal pulmonic valve,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0002         ,PV,C0034087,Pulmonary Valve,39057005,Pulmonic valve stenosis,C0034089,Pulmonic valve stenosis,56786000,C0034089,Pulmonic valve stenosis,56786000
+1,AgilentB00      ,PV-0003         ,PV,C0034088,Pulmonary Valve,39057006,Thickened pulmonic valve leaflets,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0004         ,PV,C0034089,Pulmonary Valve,39057007,Doming pulmonic valve leaflets,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0005         ,PV,C0034090,Pulmonary Valve,39057008,Bicommissural pulmonic valve,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0006         ,PV,C0034091,Pulmonary Valve,39057009,Dysplastic pulmonic valve,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0007         ,PV,C0034092,Pulmonary Valve,39057010,Absent pulmonic valve,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0008         ,PV,C0034093,Pulmonary Valve,39057011,Pulmonary atresia,C0265908,Pulmonary atresia,204443008,C0265908,Pulmonary atresia,204443008
+1,AgilentB00      ,PV-0009         ,PV,C0034094,Pulmonary Valve,39057012,Normal pulmonic valve annulus,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0010         ,PV,C0034095,Pulmonary Valve,39057013,Large pulmonic valve annulus,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0011         ,PV,C0034096,Pulmonary Valve,39057014,Small pulmonic valve annulus,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0012         ,PV,C0034097,Pulmonary Valve,39057015,Infundibular pulmonic stenosis,C0034084,Infundibular pulmonic stenosis,3192005,C0034084,Infundibular pulmonic stenosis,3192005
+1,AgilentB00      ,PV-0013         ,PV,C0034098,Pulmonary Valve,39057016,Hypoplastic pulmonary infundibulum,C0175325,infundibulum,424598007,C0175325,infundibulum,424598007
+1,AgilentB00      ,PV-0014         ,PV,C0034099,Pulmonary Valve,39057017,Double chambered right ventricle,C0225883,right ventricle,53085002,C0225883,right ventricle,53085002
+1,AgilentB00      ,PV-0015         ,PV,C0034100,Pulmonary Valve,39057018,Supravalvular pulmonary stenosis,C0034089,pulmonary stenosis,56786000,C0034089,pulmonary stenosis,56786000
+1,AgilentB00      ,PV-0016         ,PV,C0034101,Pulmonary Valve,39057019,Pulmonic valve insufficiency,C0034088,Pulmonic valve insufficiency,91434003,C0034088,Pulmonic valve insufficiency,91434003
+1,AgilentB00      ,PV-0017         ,PV,C0034102,Pulmonary Valve,39057020,Normal pulmonic valve velocity,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0018         ,PV,C0034103,Pulmonary Valve,39057021,No pulmonic valve insufficiency,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0019         ,PV,C0034104,Pulmonary Valve,39057022,Increased pulmonic valve velocity,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0020         ,PV,C0034105,Pulmonary Valve,39057023,Decreased pulmonic valve velocity,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0021         ,PV,C0034106,Pulmonary Valve,39057024,_ peak subpulmonary gradient,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,PV-0022         ,PV,C0034107,Pulmonary Valve,39057025,_ peak pulmonary valve gradient,C0034086,pulmonary valve,39057004,C0034086,pulmonary valve,39057004
+1,AgilentB00      ,PV-0023         ,PV,C0034108,Pulmonary Valve,39057026,_ peak suprapulmonary gradient,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,PV-0024         ,PV,C0034109,Pulmonary Valve,39057027,_ pulmonic valve insufficiency,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0025         ,PV,C0034110,Pulmonary Valve,39057028,The pulmonic valve is not well visualized.,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0030         ,PV,C0034111,Pulmonary Valve,39057029,The pulmonic valve is partially flail.,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0031         ,PV,C0034112,Pulmonary Valve,39057030,There is a flail pulmonic valve leaflet.,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0032         ,PV,C0034113,Pulmonary Valve,39057031,There is no vegetation on the pulmonic valve.,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0033         ,PV,C0034114,Pulmonary Valve,39057032,A pulmonic valvular vegetation cannot be excluded.,C1285498,vegetation,363564008,C1285498,vegetation,363564008
+1,AgilentB00      ,PV-0034         ,PV,C0034115,Pulmonary Valve,39057033,There is a _ vegetation or mass on the pulmonic valve.,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0036         ,PV,C0034116,Pulmonary Valve,39057034,There is _ valvular pulmonic stenosis.,C0034089,valvular pulmonic stenosis,56786000,C0034089,valvular pulmonic stenosis,56786000
+1,AgilentB00      ,PV-0038         ,PV,C0034117,Pulmonary Valve,39057035,Tetralogy of Fallot is present.,C0039685,Tetralogy of Fallot,86299006,C0039685,Tetralogy of Fallot,86299006
+1,AgilentB00      ,PV-0043         ,PV,C0034118,Pulmonary Valve,39057036,The prosthetic pulmonic valve is not well visualized.,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0044         ,PV,C0034119,Pulmonary Valve,39057037,The prosthetic pulmonic valve is well-seated.,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0045         ,PV,C0034120,Pulmonary Valve,39057038,There is a _ pulmonic valve.,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0046         ,PV,C0034121,Pulmonary Valve,39057039,There is a _ pulmonic mechanical prosthesis.,C0525024,prosthesis,118663006,C0525024,prosthesis,118663006
+1,AgilentB00      ,PV-0047         ,PV,C0034122,Pulmonary Valve,39057040,A homograft is present.,C0040739,homograft,50223000,C0040739,homograft,50223000
+1,AgilentB00      ,PV-0048         ,PV,C0034123,Pulmonary Valve,39057041,The prosthetic pulmonic valve appears to open well.,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0049         ,PV,C0034124,Pulmonary Valve,39057042,The opening of the prosthetic pulmonic valve appears to be limited.,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0050         ,PV,C0034125,Pulmonary Valve,39057043,The prosthetic pulmonic valve appears abnormal.,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0051         ,PV,C0034126,Pulmonary Valve,39057044,Abnormal rocking of prosthetic pulmonic valve suggests dehiscence.,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0052         ,PV,C0034127,Pulmonary Valve,39057045,The gradient is normal for this prosthetic pulmonic valve.,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0053         ,PV,C0034128,Pulmonary Valve,39057046,The gradient is abnormal for this prosthetic pulmonic valve.,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0057         ,PV,C0034129,Pulmonary Valve,39057047,There are no vegetations on this prosthetic pulmonic valve.,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0058         ,PV,C0034130,Pulmonary Valve,39057048,Vegetations are suspected on this prosthetic pulmonic valve.,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0059         ,PV,C0034131,Pulmonary Valve,39057049,Vegetations are present on this on this prosthetic pulmonic valve.,C0034086,pulmonic valve,39057004,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,RA-0001         ,RA,C0225844,Right Atrium,73829009,Normal right atrial size,C0232357,Normal,45332005,C0232357,Normal,45332005
+1,AgilentB00      ,RA-0002         ,RA,C0225845,Right Atrium,73829010,_ right atrial enlargement,C0741276,atrial enlargement,No match,C0741276,atrial enlargement,No match
+1,AgilentB00      ,RA-0003         ,RA,C0225846,Right Atrium,73829011,_ right atrium,C0225844,right atrium,73829009,C0225844,right atrium,73829009
+1,AgilentB00      ,RA-0004         ,RA,C0225847,Right Atrium,73829012,Left juxtaposition of right atrial appendage,C0225832,atrial appendage,68786006,C0225832,atrial appendage,68786006
+1,AgilentB00      ,RA-0005         ,RA,C0225848,Right Atrium,73829013,No evidence of right atrial mass/thrombus,C0087086,thrombus,70281000,C0087086,thrombus,70281000
+1,AgilentB00      ,RA-0006         ,RA,C0225849,Right Atrium,73829014,Prominent eustachian valve,C0225848,eustachian valve,61995003,C0225848,eustachian valve,61995003
+1,AgilentB00      ,RA-0007         ,RA,C0225850,Right Atrium,73829015,Chiari network,C0265868,Chiari network,277725008,C0265868,Chiari network,277725008
+1,AgilentB00      ,RA-0008         ,RA,C0225851,Right Atrium,73829016,Cor triatriatum dexter,C0344697,Cor triatriatum dexter,274947007,C0344697,Cor triatriatum dexter,274947007
+1,AgilentB00      ,RA-0009         ,RA,C0225852,Right Atrium,73829017,Right atrial mass,C0018792,atrial,59652004,C0018792,atrial,59652004
+1,AgilentB00      ,RA-0010         ,RA,C0225853,Right Atrium,73829018,Right atrial thrombus,C0748428,Right atrial thrombus,473359008,C0748428,Right atrial thrombus,473359008
+1,AgilentB00      ,RA-0011         ,RA,C0225854,Right Atrium,73829019,Pacer wire in right atrium,C0225844,right atrium,73829009,C0225844,right atrium,73829009
+1,AgilentB00      ,RA-0012         ,RA,C0225855,Right Atrium,73829020,Right atrial catheter,C0085590,catheter,19923001,C0085590,catheter,19923001
+1,AgilentB00      ,RA-0013         ,RA,C0225856,Right Atrium,73829021,Tumor in right atrium,C0225844,right atrium,73829009,C0225844,right atrium,73829009
+1,AgilentB00      ,RA-0014         ,RA,C0225857,Right Atrium,73829022,Spontaneous contrast in right atrium,C0225844,right atrium,73829009,C0225844,right atrium,73829009
+1,AgilentB00      ,RA-0015         ,RA,C0225858,Right Atrium,73829023,Umbilical vein catheter in right atrium,C1280193,Umbilical vein,244409001,C1280193,Umbilical vein,244409001
+1,AgilentB00      ,RA-0016         ,RA,C0225859,Right Atrium,73829024,Right atrium not well visualized.,C1269890,Right atrium,244383003,C1269890,Right atrium,244383003
+1,AgilentB00      ,RA-0019         ,RA,C0225860,Right Atrium,73829025,Borderline right atrial enlargement.,C0741276,atrial enlargement,No match,C0741276,atrial enlargement,No match
+1,AgilentB00      ,RA-0021         ,RA,C0225861,Right Atrium,73829026,The right atrium is enlarged due to cardiac transplantation.,C0018823,cardiac transplantation,149204008,C0018823,cardiac transplantation,149204008
+1,AgilentB00      ,RA-0022         ,RA,C0225862,Right Atrium,73829027,A mass is seen in the right atrium.,C0225844,right atrium,73829009,C0225844,right atrium,73829009
+1,AgilentB00      ,RA-0023         ,RA,C0225863,Right Atrium,73829028,A thrombus is seen in the right atrium.,C0225844,right atrium,73829009,C0225844,right atrium,73829009
+1,AgilentB00      ,RA-0027         ,RA,C0225864,Right Atrium,73829029,A dilated inferior vena cava suggests increased right atrial pressure.,C0456165,right atrial pressure,276755008,C0456165,right atrial pressure,276755008
+1,AgilentB00      ,RA-0029         ,RA,C0225865,Right Atrium,73829030,The coronary sinus is dilated.,C0456944,coronary sinus,90219004,C0456944,coronary sinus,90219004
+1,AgilentB00      ,RA-0031         ,RA,C0225866,Right Atrium,73829031,The inter-atrial septum bows toward the left atrium consistent with high right atrial pressure.,C0456165,right atrial pressure,276755008,C0456165,right atrial pressure,276755008
+1,AgilentB00      ,RV-0001         ,RV,C0225883,Right Ventricle,53085002,Normal right ventricle structure and size,C0225883,right ventricle,53085002,C0225883,right ventricle,53085002
+1,AgilentB00      ,RV-0002         ,RV,C0225884,Right Ventricle,53085003,"Dilated right ventricle, _",C0344893,Dilated right ventricle,253522006,C0344893,Dilated right ventricle,253522006
+1,AgilentB00      ,RV-0003         ,RV,C0225885,Right Ventricle,53085004,"Thickened right ventricle free wall, _",C0225883,right ventricle,53085002,C0225883,right ventricle,53085002
+1,AgilentB00      ,RV-0004         ,RV,C0225886,Right Ventricle,53085005,Hypoplastic right heart syndrome,C0344963,Hypoplastic right heart syndrome,204348000,C0344963,Hypoplastic right heart syndrome,204348000
+1,AgilentB00      ,RV-0005         ,RV,C0225887,Right Ventricle,53085006,Double chambered right ventricle,C0225883,right ventricle,53085002,C0225883,right ventricle,53085002
+1,AgilentB00      ,RV-0006         ,RV,C0225888,Right Ventricle,53085007,Prominent right ventricle muscle bundle,C0225883,right ventricle,53085002,C0225883,right ventricle,53085002
+1,AgilentB00      ,RV-0007         ,RV,C0225889,Right Ventricle,53085008,Right ventricular dysplasia,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,RV-0008         ,RV,C0225890,Right Ventricle,53085009,"Hypoplastic right ventricle, _",C4478244,Hypoplastic right ventricle,No match,C4478244,Hypoplastic right ventricle,No match
+1,AgilentB00      ,RV-0009         ,RV,C0225891,Right Ventricle,53085010,No evidence of right ventricular tumor,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,RV-0010         ,RV,C0225892,Right Ventricle,53085011,Right ventricular tumor,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,RV-0011         ,RV,C0225893,Right Ventricle,53085012,Right ventricular vegetation,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,RV-0012         ,RV,C0225894,Right Ventricle,53085013,Tumor in right ventricle,C0225883,right ventricle,53085002,C0225883,right ventricle,53085002
+1,AgilentB00      ,RV-0013         ,RV,C0225895,Right Ventricle,53085014,Spontaneous contrast in right ventricle,C0225883,right ventricle,53085002,C0225883,right ventricle,53085002
+1,AgilentB00      ,RV-0014         ,RV,C0225896,Right Ventricle,53085015,Endocardial fibroelastosis of right ventricle,C0014117,Endocardial fibroelastosis,65457005,C0014117,Endocardial fibroelastosis,65457005
+1,AgilentB00      ,RV-0015         ,RV,C0225897,Right Ventricle,53085016,Normal right ventricular systolic and diastolic function,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,RV-0016         ,RV,C0225898,Right Ventricle,53085017,Normal right ventricular systolic function,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,RV-0017         ,RV,C0225899,Right Ventricle,53085018,Normal right ventricular diastolic function,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,RV-0018         ,RV,C0225900,Right Ventricle,53085019,Hyperdynamic right ventricular function,C5238742,Hyperdynamic,No match,C5238742,Hyperdynamic,No match
+1,AgilentB00      ,RV-0019         ,RV,C0225901,Right Ventricle,53085020,_ decreased right ventricular systolic function,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,RV-0020         ,RV,C0225902,Right Ventricle,53085021,Abnormal right ventricular diastolic function,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,RV-0021         ,RV,C0225903,Right Ventricle,53085022,Normal right ventricular wall motion,C0507618,ventricular wall,No match,C0507618,ventricular wall,No match
+1,AgilentB00      ,RV-0022         ,RV,C0225904,Right Ventricle,53085023,Global hypokinesia of right ventricle,C0225883,right ventricle,53085002,C0225883,right ventricle,53085002
+1,AgilentB00      ,RV-0023         ,RV,C0225905,Right Ventricle,53085024,_ right ventricular free wall hypokinesia,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,RV-0024         ,RV,C0225906,Right Ventricle,53085025,Right ventricular free wall akinesia,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,RV-0025         ,RV,C0225907,Right Ventricle,53085026,Right ventricular free wall dyskinesia,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,RV-0026         ,RV,C0225908,Right Ventricle,53085027,The right ventricle is not well visualized.,C0225883,right ventricle,53085002,C0225883,right ventricle,53085002
+1,AgilentB00      ,RV-0046         ,RV,C0225909,Right Ventricle,53085028,Aneurysmal dilatation of the RV free wall is suggestive of RV dysplasia.,C0002940,Aneurysmal dilatation,85659009,C0002940,Aneurysmal dilatation,85659009
+1,AgilentB00      ,RV-0048         ,RV,C0225910,Right Ventricle,53085029,There is no mass or thrombus in the right ventricle.,C0225883,right ventricle,53085002,C0225883,right ventricle,53085002
+1,AgilentB00      ,RV-0049         ,RV,C0225911,Right Ventricle,53085030,There is a thrombus in the right ventricle.,C0225883,right ventricle,53085002,C0225883,right ventricle,53085002
+1,AgilentB00      ,RV-0050         ,RV,C0225912,Right Ventricle,53085031,There is a mass in the right ventricle.,C0225883,right ventricle,53085002,C0225883,right ventricle,53085002
+1,AgilentB00      ,RV-0053         ,RV,C0225913,Right Ventricle,53085032,There is a catheter in the right ventricle.,C0225883,right ventricle,53085002,C0225883,right ventricle,53085002
+1,AgilentB00      ,SH-0001         ,SH,C0018792,Atrial,59652004,No left ventricular to right atrial shunt,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,SH-0002         ,SH,C0018793,Atrial,59652005,"Left ventricular to right atrium shunt, _",C0225844,right atrium,73829009,C0225844,right atrium,73829009
+1,AgilentB00      ,SH-0003         ,SH,C0018794,Atrial,59652006,No atrial shunt,C0018792,atrial,59652004,C0018792,atrial,59652004
+1,AgilentB00      ,SH-0004         ,SH,C0018795,Atrial,59652007,"Left to right atrial shunt, _",C0018792,atrial,59652004,C0018792,atrial,59652004
+1,AgilentB00      ,SH-0005         ,SH,C0018796,Atrial,59652008,"Right to left atrial shunt, _",C0018792,atrial,59652004,C0018792,atrial,59652004
+1,AgilentB00      ,SH-0006         ,SH,C0018797,Atrial,59652009,Atrial bi-directional shunt,C0018792,Atrial,59652004,C0018792,Atrial,59652004
+1,AgilentB00      ,SH-0007         ,SH,C0018798,Atrial,59652010,Contrast injection shows no right to left atrial shunt,C0021485,injection,69928007,C0021485,injection,69928007
+1,AgilentB00      ,SH-0008         ,SH,C0018799,Atrial,59652011,Contrast injection shows  right to left atrial shunt,C0021485,injection,69928007,C0021485,injection,69928007
+1,AgilentB00      ,SH-0009         ,SH,C0018800,Atrial,59652012,Contrast injection shows  left to right atrial shunt,C0021485,injection,69928007,C0021485,injection,69928007
+1,AgilentB00      ,SH-0010         ,SH,C0018801,Atrial,59652013,Normal fetal right to left atrial shunt,C0232357,Normal,45332005,C0232357,Normal,45332005
+1,AgilentB00      ,SH-0011         ,SH,C0018802,Atrial,59652014,No fontan baffle leak,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,SH-0012         ,SH,C0018803,Atrial,59652015,_ fontan baffle leak,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,SH-0013         ,SH,C0018804,Atrial,59652016,No venous baffle leak,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,SH-0014         ,SH,C0018805,Atrial,59652017,_ venous baffle leak,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,SH-0015         ,SH,C0018806,Atrial,59652018,No ventricular shunt,C0728823,ventricular shunt,258593008,C0728823,ventricular shunt,258593008
+1,AgilentB00      ,SH-0016         ,SH,C0018807,Atrial,59652019,"Left to right ventricular shunt, _",C0728823,ventricular shunt,258593008,C0728823,ventricular shunt,258593008
+1,AgilentB00      ,SH-0017         ,SH,C0018808,Atrial,59652020,"Right to left ventricular shunt, _",C0728823,ventricular shunt,258593008,C0728823,ventricular shunt,258593008
+1,AgilentB00      ,SH-0018         ,SH,C0018809,Atrial,59652021,Ventricular bi-directional shunt,C0542331,shunt,257351008,C0542331,shunt,257351008
+1,AgilentB00      ,SH-0019         ,SH,C0018810,Atrial,59652022,No residual ventricular septal defect shunt,C0018818,ventricular septal defect,156914003,C0018818,ventricular septal defect,156914003
+1,AgilentB00      ,SH-0020         ,SH,C0018811,Atrial,59652023,"Residual left to right ventricular septal defect shunt, _",C0018818,ventricular septal defect,156914003,C0018818,ventricular septal defect,156914003
+1,AgilentB00      ,SH-0021         ,SH,C0018812,Atrial,59652024,No patent ductus arteriosus detected,C3495549,patent ductus arteriosus,253686000,C3495549,patent ductus arteriosus,253686000
+1,AgilentB00      ,SH-0022         ,SH,C0018813,Atrial,59652025,"Patent ductus arteriosus, left to right shunt, _",C0013274,Patent ductus arteriosus,83330001,C0013274,Patent ductus arteriosus,83330001
+1,AgilentB00      ,SH-0023         ,SH,C0018814,Atrial,59652026,"Patent ductus arteriosus, right to left shunt, _",C0013274,Patent ductus arteriosus,83330001,C0013274,Patent ductus arteriosus,83330001
+1,AgilentB00      ,SH-0024         ,SH,C0018815,Atrial,59652027,"Patent ductus arteriosus, bi-directional shunt",C0013274,Patent ductus arteriosus,83330001,C0013274,Patent ductus arteriosus,83330001
+1,AgilentB00      ,SH-0025         ,SH,C0018816,Atrial,59652028,"Patent ductus arteriosus, bi-directional shunt, right to left in systole",C0013274,Patent ductus arteriosus,83330001,C0013274,Patent ductus arteriosus,83330001
+1,AgilentB00      ,SH-0026         ,SH,C0018817,Atrial,59652029,Patent aorto-pulmonary shunt,C0024109,pulmonary,39607008,C0024109,pulmonary,39607008
+1,AgilentB00      ,SH-0027         ,SH,C0018818,Atrial,59652030,Normal fetal right to left patent ductus arteriousus shunt,C0232357,Normal,45332005,C0232357,Normal,45332005
+1,AgilentB00      ,SH-0028         ,SH,C0018819,Atrial,59652031,"Collateral, left to right shunt",C0428870,left to right shunt,66130006,C0428870,left to right shunt,66130006
+1,AgilentB00      ,SU-0001         ,SU,C0242482,Summary report,371534008,No cardiac disease identified,C0018799,cardiac disease,56265001,C0018799,cardiac disease,56265001
+1,AgilentB00      ,SU-0002         ,SU,C0242483,Summary report,371534009,Normal echocardiogram for age,C0013516,echocardiogram,40701008,C0013516,echocardiogram,40701008
+1,AgilentB00      ,SU-0003         ,SU,C0242484,Summary report,371534010,Normal fetal echocardiogram,C0013516,echocardiogram,40701008,C0013516,echocardiogram,40701008
+1,AgilentB00      ,SU-0004         ,SU,C0242485,Summary report,371534011,No significant change from last echocardiogram,C0013516,echocardiogram,40701008,C0013516,echocardiogram,40701008
+1,AgilentB00      ,SU-0005         ,SU,C0242486,Summary report,371534012,Significant change from last echocardiogram,C0013516,echocardiogram,40701008,C0013516,echocardiogram,40701008
+1,AgilentB00      ,SU-0006         ,SU,C0242487,Summary report,371534013,"Technically difficult, suboptimal study",C0332218,difficult,401335003,C0332218,difficult,401335003
+1,AgilentB00      ,SU-0007         ,SU,C0242488,Summary report,371534014,Limited study,C2674459,Limited,No match,C2674459,Limited,No match
+1,AgilentB00      ,SU-0008         ,SU,C0242489,Summary report,371534015,Recommend sedated study,C0235195,sedated,17971005,C0235195,sedated,17971005
+1,AgilentB00      ,SU-0009         ,SU,C0242490,Summary report,371534016,Extra-corporeal membrane oxygenation,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,SU-0010         ,SU,C0242491,Summary report,371534017,Echocardiography guided endomyocardial biopsy,C0013516,Echocardiography,40701008,C0013516,Echocardiography,40701008
+1,AgilentB00      ,SU-0011         ,SU,C0242492,Summary report,371534018,Echocardiography guided pericardiocentesis,C0191234,pericardiocentesis,8495002,C0191234,pericardiocentesis,8495002
+1,AgilentB00      ,SU-0012         ,SU,C0242493,Summary report,371534019,Telemedicine report confirmed,C0162648,Telemedicine,No match,C0162648,Telemedicine,No match
+1,AgilentB00      ,SU-0016         ,SU,C0242494,Summary report,371534020,Normal fetal echocardiogram.,C0013516,echocardiogram,40701008,C0013516,echocardiogram,40701008
+1,AgilentB00      ,SU-0019         ,SU,C0242495,Summary report,371534021,Sedated echo.,C0235195,Sedated,17971005,C0235195,Sedated,17971005
+1,AgilentB00      ,SV-0001         ,SV,C0152424,Common ventricle,45503006,"Single ventricle, unspecified ventricular morphology",C0152424,Single ventricle,45503006,C0152424,Single ventricle,45503006
+1,AgilentB00      ,SV-0002         ,SV,C0152425,Common ventricle,45503007,"Single ventricle, double inlet left ventricle",C0344622,double inlet left ventricle,253283000,C0344622,double inlet left ventricle,253283000
+1,AgilentB00      ,SV-0003         ,SV,C0152426,Common ventricle,45503008,"Single ventricle, double inlet right ventricle",C0152424,Single ventricle,45503006,C0152424,Single ventricle,45503006
+1,AgilentB00      ,SV-0004         ,SV,C0152427,Common ventricle,45503009,"Single ventricle, right ventricle morphology",C0152424,Single ventricle,45503006,C0152424,Single ventricle,45503006
+1,AgilentB00      ,SV-0005         ,SV,C0152428,Common ventricle,45503010,"Single ventricle, left ventricle morphology",C0152424,Single ventricle,45503006,C0152424,Single ventricle,45503006
+1,AgilentB00      ,SV-0006         ,SV,C0152429,Common ventricle,45503011,Normal single ventricular systolic and diastolic function,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,SV-0007         ,SV,C0152430,Common ventricle,45503012,Normal single ventricular systolic function,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,SV-0008         ,SV,C0152431,Common ventricle,45503013,Normal single ventricular diastolic function,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,SV-0009         ,SV,C0152432,Common ventricle,45503014,Hyperdynamic single ventricular function,C5238742,Hyperdynamic,No match,C5238742,Hyperdynamic,No match
+1,AgilentB00      ,SV-0010         ,SV,C0152433,Common ventricle,45503015,_ decreased single ventricular systolic function,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,SV-0011         ,SV,C0152434,Common ventricle,45503016,Abnormal single ventricular diastolic function,C0018827,ventricular,21814001,C0018827,ventricular,21814001
+1,AgilentB00      ,SV-0012         ,SV,C0152435,Common ventricle,45503017,Normal single ventricle wall motion,C0152424,single ventricle,45503006,C0152424,single ventricle,45503006
+1,AgilentB00      ,SV-0013         ,SV,C0152436,Common ventricle,45503018,Segmental wall motion abnormality,C0807885,Segmental wall motion,No match,C0807885,Segmental wall motion,No match
+1,AgilentB00      ,TV-0001         ,TV,C0040960,Tricuspid Valve,46030003,Normal tricuspid valve,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0002         ,TV,C0040961,Tricuspid Valve,46030004,Small tricuspid valve annulus,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0003         ,TV,C0040962,Tricuspid Valve,46030005,Large tricuspid valve annulus,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0004         ,TV,C0040963,Tricuspid Valve,46030006,Tricuspid valve fails to coapt,C1269006,Tricuspid valve,181288007,C1269006,Tricuspid valve,181288007
+1,AgilentB00      ,TV-0005         ,TV,C0040964,Tricuspid Valve,46030007,Tricuspid valve deformities; unspecified,C1269006,Tricuspid valve,181288007,C1269006,Tricuspid valve,181288007
+1,AgilentB00      ,TV-0006         ,TV,C0040965,Tricuspid Valve,46030008,Tricuspid valve stenosis,C0040963,Tricuspid valve stenosis,155346002,C0040963,Tricuspid valve stenosis,155346002
+1,AgilentB00      ,TV-0007         ,TV,C0040966,Tricuspid Valve,46030009,Thickened tricuspid valve leaflet,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0008         ,TV,C0040967,Tricuspid Valve,46030010,Shortened tricuspid valve chordae,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0009         ,TV,C0040968,Tricuspid Valve,46030011,"Ebstein's Anomaly of tricuspid valve, _",C0013481,Ebstein's Anomaly,204357006,C0013481,Ebstein's Anomaly,204357006
+1,AgilentB00      ,TV-0010         ,TV,C0040969,Tricuspid Valve,46030012,Hypoplastic tricuspid valve,C0265837,Hypoplastic tricuspid valve,43176009,C0265837,Hypoplastic tricuspid valve,43176009
+1,AgilentB00      ,TV-0011         ,TV,C0040970,Tricuspid Valve,46030013,Flail tricuspid valve,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0012         ,TV,C0040971,Tricuspid Valve,46030014,Vegetation on tricuspid valve leaflet(s),C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0013         ,TV,C0040972,Tricuspid Valve,46030015,Tricuspid valve aneurysm,C1269006,Tricuspid valve,181288007,C1269006,Tricuspid valve,181288007
+1,AgilentB00      ,TV-0014         ,TV,C0040973,Tricuspid Valve,46030016,_ tricuspid valve prolapse,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0015         ,TV,C0040974,Tricuspid Valve,46030017,Tricuspid valve atresia,C0243002,Tricuspid valve atresia,204355003,C0243002,Tricuspid valve atresia,204355003
+1,AgilentB00      ,TV-0016         ,TV,C0040975,Tricuspid Valve,46030018,Tricuspid valve straddle,C1269006,Tricuspid valve,181288007,C1269006,Tricuspid valve,181288007
+1,AgilentB00      ,TV-0017         ,TV,C0040976,Tricuspid Valve,46030019,Tricuspid valve attachments to ventricular septum,C0225870,ventricular septum,589001,C0225870,ventricular septum,589001
+1,AgilentB00      ,TV-0018         ,TV,C0040977,Tricuspid Valve,46030020,Normal tricuspid valve velocity,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0019         ,TV,C0040978,Tricuspid Valve,46030021,No tricuspid valve insufficiency,C0040961,tricuspid valve insufficiency,155347006,C0040961,tricuspid valve insufficiency,155347006
+1,AgilentB00      ,TV-0020         ,TV,C0040979,Tricuspid Valve,46030022,Increased tricuspid valve velocity,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0021         ,TV,C0040980,Tricuspid Valve,46030023,Decreased tricuspid valve velocity,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0022         ,TV,C0040981,Tricuspid Valve,46030024,_ mean tricuspid valve gradient,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0023         ,TV,C0040982,Tricuspid Valve,46030025,_ tricuspid valve insufficiency,C0040961,tricuspid valve insufficiency,155347006,C0040961,tricuspid valve insufficiency,155347006
+1,AgilentB00      ,TV-0024         ,TV,C0040983,Tricuspid Valve,46030026,Normal prosthetic tricuspid valve gradient,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0025         ,TV,C0040984,Tricuspid Valve,46030027,_ prosthetic tricuspid valve stenosis,C0040963,tricuspid valve stenosis,155346002,C0040963,tricuspid valve stenosis,155346002
+1,AgilentB00      ,TV-0026         ,TV,C0040985,Tricuspid Valve,46030028,No prosthetic tricuspid valve insufficiency,C0040961,tricuspid valve insufficiency,155347006,C0040961,tricuspid valve insufficiency,155347006
+1,AgilentB00      ,TV-0027         ,TV,C0040986,Tricuspid Valve,46030029,_ prosthetic tricuspid valve insufficiency,C0040961,tricuspid valve insufficiency,155347006,C0040961,tricuspid valve insufficiency,155347006
+1,AgilentB00      ,TV-0028         ,TV,C0040987,Tricuspid Valve,46030030,No right sided atrioventricular valve stenosis,C0225924,atrioventricular valve,11124005,C0225924,atrioventricular valve,11124005
+1,AgilentB00      ,TV-0029         ,TV,C0040988,Tricuspid Valve,46030031,_ right sided atrioventricular valve stenosis,C0225924,atrioventricular valve,11124005,C0225924,atrioventricular valve,11124005
+1,AgilentB00      ,TV-0030         ,TV,C0040989,Tricuspid Valve,46030032,No right sided atrioventricular valve insufficiency,C0225924,atrioventricular valve,11124005,C0225924,atrioventricular valve,11124005
+1,AgilentB00      ,TV-0031         ,TV,C0040990,Tricuspid Valve,46030033,_ right sided atrioventricular valve insufficiency,C0225924,atrioventricular valve,11124005,C0225924,atrioventricular valve,11124005
+1,AgilentB00      ,TV-0033         ,TV,C0040991,Tricuspid Valve,46030034,Moderate right sided atrioventricular valve insufficiency,C0225924,atrioventricular valve,11124005,C0225924,atrioventricular valve,11124005
+1,AgilentB00      ,TV-0035         ,TV,C0040992,Tricuspid Valve,46030035,The tricuspid valve is not well visualized.,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0036         ,TV,C0040993,Tricuspid Valve,46030036,"The tricuspid valve is not well visualized, but is grossly normal.",C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0038         ,TV,C0040994,Tricuspid Valve,46030037,The tricuspid valve is normal in structure and function.,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0039         ,TV,C0040995,Tricuspid Valve,46030038,"The tricuspid valve leaflets are thickened and/or calcified, but open well.",C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0040         ,TV,C0040996,Tricuspid Valve,46030039,Tricuspid leaflets are thickened.,C0205400,thickened,82806002,C0205400,thickened,82806002
+1,AgilentB00      ,TV-0041         ,TV,C0040997,Tricuspid Valve,46030040,The septal leaflet is thickened.,C0205400,thickened,82806002,C0205400,thickened,82806002
+1,AgilentB00      ,TV-0042         ,TV,C0040998,Tricuspid Valve,46030041,The anterior leaflet is thickened.,C0205400,thickened,82806002,C0205400,thickened,82806002
+1,AgilentB00      ,TV-0043         ,TV,C0040999,Tricuspid Valve,46030042,The non-septal leaflet is thickened.,C0205400,thickened,82806002,C0205400,thickened,82806002
+1,AgilentB00      ,TV-0044         ,TV,C0041000,Tricuspid Valve,46030043,Apical leaflet displacement raises possibility of Ebstein's anomaly.,C3665607,Ebstein's anomaly,253443005,C3665607,Ebstein's anomaly,253443005
+1,AgilentB00      ,TV-0045         ,TV,C0041001,Tricuspid Valve,46030044,Valvular appearance consistent with carcinoid heart disease.,C0018799,heart disease,56265001,C0018799,heart disease,56265001
+1,AgilentB00      ,TV-0046         ,TV,C0041002,Tricuspid Valve,46030045,There is a ruptured tricuspid valve chordae with a flail free wall leaflet.,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0047         ,TV,C0041003,Tricuspid Valve,46030046,There is a ruptured tricuspid valve chordae with a flail septal leaflet.,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0048         ,TV,C0041004,Tricuspid Valve,46030047,Highly mobile mass consistent with a torn chordae is present.,C0150312,present,10828004,C0150312,present,10828004
+1,AgilentB00      ,TV-0049         ,TV,C0041005,Tricuspid Valve,46030048,There is a partially flail tricuspid valve leaflet.,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0050         ,TV,C0041006,Tricuspid Valve,46030049,The tricuspid valve is flail.,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0053         ,TV,C0041007,Tricuspid Valve,46030050,There is no tricuspid valve prolapse.,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0054         ,TV,C0041008,Tricuspid Valve,46030051,Tricuspid valve prolapse cannot be excluded.,C0040962,Tricuspid valve prolapse,253383003,C0040962,Tricuspid valve prolapse,253383003
+1,AgilentB00      ,TV-0055         ,TV,C0041009,Tricuspid Valve,46030052,There is _ tricuspid valve prolapse.,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0057         ,TV,C0041010,Tricuspid Valve,46030053,"The tricuspid valve leaflets appear thickened, hooded, and/or redundant, consistent with myxomatous degeneration.",C0333451,myxomatous degeneration,9831005,C0333451,myxomatous degeneration,9831005
+1,AgilentB00      ,TV-0058         ,TV,C0041011,Tricuspid Valve,46030054,There is no tricuspid valve vegetation.,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0059         ,TV,C0041012,Tricuspid Valve,46030055,A tricuspid valve vegetation cannot be excluded.,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0060         ,TV,C0041013,Tricuspid Valve,46030056,There is a small vegetation or mass on the tricuspid valve.,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0061         ,TV,C0041014,Tricuspid Valve,46030057,There is a _ vegetation or mass on the tricuspid valve.,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0062         ,TV,C0041015,Tricuspid Valve,46030058,There is no tricuspid stenosis.,C0040963,tricuspid stenosis,155346002,C0040963,tricuspid stenosis,155346002
+1,AgilentB00      ,TV-0063         ,TV,C0041016,Tricuspid Valve,46030059,No significant tricuspid stenosis.,C0040963,tricuspid stenosis,155346002,C0040963,tricuspid stenosis,155346002
+1,AgilentB00      ,TV-0066         ,TV,C0041017,Tricuspid Valve,46030060,There is doming of the tricuspid valve leaflets.,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0067         ,TV,C0041018,Tricuspid Valve,46030061,There is _ tricuspid stenosis.,C0040963,tricuspid stenosis,155346002,C0040963,tricuspid stenosis,155346002
+1,AgilentB00      ,TV-0070         ,TV,C0041019,Tricuspid Valve,46030062,The prosthetic tricuspid valve is not well visualized.,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0071         ,TV,C0041020,Tricuspid Valve,46030063,There is a _ tricuspid valve.,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0072         ,TV,C0041021,Tricuspid Valve,46030064,There is a _ mechanical tricuspid prosthesis.,C0525024,prosthesis,118663006,C0525024,prosthesis,118663006
+1,AgilentB00      ,TV-0073         ,TV,C0041022,Tricuspid Valve,46030065,The prosthetic tricuspid valve is well-seated.,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0074         ,TV,C0041023,Tricuspid Valve,46030066,The prosthetic tricuspid valve appears to open well.,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0075         ,TV,C0041024,Tricuspid Valve,46030067,The opening of the prosthetic tricuspid valve appears limited.,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0076         ,TV,C0041025,Tricuspid Valve,46030068,The prosthetic tricuspid valve appears abnormal.,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0077         ,TV,C0041026,Tricuspid Valve,46030069,Bioprosthesis leaflets are not well visualized.,C0005557,Bioprosthesis,No match,C0005557,Bioprosthesis,No match
+1,AgilentB00      ,TV-0078         ,TV,C0041027,Tricuspid Valve,46030070,Bioprosthesis leaflets are thin and move normally.,C0005557,Bioprosthesis,No match,C0005557,Bioprosthesis,No match
+1,AgilentB00      ,TV-0079         ,TV,C0041028,Tricuspid Valve,46030071,Bioprosthesis leaflets are thickened but move well.,C0005557,Bioprosthesis,No match,C0005557,Bioprosthesis,No match
+1,AgilentB00      ,TV-0080         ,TV,C0041029,Tricuspid Valve,46030072,Bioprosthesis leaflets are thickened and motion is restricted.,C0005557,Bioprosthesis,No match,C0005557,Bioprosthesis,No match
+1,AgilentB00      ,TV-0083         ,TV,C0041030,Tricuspid Valve,46030073,An annuloplasty ring is noted in the tricuspid position.,C0179082,annuloplasty ring,705992009,C0179082,annuloplasty ring,705992009
+1,AgilentB00      ,TV-0084         ,TV,C0041031,Tricuspid Valve,46030074,There is no thrombus on the prosthetic tricuspid valve.,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0085         ,TV,C0041032,Tricuspid Valve,46030075,There appears to be a thrombus associated with the prosthetic tricuspid valve.,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0086         ,TV,C0041033,Tricuspid Valve,46030076,Abnormal rocking of prosthetic tricuspid valve suggests dehiscence.,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0094         ,TV,C0041034,Tricuspid Valve,46030077,There are no vegetations on this prosthetic tricuspid valve.,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0095         ,TV,C0041035,Tricuspid Valve,46030078,Vegetations are suspected on this prosthetic tricuspid valve.,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0096         ,TV,C0041036,Tricuspid Valve,46030079,Vegetations are present on this prosthetic tricuspid valve.,C0040960,tricuspid valve,46030003,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,VE-0001         ,VE,C0034090,Pulmonary Veins,122972007,Normal systemic venous drainage,C0678862,venous drainage,No match,C0678862,venous drainage,No match
+1,AgilentB00      ,VE-0002         ,VE,C0034091,Pulmonary Veins,122972008,Persistent left superior vena cava into left atrium,C0265931,Persistent left superior vena cava,77978002,C0265931,Persistent left superior vena cava,77978002
+1,AgilentB00      ,VE-0003         ,VE,C0034092,Pulmonary Veins,122972009,Persistent left superior vena cava into coronary sinus,C0265931,Persistent left superior vena cava,77978002,C0265931,Persistent left superior vena cava,77978002
+1,AgilentB00      ,VE-0004         ,VE,C0034093,Pulmonary Veins,122972010,Right superior vena cava into left atrium,C2733597,Right superior vena cava,443444008,C2733597,Right superior vena cava,443444008
+1,AgilentB00      ,VE-0005         ,VE,C0034094,Pulmonary Veins,122972011,Absent right superior vena cava,C0344656,Absent right superior vena cava,253308005,C0344656,Absent right superior vena cava,253308005
+1,AgilentB00      ,VE-0006         ,VE,C0034095,Pulmonary Veins,122972012,Bilateral superior vena cavae,C0344659,Bilateral superior vena cava,253311006,C0344659,Bilateral superior vena cava,253311006
+1,AgilentB00      ,VE-0007         ,VE,C0034096,Pulmonary Veins,122972013,Catheter in superior vena cava,C0042459,superior vena cava,48345005,C0042459,superior vena cava,48345005
+1,AgilentB00      ,VE-0008         ,VE,C0034097,Pulmonary Veins,122972014,Thrombus in superior vena cava,C0042459,superior vena cava,48345005,C0042459,superior vena cava,48345005
+1,AgilentB00      ,VE-0009         ,VE,C0034098,Pulmonary Veins,122972015,Unroofed coronary sinus,C4551626,Unroofed coronary sinus,40272001,C4551626,Unroofed coronary sinus,40272001
+1,AgilentB00      ,VE-0010         ,VE,C0034099,Pulmonary Veins,122972016,Inferior vena cava obstruction,C0265072,Inferior vena cava obstruction,79671001,C0265072,Inferior vena cava obstruction,79671001
+1,AgilentB00      ,VE-0011         ,VE,C0034100,Pulmonary Veins,122972017,Interrupted inferior vena cava with azygous continuation,C4023237,Interrupted inferior vena cava with azygous continuation,No match,C4023237,Interrupted inferior vena cava with azygous continuation,No match
+1,AgilentB00      ,VE-0012         ,VE,C0034101,Pulmonary Veins,122972018,Inferior vena cava into unroofed coronary sinus,C1269024,Inferior vena cava,181369003,C1269024,Inferior vena cava,181369003
+1,AgilentB00      ,VE-0013         ,VE,C0034102,Pulmonary Veins,122972019,Persistent inferior vena cava into left atrium,C0042458,inferior vena cava,64131007,C0042458,inferior vena cava,64131007
+1,AgilentB00      ,VE-0014         ,VE,C0034103,Pulmonary Veins,122972020,Absent inferior vena cava,C0042458,inferior vena cava,64131007,C0042458,inferior vena cava,64131007
+1,AgilentB00      ,VE-0015         ,VE,C0034104,Pulmonary Veins,122972021,Catheter in inferior vena cava,C0042458,inferior vena cava,64131007,C0042458,inferior vena cava,64131007
+1,AgilentB00      ,VE-0016         ,VE,C0034105,Pulmonary Veins,122972022,Thrombus in inferior vena cava,C0042458,inferior vena cava,64131007,C0042458,inferior vena cava,64131007
+1,AgilentB00      ,VE-0017         ,VE,C0034106,Pulmonary Veins,122972023,Hepatic venous drainage directly into right atrium,C0678862,venous drainage,No match,C0678862,venous drainage,No match
+1,AgilentB00      ,VE-0018         ,VE,C0034107,Pulmonary Veins,122972024,Innominate bridging vein present,C0150312,present,10828004,C0150312,present,10828004
+1,AgilentB00      ,VE-0019         ,VE,C0034108,Pulmonary Veins,122972025,Innominate bridging vein absent,C0042449,vein,29092000,C0042449,vein,29092000
+1,AgilentB00      ,VE-0020         ,VE,C0034109,Pulmonary Veins,122972026,Dilated inferior vena cava,C0042458,inferior vena cava,64131007,C0042458,inferior vena cava,64131007
+1,AgilentB00      ,VE-0021         ,VE,C0034110,Pulmonary Veins,122972027,Dilated superior vena cava,C0042459,superior vena cava,48345005,C0042459,superior vena cava,48345005
+1,AgilentB00      ,VE-0022         ,VE,C0034111,Pulmonary Veins,122972028,Dilated hepatic veins,C0019155,hepatic veins,8993003,C0019155,hepatic veins,8993003
+1,AgilentB00      ,VE-0023         ,VE,C0034112,Pulmonary Veins,122972029,Dilated coronary sinus,C0456944,coronary sinus,90219004,C0456944,coronary sinus,90219004
+1,AgilentB00      ,VE-0024         ,VE,C0034113,Pulmonary Veins,122972030,"Enlarged coronary sinus, suspect left superior vena cava",C4531220,Enlarged coronary sinus,No match,C4531220,Enlarged coronary sinus,No match
+1,AgilentB00      ,VE-0025         ,VE,C0034114,Pulmonary Veins,122972031,Spontaneous contrast in Fontan.,No match,No match,No match,No match,No match,No match
+1,AgilentB00      ,VE-0026         ,VE,C0034115,Pulmonary Veins,122972032,Normal pulmonary venous drainage,C0678862,venous drainage,No match,C0678862,venous drainage,No match
+1,AgilentB00      ,VE-0027         ,VE,C0034116,Pulmonary Veins,122972033,Partial anomalous pulmonary venous drainage,C0678862,venous drainage,No match,C0678862,venous drainage,No match
+1,AgilentB00      ,VE-0028         ,VE,C0034117,Pulmonary Veins,122972034,PAPVR: Right veins drain to superior vena cava,C0042459,superior vena cava,48345005,C0042459,superior vena cava,48345005
+1,AgilentB00      ,VE-0029         ,VE,C0034118,Pulmonary Veins,122972035,PAPVR: Right veins drain to inferior vena cava,C0042458,inferior vena cava,64131007,C0042458,inferior vena cava,64131007
+1,AgilentB00      ,VE-0030         ,VE,C0034119,Pulmonary Veins,122972036,PAPVR: Right veins drain to right atrium,C0225844,right atrium,73829009,C0225844,right atrium,73829009
+1,AgilentB00      ,VE-0031         ,VE,C0034120,Pulmonary Veins,122972037,PAPVR: Left veins drain to superior vena cava,C0042459,superior vena cava,48345005,C0042459,superior vena cava,48345005
+1,AgilentB00      ,VE-0032         ,VE,C0034121,Pulmonary Veins,122972038,PAPVR: Left veins drain to inferior vena cava,C0042458,inferior vena cava,64131007,C0042458,inferior vena cava,64131007
+1,AgilentB00      ,VE-0033         ,VE,C0034122,Pulmonary Veins,122972039,PAPVR: Left veins drain to right atrium,C0225844,right atrium,73829009,C0225844,right atrium,73829009
+1,AgilentB00      ,VE-0034         ,VE,C0034123,Pulmonary Veins,122972040,Total anomalous pulmonary venous drainage,C4551903,Total anomalous pulmonary venous drainage,111323005,C4551903,Total anomalous pulmonary venous drainage,111323005
+1,AgilentB00      ,VE-0035         ,VE,C0034124,Pulmonary Veins,122972041,Total anomalous pulmonary venous drainage into vertical vein,C4551903,Total anomalous pulmonary venous drainage,111323005,C4551903,Total anomalous pulmonary venous drainage,111323005
+1,AgilentB00      ,VE-0036         ,VE,C0034125,Pulmonary Veins,122972042,Total anomalous pulmonary venous drainage into right SVC,C4551903,Total anomalous pulmonary venous drainage,111323005,C4551903,Total anomalous pulmonary venous drainage,111323005
+1,AgilentB00      ,VE-0037         ,VE,C0034126,Pulmonary Veins,122972043,Total anomalous pulmonary venous drainage into right atrium,C4551903,Total anomalous pulmonary venous drainage,111323005,C4551903,Total anomalous pulmonary venous drainage,111323005
+1,AgilentB00      ,VE-0038         ,VE,C0034127,Pulmonary Veins,122972044,Total anomalous pulmonary venous drainage into coronary sinus,C4551903,Total anomalous pulmonary venous drainage,111323005,C4551903,Total anomalous pulmonary venous drainage,111323005
+1,AgilentB00      ,VE-0039         ,VE,C0034128,Pulmonary Veins,122972045,Total anomalous pulmonary venous drainage beneath the diaphragm,C4551903,Total anomalous pulmonary venous drainage,111323005,C4551903,Total anomalous pulmonary venous drainage,111323005
+1,AgilentB00      ,VE-0040         ,VE,C0034129,Pulmonary Veins,122972046,Total anomalous pulmonary venous drainage: mixed type,C4551903,Total anomalous pulmonary venous drainage,111323005,C4551903,Total anomalous pulmonary venous drainage,111323005
+1,AgilentB00      ,VE-0041         ,VE,C0034130,Pulmonary Veins,122972047,Total anomalous pulmonary venous drainage: unobstructed,C4551903,Total anomalous pulmonary venous drainage,111323005,C4551903,Total anomalous pulmonary venous drainage,111323005
+1,AgilentB00      ,VE-0042         ,VE,C0034131,Pulmonary Veins,122972048,Total anomalous pulmonary venous drainage: obstructed,C4551903,Total anomalous pulmonary venous drainage,111323005,C4551903,Total anomalous pulmonary venous drainage,111323005
+1,AgilentB00      ,VE-0043         ,VE,C0034132,Pulmonary Veins,122972049,Cor Triatriatum without stenosis of pulmonary veins,C0009995,Cor Triatriatum,204369003,C0009995,Cor Triatriatum,204369003
+1,AgilentB00      ,VE-0044         ,VE,C0034133,Pulmonary Veins,122972050,Cor Triatriatum with stenosis of pulmonary veins,C0009995,Cor Triatriatum,204369003,C0009995,Cor Triatriatum,204369003
+1,AgilentB00      ,VE-0045         ,VE,C0034134,Pulmonary Veins,122972051,Normal superior vena cava velocity,C0042459,superior vena cava,48345005,C0042459,superior vena cava,48345005
+1,AgilentB00      ,VE-0046         ,VE,C0034135,Pulmonary Veins,122972052,Normal inferior vena cava velocity,C0042458,inferior vena cava,64131007,C0042458,inferior vena cava,64131007
+1,AgilentB00      ,VE-0047         ,VE,C0034136,Pulmonary Veins,122972053,Normal coronary sinus velocity,C0456944,coronary sinus,90219004,C0456944,coronary sinus,90219004
+1,AgilentB00      ,VE-0048         ,VE,C0034137,Pulmonary Veins,122972054,Increased superior vena cava velocity,C0042459,superior vena cava,48345005,C0042459,superior vena cava,48345005
+1,AgilentB00      ,VE-0049         ,VE,C0034138,Pulmonary Veins,122972055,Increased inferior vena cava velocity,C0042458,inferior vena cava,64131007,C0042458,inferior vena cava,64131007
+1,AgilentB00      ,VE-0050         ,VE,C0034139,Pulmonary Veins,122972056,Increased  coronary sinus velocity,C0456944,coronary sinus,90219004,C0456944,coronary sinus,90219004
+1,AgilentB00      ,VE-0051         ,VE,C0034140,Pulmonary Veins,122972057,No systemic venous baffle obstruction,C0028778,obstruction,26036001,C0028778,obstruction,26036001
+1,AgilentB00      ,VE-0052         ,VE,C0034141,Pulmonary Veins,122972058,_ systemic venous baffle obstruction,C0028778,obstruction,26036001,C0028778,obstruction,26036001
+1,AgilentB00      ,VE-0053         ,VE,C0034142,Pulmonary Veins,122972059,No Fontan pathway obstruction,C2732260,Fontan pathway,443298009,C2732260,Fontan pathway,443298009
+1,AgilentB00      ,VE-0054         ,VE,C0034143,Pulmonary Veins,122972060,_ Fontan pathway obstruction,C2732260,Fontan pathway,443298009,C2732260,Fontan pathway,443298009
+1,AgilentB00      ,VE-0055         ,VE,C0034144,Pulmonary Veins,122972061,Normal pulmonary vein velocity,C0034090,pulmonary vein,122972007,C0034090,pulmonary vein,122972007
+1,AgilentB00      ,VE-0056         ,VE,C0034145,Pulmonary Veins,122972062,Left upper pulmonary vein obstruction,C0948441,vein obstruction,307221007,C0948441,vein obstruction,307221007
+1,AgilentB00      ,VE-0057         ,VE,C0034146,Pulmonary Veins,122972063,Left lower pulmonary vein obstruction,C0948441,vein obstruction,307221007,C0948441,vein obstruction,307221007
+1,AgilentB00      ,VE-0058         ,VE,C0034147,Pulmonary Veins,122972064,Right upper pulmonary vein obstruction,C0948441,vein obstruction,307221007,C0948441,vein obstruction,307221007
+1,AgilentB00      ,VE-0059         ,VE,C0034148,Pulmonary Veins,122972065,Right lower pulmonary vein obstruction,C0948441,vein obstruction,307221007,C0948441,vein obstruction,307221007
+1,AgilentB00      ,VE-0060         ,VE,C0034149,Pulmonary Veins,122972066,No pulmonary venous baffle obstruction,C0028778,obstruction,26036001,C0028778,obstruction,26036001
+1,AgilentB00      ,VE-0061         ,VE,C0034150,Pulmonary Veins,122972067,_ pulmonary venous baffle obstruction,C0028778,obstruction,26036001,C0028778,obstruction,26036001
+1,AgilentB00      ,VS-0001         ,VS,C0225870,Ventricular Septum,589001,Intact ventricular septum,C0225870,ventricular septum,589001,C0225870,ventricular septum,589001
+1,AgilentB00      ,VS-0002         ,VS,C0225871,Ventricular Septum,589002,_ atrio-ventricular canal type ventricular septal defect,C0018818,ventricular septal defect,156914003,C0018818,ventricular septal defect,156914003
+1,AgilentB00      ,VS-0003         ,VS,C0225872,Ventricular Septum,589003,_ subpulmonary ventricular septal defect,C0018818,ventricular septal defect,156914003,C0018818,ventricular septal defect,156914003
+1,AgilentB00      ,VS-0004         ,VS,C0225873,Ventricular Septum,589004,_ membranous ventricular septal defect,C0018818,ventricular septal defect,156914003,C0018818,ventricular septal defect,156914003
+1,AgilentB00      ,VS-0005         ,VS,C0225874,Ventricular Septum,589005,_ muscular ventricular septal defect,C0018818,ventricular septal defect,156914003,C0018818,ventricular septal defect,156914003
+1,AgilentB00      ,VS-0006         ,VS,C0225875,Ventricular Septum,589006,_ apical muscular ventricular septal defect,C0018818,ventricular septal defect,156914003,C0018818,ventricular septal defect,156914003
+1,AgilentB00      ,VS-0007         ,VS,C0225876,Ventricular Septum,589007,_ anterior muscular ventricular septal defect,C0018818,ventricular septal defect,156914003,C0018818,ventricular septal defect,156914003
+1,AgilentB00      ,VS-0008         ,VS,C0225877,Ventricular Septum,589008,_ mid muscular ventricular septal defect,C0018818,ventricular septal defect,156914003,C0018818,ventricular septal defect,156914003
+1,AgilentB00      ,VS-0009         ,VS,C0225878,Ventricular Septum,589009,_ basilar muscular ventricular septal defect,C0018818,ventricular septal defect,156914003,C0018818,ventricular septal defect,156914003
+1,AgilentB00      ,VS-0010         ,VS,C0225879,Ventricular Septum,589010,_ peri-prosthetic patch ventricular septal defect,C0018818,ventricular septal defect,156914003,C0018818,ventricular septal defect,156914003
+1,AgilentB00      ,VS-0011         ,VS,C0225880,Ventricular Septum,589011,Multiple muscular ventricular septal defects,C4023263,Multiple muscular ventricular septal defects,No match,C4023263,Multiple muscular ventricular septal defects,No match
+1,AgilentB00      ,VS-0012         ,VS,C0225881,Ventricular Septum,589012,Spontaneous closure of ventricular septal defect,C1290479,Spontaneous closure of ventricular septal defect,123714004,C1290479,Spontaneous closure of ventricular septal defect,123714004
+1,AgilentB00      ,VS-0013         ,VS,C0225882,Ventricular Septum,589013,Aneurysm of ventricular septum,C0225870,ventricular septum,589001,C0225870,ventricular septum,589001
+1,AgilentB00      ,VS-0014         ,VS,C0225883,Ventricular Septum,589014,Anteriorly malaligned ventricular septal defect,C0018818,ventricular septal defect,156914003,C0018818,ventricular septal defect,156914003
+1,AgilentB00      ,VS-0015         ,VS,C0225884,Ventricular Septum,589015,Posteriorly malaligned ventricular septal defect,C0018818,ventricular septal defect,156914003,C0018818,ventricular septal defect,156914003
+1,AgilentB00      ,VS-0016         ,VS,C0225885,Ventricular Septum,589016,Normal septal motion consistent with normal right ventricular pressures,C0206177,ventricular pressures,263644009,C0206177,ventricular pressures,263644009
+1,AgilentB00      ,VS-0017         ,VS,C0225886,Ventricular Septum,589017,Flattened septum consistent with right ventricular volume overload,C0546817,volume overload,234175000,C0546817,volume overload,234175000
+1,AgilentB00      ,VS-0018         ,VS,C0225887,Ventricular Septum,589018,Flattened septum consistent with right ventricular pressure overload,C0206177,ventricular pressure,263644009,C0206177,ventricular pressure,263644009
+1,AgilentB00      ,VS-0019         ,VS,C0225888,Ventricular Septum,589019,Septal motion consistent with RV pressure/volume overload,C0546817,volume overload,234175000,C0546817,volume overload,234175000

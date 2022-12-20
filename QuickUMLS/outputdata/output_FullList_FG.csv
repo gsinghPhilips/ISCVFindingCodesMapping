@@ -1,0 +1,232 @@
+LanguageIdk,FindingGroupIdk,GroupDescription,Origin,CodingScheme,GroupPrifix,aCUI,aTerm,snomedID
+1,60232,Summary TEE,1,AgilentB00      ,ID,C1706244,Summary,No match
+1,60232,Summary TEE,1,AgilentB00      ,SU,C1706244,Summary,No match
+1,60233,Cardiac Position,1,AgilentB00      ,PO,C2347268,Position,No match
+1,60234,Abdominal Situs,1,AgilentB00      ,PO,No match,No match,No match
+1,60235,Atrial Situs,1,AgilentB00      ,PO,C0018792,Atrial,59652004
+1,60236,Ventricular Looping,1,AgilentB00      ,PO,No match,No match,No match
+1,60237,Great Vessel Position,1,AgilentB00      ,PO,C0042591,Vessel Positions,272735005
+1,60238,Systemic Veins,1,AgilentB00      ,VE,C5400982,Systemic,No match
+1,60239,Pulmonary Veins,1,AgilentB00      ,VE,C0034090,Pulmonary Veins,122972007
+1,60240,Right Atrium,1,AgilentB00      ,RA,C0225844,Right Atrium,73829009
+1,60241,Left Atrium,1,AgilentB00      ,LA,C0225860,Left Atrium,82471001
+1,60242,Atrial Septum,1,AgilentB00      ,AT,C0225836,Atrial Septum,58095006
+1,60243,Tricuspid Valve,1,AgilentB00      ,TV,C0040960,Tricuspid Valve,46030003
+1,60244,Mitral Valve,1,AgilentB00      ,MV,C0026264,Mitral Valve,91134007
+1,60245,Common Valve,1,AgilentB00      ,CV,C1704414,Valve,No match
+1,60246,Right Ventricle,1,AgilentB00      ,RV,C0225883,Right Ventricle,53085002
+1,60247,Left Ventricle,1,AgilentB00      ,LV,C0225897,Left Ventricle,87878005
+1,60248,Single Ventricle,1,AgilentB00      ,SV,C0018827,Ventricle,21814001
+1,60249,Ventricular Septum,1,AgilentB00      ,VS,C0225870,Ventricular Septum,589001
+1,60250,Pulmonary Valve,1,AgilentB00      ,PV,C0034086,Pulmonary Valve,39057004
+1,60251,Aortic Valve,1,AgilentB00      ,AV,C0003501,Aortic Valve,34202007
+1,60252,Conotruncus,1,AgilentB00      ,CT,No match,No match,No match
+1,60253,Aorta,1,AgilentB00      ,AO,C1278934,Aorta,181298001
+1,60254,Pulmonary Arteries,1,AgilentB00      ,PA,C0034052,Pulmonary Arteries,45341000
+1,60255,Ductus Arteriosus,1,AgilentB00      ,DA,No match,No match,No match
+1,60256,Anatomy,1,AgilentB00      ,CA,No match,No match,No match
+1,60257,Coronary z scores,1,AgilentB00      ,CA,C0449820,scores,246262008
+1,60258,Kawasaki Disease,1,AgilentB00      ,CA,C0026691,Kawasaki Disease,75053002
+1,60259,Pericardium,1,AgilentB00      ,PE,C1278933,Pericardium,181295003
+1,60260,Pleura,1,AgilentB00      ,PE,C1279036,Pleura,181609007
+1,60261,Right Ventricle,1,AgilentB00      ,RV,C0225883,Right Ventricle,53085002
+1,60262,Left Ventricle,1,AgilentB00      ,LV,C0225897,Left Ventricle,87878005
+1,60263,Single Ventricle,1,AgilentB00      ,SV,C0018827,Ventricle,21814001
+1,60264,Right Ventricle,1,AgilentB00      ,RV,C0225883,Right Ventricle,53085002
+1,60265,Left Ventricle,1,AgilentB00      ,LV,C0225897,Left Ventricle,87878005
+1,60266,Single Ventricle,1,AgilentB00      ,SV,C0018827,Ventricle,21814001
+1,60267,Systemic Veins,1,AgilentB00      ,VE,C5400982,Systemic,No match
+1,60268,Pulmonary Veins,1,AgilentB00      ,VE,C0034090,Pulmonary Veins,122972007
+1,60269,Tricuspid Valve,1,AgilentB00      ,TV,C0040960,Tricuspid Valve,46030003
+1,60270,Mitral Valve,1,AgilentB00      ,MV,C0026264,Mitral Valve,91134007
+1,60271,Pulmonary Valve,1,AgilentB00      ,PA,C0034086,Pulmonary Valve,39057004
+1,60271,Pulmonary Valve,1,AgilentB00      ,PV,C0034086,Pulmonary Valve,39057004
+1,60272,Aortic Valve,1,AgilentB00      ,AV,C0003501,Aortic Valve,34202007
+1,60273,Pulmonary Arteries,1,AgilentB00      ,PA,C0034052,Pulmonary Arteries,45341000
+1,60274,Aorta,1,AgilentB00      ,AO,C1278934,Aorta,181298001
+1,60275,Cardiac Output,1,AgilentB00      ,PH,C0007165,Cardiac Output,142252004
+1,60276,Right Sided Pressures,1,AgilentB00      ,PH,C0033095,Pressures,279046003
+1,60277,Fetal Rhythm,1,AgilentB00      ,PH,C0871269,Rhythm,No match
+1,60278,Fetal Blood Flow,1,AgilentB00      ,PH,C0015925,Fetal Blood,No match
+1,60279,Atrial,1,AgilentB00      ,SH,C0018792,Atrial,59652004
+1,60280,Ventricular,1,AgilentB00      ,SH,No match,No match,No match
+1,60281,Great Vessel,1,AgilentB00      ,SH,C0042591,Vessel,272735005
+1,60282,Catheterization,1,AgilentB00      ,IN,C0007430,Catheterization,45211000
+1,60283,Surgery,1,AgilentB00      ,IN,C0543467,Surgery,257556004
+1,60294,Summary,1,AgilentB00      ,SU,C1706244,Summary,No match
+1,60295,Infectious Disease,1,AgilentB00      ,ID,C0009450,Infectious Disease,40733004
+1,60401,Summary,1,AgilentB00      ,SU,C1706244,Summary,No match
+1,60402,Cardiac Position,1,AgilentB00      ,PO,C2347268,Position,No match
+1,60403,Abdominal Situs,1,AgilentB00      ,PO,No match,No match,No match
+1,60404,Atrial Situs,1,AgilentB00      ,PO,C0018792,Atrial,59652004
+1,60405,Ventricular Looping,1,AgilentB00      ,PO,No match,No match,No match
+1,60406,Great Vessel Position,1,AgilentB00      ,PO,C0042591,Vessel Positions,272735005
+1,60407,Systemic Veins,1,AgilentB00      ,VE,C5400982,Systemic,No match
+1,60408,Pulmonary Veins,1,AgilentB00      ,VE,C0034090,Pulmonary Veins,122972007
+1,60409,Right Atrium,1,AgilentB00      ,RA,C0225844,Right Atrium,73829009
+1,60410,Left Atrium,1,AgilentB00      ,LA,C0225860,Left Atrium,82471001
+1,60411,Atrial Septum,1,AgilentB00      ,AT,C0225836,Atrial Septum,58095006
+1,60412,Tricuspid Valve,1,AgilentB00      ,TV,C0040960,Tricuspid Valve,46030003
+1,60413,Mitral Valve,1,AgilentB00      ,MV,C0026264,Mitral Valve,91134007
+1,60414,Common Valve,1,AgilentB00      ,CV,C1704414,Valve,No match
+1,60415,Right Ventricle,1,AgilentB00      ,RV,C0225883,Right Ventricle,53085002
+1,60416,Left Ventricle,1,AgilentB00      ,LV,C0225897,Left Ventricle,87878005
+1,60417,Single Ventricle,1,AgilentB00      ,SV,C0018827,Ventricle,21814001
+1,60418,Ventricular Septum,1,AgilentB00      ,VS,C0225870,Ventricular Septum,589001
+1,60419,Pulmonary Valve,1,AgilentB00      ,PV,C0034086,Pulmonary Valve,39057004
+1,60420,Aortic Valve,1,AgilentB00      ,AV,C0003501,Aortic Valve,34202007
+1,60421,Conotruncus,1,AgilentB00      ,CT,No match,No match,No match
+1,60422,Aorta,1,AgilentB00      ,AO,C1278934,Aorta,181298001
+1,60423,Pulmonary Arteries,1,AgilentB00      ,PA,C0034052,Pulmonary Arteries,45341000
+1,60424,Ductus Arteriosus,1,AgilentB00      ,DA,No match,No match,No match
+1,60425,Anatomy,1,AgilentB00      ,CA,No match,No match,No match
+1,60426,Coronary z scores,1,AgilentB00      ,CA,C0449820,scores,246262008
+1,60427,Kawasaki Disease,1,AgilentB00      ,CA,C0026691,Kawasaki Disease,75053002
+1,60428,Pericardium,1,AgilentB00      ,PE,C1278933,Pericardium,181295003
+1,60429,Pleura,1,AgilentB00      ,PE,C1279036,Pleura,181609007
+1,60430,Right Ventricle,1,AgilentB00      ,RV,C0225883,Right Ventricle,53085002
+1,60431,Left Ventricle,1,AgilentB00      ,LV,C0225897,Left Ventricle,87878005
+1,60432,Single Ventricle,1,AgilentB00      ,SV,C0018827,Ventricle,21814001
+1,60435,Right Ventricle,1,AgilentB00      ,RV,C0225883,Right Ventricle,53085002
+1,60436,Left Ventricle,1,AgilentB00      ,LV,C0225897,Left Ventricle,87878005
+1,60437,Single Ventricle,1,AgilentB00      ,SV,C0018827,Ventricle,21814001
+1,60438,Systemic Veins,1,AgilentB00      ,VE,C5400982,Systemic,No match
+1,60439,Pulmonary Veins,1,AgilentB00      ,VE,C0034090,Pulmonary Veins,122972007
+1,60440,Tricuspid Valve,1,AgilentB00      ,TV,C0040960,Tricuspid Valve,46030003
+1,60441,Mitral Valve,1,AgilentB00      ,MV,C0026264,Mitral Valve,91134007
+1,60442,Pulmonary Valve,1,AgilentB00      ,PA,C0034086,Pulmonary Valve,39057004
+1,60442,Pulmonary Valve,1,AgilentB00      ,PV,C0034086,Pulmonary Valve,39057004
+1,60443,Aortic Valve,1,AgilentB00      ,AV,C0003501,Aortic Valve,34202007
+1,60444,Pulmonary Arteries,1,AgilentB00      ,PA,C0034052,Pulmonary Arteries,45341000
+1,60445,Aorta,1,AgilentB00      ,AO,C1278934,Aorta,181298001
+1,60446,Cardiac Output,1,AgilentB00      ,PH,C0007165,Cardiac Output,142252004
+1,60447,Right Sided Pressures,1,AgilentB00      ,PH,C0033095,Pressures,279046003
+1,60448,Fetal Rhythm,1,AgilentB00      ,PH,C0871269,Rhythm,No match
+1,60449,Fetal Blood Flow,1,AgilentB00      ,PH,C0015925,Fetal Blood,No match
+1,60450,Atrial,1,AgilentB00      ,SH,C0018792,Atrial,59652004
+1,60451,Ventricular,1,AgilentB00      ,SH,No match,No match,No match
+1,60452,Great Vessel,1,AgilentB00      ,SH,C0042591,Vessel,272735005
+1,60453,Catheterization,1,AgilentB00      ,IN,C0007430,Catheterization,45211000
+1,60454,Surgery,1,AgilentB00      ,IN,C0543467,Surgery,257556004
+1,60455,Infectious Disease,1,AgilentB00      ,ID,C0009450,Infectious Disease,40733004
+1,60461,Summary TEE,1,AgilentB00      ,ID,C1706244,Summary,No match
+1,60461,Summary TEE,1,AgilentB00      ,SU,C1706244,Summary,No match
+1,60479,#NAME?,1,AgilentB00      ,VE,C0027365,name,703503000
+1,60480,#NAME?,1,AgilentB00      ,VE,C0027365,name,703503000
+1,60481,#NAME?,1,AgilentB00      ,RA,C0027365,name,703503000
+1,60482,#NAME?,1,AgilentB00      ,LA,C0027365,name,703503000
+1,60483,#NAME?,1,AgilentB00      ,AT,C0027365,name,703503000
+1,60484,#NAME?,1,AgilentB00      ,AT,C0027365,name,703503000
+1,60484,#NAME?,1,AgilentB00      ,SH,C0027365,name,703503000
+1,60485,#NAME?,1,AgilentB00      ,TV,C0027365,name,703503000
+1,60486,#NAME?,1,AgilentB00      ,MV,C0027365,name,703503000
+1,60487,#NAME?,1,AgilentB00      ,CV,C0027365,name,703503000
+1,60487,#NAME?,1,AgilentB00      ,MV,C0027365,name,703503000
+1,60487,#NAME?,1,AgilentB00      ,TV,C0027365,name,703503000
+1,60488,#NAME?,1,AgilentB00      ,RV,C0027365,name,703503000
+1,60489,#NAME?,1,AgilentB00      ,LV,C0027365,name,703503000
+1,60490,#NAME?,1,AgilentB00      ,SV,C0027365,name,703503000
+1,60491,#NAME?,1,AgilentB00      ,SH,C0027365,name,703503000
+1,60491,#NAME?,1,AgilentB00      ,VS,C0027365,name,703503000
+1,60492,#NAME?,1,AgilentB00      ,PV,C0027365,name,703503000
+1,60493,#NAME?,1,AgilentB00      ,AV,C0027365,name,703503000
+1,60495,#NAME?,1,AgilentB00      ,CT,C0027365,name,703503000
+1,60496,#NAME?,1,AgilentB00      ,PA,C0027365,name,703503000
+1,60497,#NAME?,1,AgilentB00      ,AO,C0027365,name,703503000
+1,60498,#NAME?,1,AgilentB00      ,CT,C0027365,name,703503000
+1,60499,#NAME?,1,AgilentB00      ,DA,C0027365,name,703503000
+1,60499,#NAME?,1,AgilentB00      ,SH,C0027365,name,703503000
+1,60500,#NAME?,1,AgilentB00      ,CA,C0027365,name,703503000
+1,60501,#NAME?,1,AgilentB00      ,PE,C0027365,name,703503000
+1,60502,#NAME?,1,AgilentB00      ,PE,C0027365,name,703503000
+1,60601,Summary,1,AgilentB00      ,SU,C1706244,Summary,No match
+1,60602,Cardiac Position,1,AgilentB00      ,PO,C2347268,Position,No match
+1,60603,Abdominal Situs,1,AgilentB00      ,PO,No match,No match,No match
+1,60604,Atrial Situs,1,AgilentB00      ,PO,C0018792,Atrial,59652004
+1,60605,Ventricular Looping,1,AgilentB00      ,PO,No match,No match,No match
+1,60606,Great Vessel Position,1,AgilentB00      ,PO,C0042591,Vessel Positions,272735005
+1,60607,Systemic Veins,1,AgilentB00      ,VE,C5400982,Systemic,No match
+1,60608,Pulmonary Veins,1,AgilentB00      ,VE,C0034090,Pulmonary Veins,122972007
+1,60609,Right Atrium,1,AgilentB00      ,RA,C0225844,Right Atrium,73829009
+1,60610,Left Atrium,1,AgilentB00      ,LA,C0225860,Left Atrium,82471001
+1,60611,Atrial Septum,1,AgilentB00      ,AT,C0225836,Atrial Septum,58095006
+1,60612,Tricuspid Valve,1,AgilentB00      ,TV,C0040960,Tricuspid Valve,46030003
+1,60613,Mitral Valve,1,AgilentB00      ,MV,C0026264,Mitral Valve,91134007
+1,60614,Common Valve,1,AgilentB00      ,CV,C1704414,Valve,No match
+1,60615,Right Ventricle,1,AgilentB00      ,RV,C0225883,Right Ventricle,53085002
+1,60616,Left Ventricle,1,AgilentB00      ,LV,C0225897,Left Ventricle,87878005
+1,60617,Single Ventricle,1,AgilentB00      ,SV,C0018827,Ventricle,21814001
+1,60618,Ventricular Septum,1,AgilentB00      ,VS,C0225870,Ventricular Septum,589001
+1,60619,Pulmonary Valve,1,AgilentB00      ,PV,C0034086,Pulmonary Valve,39057004
+1,60620,Aortic Valve,1,AgilentB00      ,AV,C0003501,Aortic Valve,34202007
+1,60621,Conotruncus,1,AgilentB00      ,CT,No match,No match,No match
+1,60622,Aorta,1,AgilentB00      ,AO,C1278934,Aorta,181298001
+1,60623,Pulmonary Arteries,1,AgilentB00      ,PA,C0034052,Pulmonary Arteries,45341000
+1,60624,Ductus Arteriosus,1,AgilentB00      ,DA,No match,No match,No match
+1,60625,Anatomy,1,AgilentB00      ,CA,No match,No match,No match
+1,60626,Coronary z scores,1,AgilentB00      ,CA,C0449820,scores,246262008
+1,60627,Kawasaki Disease,1,AgilentB00      ,CA,C0026691,Kawasaki Disease,75053002
+1,60628,Pericardium,1,AgilentB00      ,PE,C1278933,Pericardium,181295003
+1,60629,Pleura,1,AgilentB00      ,PE,C1279036,Pleura,181609007
+1,60630,Right Ventricle,1,AgilentB00      ,RV,C0225883,Right Ventricle,53085002
+1,60631,Left Ventricle,1,AgilentB00      ,LV,C0225897,Left Ventricle,87878005
+1,60632,Single Ventricle,1,AgilentB00      ,SV,C0018827,Ventricle,21814001
+1,60635,Right Ventricle,1,AgilentB00      ,RV,C0225883,Right Ventricle,53085002
+1,60636,Left Ventricle,1,AgilentB00      ,LV,C0225897,Left Ventricle,87878005
+1,60637,Single Ventricle,1,AgilentB00      ,SV,C0018827,Ventricle,21814001
+1,60638,Systemic Veins,1,AgilentB00      ,VE,C5400982,Systemic,No match
+1,60639,Pulmonary Veins,1,AgilentB00      ,VE,C0034090,Pulmonary Veins,122972007
+1,60640,Tricuspid Valve,1,AgilentB00      ,TV,C0040960,Tricuspid Valve,46030003
+1,60641,Mitral Valve,1,AgilentB00      ,MV,C0026264,Mitral Valve,91134007
+1,60642,Pulmonary Valve,1,AgilentB00      ,PA,C0034086,Pulmonary Valve,39057004
+1,60642,Pulmonary Valve,1,AgilentB00      ,PV,C0034086,Pulmonary Valve,39057004
+1,60643,Aortic Valve,1,AgilentB00      ,AV,C0003501,Aortic Valve,34202007
+1,60644,Pulmonary Arteries,1,AgilentB00      ,PA,C0034052,Pulmonary Arteries,45341000
+1,60645,Aorta,1,AgilentB00      ,AO,C1278934,Aorta,181298001
+1,60646,Cardiac Output,1,AgilentB00      ,PH,C0007165,Cardiac Output,142252004
+1,60647,Right Sided Pressures,1,AgilentB00      ,PH,C0033095,Pressures,279046003
+1,60648,Fetal Rhythm,1,AgilentB00      ,PH,C0871269,Rhythm,No match
+1,60649,Fetal Blood Flow,1,AgilentB00      ,PH,C0015925,Fetal Blood,No match
+1,60650,Atrial,1,AgilentB00      ,SH,C0018792,Atrial,59652004
+1,60651,Ventricular,1,AgilentB00      ,SH,No match,No match,No match
+1,60652,Great Vessel,1,AgilentB00      ,SH,C0042591,Vessel,272735005
+1,60653,Catheterization,1,AgilentB00      ,IN,C0007430,Catheterization,45211000
+1,60654,Surgery,1,AgilentB00      ,IN,C0543467,Surgery,257556004
+1,60655,Infectious Disease,1,AgilentB00      ,ID,C0009450,Infectious Disease,40733004
+1,60662,RHD Mitral Morphology,1,AgilentB00      ,MV,C0700329,Morphology,72724002
+1,60663,RHD Mitral Regurgitation,1,AgilentB00      ,MV,C0026266,Mitral Regurgitation,194977007
+1,60664,RHD Mitral Stenosis,1,AgilentB00      ,MV,C0026269,Mitral Stenosis,194725005
+1,60665,RHD Aortic Morphology,1,AgilentB00      ,AV,C0700329,Morphology,72724002
+1,60666,RHD Aortic Regurgitation,1,AgilentB00      ,AV,C0003504,Aortic Regurgitation,60234000
+1,60667,RHD Aortic Stenosis,1,AgilentB00      ,AV,C0003507,Aortic Stenosis,390722003
+1,60706,Summary TEE,1,AgilentB00      ,ID,C1706244,Summary,No match
+1,60706,Summary TEE,1,AgilentB00      ,SU,C1706244,Summary,No match
+1,60743,Ventricular septal anatomy,1,AgilentB00      ,VS,No match,No match,No match
+1,60744,Ventricular septal shunt,1,AgilentB00      ,SH,C0542331,shunt,257351008
+1,60817,*ghs 3.1 Left Atrium,1,AgilentB00      ,LA,C0225860,Left Atrium,82471001
+1,60843,*ghs 3.1 Pericardium,1,AgilentB00      ,PE,C1278933,Pericardium,181295003
+1,60845,*ghs 3.1 Aorta,1,AgilentB00      ,AO,C1278934,Aorta,181298001
+1,60856,*ghs 3.1 Non-cardiac Findings,1,AgilentB00      ,PE,C2926606,Findings,No match
+1,60901,*ghs Pericardium,1,AgilentB00      ,PE,C1278933,Pericardium,181295003
+1,60914,*ghs Additional Findings,1,AgilentB00      ,PE,C2926606,Findings,No match
+1,60970,* ghs CTCA Aorta,1,AgilentB00      ,AO,C1278934,Aorta,181298001
+1,60974,* ghs MRI pericardium,1,AgilentB00      ,PE,C0031050,pericardium,76848001
+1,61005,* ghs MRI Vessels Summary,1,AgilentB00      ,AO,C0005847,Vessels,59820001
+1,61011,* ghs MRI Additional Thorax,1,AgilentB00      ,PE,C1269614,Thorax,302551006
+1,61060,*Peds Summary,1,AgilentB00      ,SU,C1706244,Summary,No match
+1,61061,*Peds Cardiac Position,1,AgilentB00      ,PO,C2347268,Position,No match
+1,61063,*Peds Atrial Situs,1,AgilentB00      ,PO,C0018792,Atrial,59652004
+1,61064,*Peds Ventricular Looping,1,AgilentB00      ,PO,No match,No match,No match
+1,61068,*Peds Systemic Veins,1,AgilentB00      ,VE,C5400982,Systemic,No match
+1,61073,*Peds Mitral Valve,1,AgilentB00      ,MV,C0026264,Mitral Valve,91134007
+1,61075,*Peds Left Ventricle,1,AgilentB00      ,LV,C0225897,Left Ventricle,87878005
+1,61078,*Peds Pulmonary Valve,1,AgilentB00      ,PV,C0034086,Pulmonary Valve,39057004
+1,61079,*Peds Aortic Valve,1,AgilentB00      ,AV,C0003501,Aortic Valve,34202007
+1,61080,*Peds Aorta,1,AgilentB00      ,AO,C1278934,Aorta,181298001
+1,61082,*Peds Ductus Arteriosus,1,AgilentB00      ,DA,No match,No match,No match
+1,61083,*Peds Anatomy,1,AgilentB00      ,CA,No match,No match,No match
+1,61085,*Peds Pericardium,1,AgilentB00      ,PE,C1278933,Pericardium,181295003
+1,61090,*Peds Catheterization,1,AgilentB00      ,IN,C0007430,Catheterization,45211000
+1,61091,*Peds Surgery,1,AgilentB00      ,IN,C0543467,Surgery,257556004
+1,61104,*Peds LV Function,1,AgilentB00      ,LV,C1705273,Function,No match
+1,61114,*Peds Fetal Rhythm,1,AgilentB00      ,PH,C0871269,Rhythm,No match

@@ -1,0 +1,73 @@
+LanguageIdk,CodingScheme,FindingCode,FindingCodeText,mappedCUI,mappedTerm_label,mappedsnomedID
+1,AgilentB00      ,AO-0001         ,Normal size aorta,C0232357,Normal,45332005
+1,AgilentB00      ,AO-0002         ,Large aorta,C0003483,aorta,15825003
+1,AgilentB00      ,AO-0003         ,Small aorta,C0003483,aorta,15825003
+1,AgilentB00      ,AT-0001         ,Intact atrial septum,C0225836,atrial septum,58095006
+1,AgilentB00      ,AT-0002         ,Patent foramen ovale,C0016522,Patent foramen ovale,78902000
+1,AgilentB00      ,AT-0003         ,Small secundum atrial septal defect vs. patent foramen ovale,C0016522,secundum atrial septal defect,78902000
+1,AgilentB00      ,AV-0001         ,Normal tricuspid aortic valve,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0002         ,Normal aortic valve annulus,C0003501,aortic valve,34202007
+1,AgilentB00      ,AV-0003         ,Large aortic valve annulus,C0003501,aortic valve,34202007
+1,AgilentB00      ,CA-0001         ,Normal coronary arteries,C1299335,Normal coronary arteries,371860003
+1,AgilentB00      ,CA-0002         ,Usual coronary arteries,C0205042,coronary arteries,41801008
+1,AgilentB00      ,CA-0003         ,Circumflex from right coronary artery,C1261316,right coronary artery,13647002
+1,AgilentB00      ,CT-0001         ,Tetralogy of Fallot with pulmonary stenosis,C0344881,Tetralogy of Fallot with pulmonary stenosis,253512000
+1,AgilentB00      ,CT-0002         ,Tetralogy of Fallot with pulmonary atresia,C0344882,Tetralogy of Fallot with pulmonary atresia,253513005
+1,AgilentB00      ,CT-0003         ,Tetralogy of Fallot with absent pulmonary valve,C1302264,Tetralogy of Fallot with absent pulmonary valve,399228007
+1,AgilentB00      ,DA-0001         ,No patent ductus arteriosus,C3495549,patent ductus arteriosus,253686000
+1,AgilentB00      ,DA-0002         ,Normal fetal patent ductus arteriosus,C3495549,patent ductus arteriosus,253686000
+1,AgilentB00      ,DA-0003         ,"Patent ductus arteriosus, _",C0013274,Patent ductus arteriosus,83330001
+1,AgilentB00      ,ID-0001         ,No evidence of vegetation,C1285498,vegetation,363564008
+1,AgilentB00      ,ID-0002         ,"No evidence of endocarditis, TTE does not rule out  vegetations",C0014118,endocarditis,56819008
+1,AgilentB00      ,ID-0003         ,Echocardiogram suggestive of endocarditis,C0476369,Echocardiogram,169241000
+1,AgilentB00      ,IN-0001         ,Balloon atrial septostomy,C0189771,Balloon atrial septostomy,32878001
+1,AgilentB00      ,IN-0002         ,"Closure by device, secundum atrial septal defect",C0016522,secundum atrial septal defect,78902000
+1,AgilentB00      ,IN-0003         ,Patent ductus arteriosus coil closure,C0013274,Patent ductus arteriosus,83330001
+1,AgilentB00      ,LA-0001         ,Normal left atrial size,C0232357,Normal,45332005
+1,AgilentB00      ,LA-0002         ,_ left atrial enlargement,C0238705,left atrial enlargement,67741000119109
+1,AgilentB00      ,LA-0003         ,_ left atrium,C0225860,left atrium,82471001
+1,AgilentB00      ,LV-0001         ,Normal left ventricle structure and size,C0225897,left ventricle,87878005
+1,AgilentB00      ,LV-0002         ,"Dilated left ventricle, _",C0344911,Dilated left ventricle,253541009
+1,AgilentB00      ,LV-0003         ,Left Ventricle false tendon,C0225897,Left Ventricle,87878005
+1,AgilentB00      ,MV-0001         ,Normal mitral valve,C0026264,mitral valve,91134007
+1,AgilentB00      ,MV-0002         ,Large mitral valve annulus,C0026264,mitral valve,91134007
+1,AgilentB00      ,MV-0003         ,Mitral valve deformities; unspecified,C1269004,Mitral valve,181286006
+1,AgilentB00      ,PA-0001         ,Normal pulmonary artery branches,C0034052,pulmonary artery,45341000
+1,AgilentB00      ,PA-0002         ,Pulmonary arteries not well visualized,C4071789,Pulmonary arteries,No match
+1,AgilentB00      ,PA-0003         ,Dilated pulmonary arteries,C2072932,Dilated pulmonary arteries,No match
+1,AgilentB00      ,PE-0001         ,No pericardial effusion,C1253937,pericardial effusion,No match
+1,AgilentB00      ,PE-0002         ,_ pericardial effusion,C1253937,pericardial effusion,No match
+1,AgilentB00      ,PE-0003         ,_ anterior pericardial effusion,C1253937,pericardial effusion,No match
+1,AgilentB00      ,PH-0001         ,Cardiac output _,C0007165,Cardiac output,142252004
+1,AgilentB00      ,PH-0002         ,Right ventricle systolic pressure estimate normal,C0871470,systolic pressure,72313002
+1,AgilentB00      ,PH-0003         ,Right ventricle systolic pressure estimate _,C0871470,systolic pressure,72313002
+1,AgilentB00      ,PO-0001         ,Levocardia,C0023569,Levocardia,31420001
+1,AgilentB00      ,PO-0002         ,Dextrocardia,C3541877,Dextrocardia,No match
+1,AgilentB00      ,PO-0003         ,Dextroversion,No match,No match,No match
+1,AgilentB00      ,PV-0001         ,Normal pulmonic valve,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,PV-0002         ,Pulmonic valve stenosis,C0034089,Pulmonic valve stenosis,56786000
+1,AgilentB00      ,PV-0003         ,Thickened pulmonic valve leaflets,C0034086,pulmonic valve,39057004
+1,AgilentB00      ,RA-0001         ,Normal right atrial size,C0232357,Normal,45332005
+1,AgilentB00      ,RA-0002         ,_ right atrial enlargement,C0741276,atrial enlargement,No match
+1,AgilentB00      ,RA-0003         ,_ right atrium,C0225844,right atrium,73829009
+1,AgilentB00      ,RV-0001         ,Normal right ventricle structure and size,C0225883,right ventricle,53085002
+1,AgilentB00      ,RV-0002         ,"Dilated right ventricle, _",C0344893,Dilated right ventricle,253522006
+1,AgilentB00      ,RV-0003         ,"Thickened right ventricle free wall, _",C0225883,right ventricle,53085002
+1,AgilentB00      ,SH-0001         ,No left ventricular to right atrial shunt,C0018827,ventricular,21814001
+1,AgilentB00      ,SH-0002         ,"Left ventricular to right atrium shunt, _",C0225844,right atrium,73829009
+1,AgilentB00      ,SH-0003         ,No atrial shunt,C0018792,atrial,59652004
+1,AgilentB00      ,SU-0001         ,No cardiac disease identified,C0018799,cardiac disease,56265001
+1,AgilentB00      ,SU-0002         ,Normal echocardiogram for age,C0013516,echocardiogram,40701008
+1,AgilentB00      ,SU-0003         ,Normal fetal echocardiogram,C0013516,echocardiogram,40701008
+1,AgilentB00      ,SV-0001         ,"Single ventricle, unspecified ventricular morphology",C0152424,Single ventricle,45503006
+1,AgilentB00      ,SV-0002         ,"Single ventricle, double inlet left ventricle",C0344622,double inlet left ventricle,253283000
+1,AgilentB00      ,SV-0003         ,"Single ventricle, double inlet right ventricle",C0152424,Single ventricle,45503006
+1,AgilentB00      ,TV-0001         ,Normal tricuspid valve,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0002         ,Small tricuspid valve annulus,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,TV-0003         ,Large tricuspid valve annulus,C0040960,tricuspid valve,46030003
+1,AgilentB00      ,VE-0001         ,Normal systemic venous drainage,C0678862,venous drainage,No match
+1,AgilentB00      ,VE-0002         ,Persistent left superior vena cava into left atrium,C0265931,Persistent left superior vena cava,77978002
+1,AgilentB00      ,VE-0003         ,Persistent left superior vena cava into coronary sinus,C0265931,Persistent left superior vena cava,77978002
+1,AgilentB00      ,VS-0001         ,Intact ventricular septum,C0225870,ventricular septum,589001
+1,AgilentB00      ,VS-0002         ,_ atrio-ventricular canal type ventricular septal defect,C0018818,ventricular septal defect,156914003
+1,AgilentB00      ,VS-0003         ,_ subpulmonary ventricular septal defect,C0018818,ventricular septal defect,156914003

@@ -1,0 +1,73 @@
+﻿LanguageIdk,CodingScheme,FindingCode,FindingCodeText
+1,AgilentB00      ,AO-0001         ,Normal size aorta
+1,AgilentB00      ,AO-0002         ,Large aorta
+1,AgilentB00      ,AO-0003         ,Small aorta
+1,AgilentB00      ,AT-0001         ,Intact atrial septum
+1,AgilentB00      ,AT-0002         ,Patent foramen ovale
+1,AgilentB00      ,AT-0003         ,Small secundum atrial septal defect vs. patent foramen ovale
+1,AgilentB00      ,AV-0001         ,Normal tricuspid aortic valve
+1,AgilentB00      ,AV-0002         ,Normal aortic valve annulus
+1,AgilentB00      ,AV-0003         ,Large aortic valve annulus
+1,AgilentB00      ,CA-0001         ,Normal coronary arteries
+1,AgilentB00      ,CA-0002         ,Usual coronary arteries
+1,AgilentB00      ,CA-0003         ,Circumflex from right coronary artery
+1,AgilentB00      ,CT-0001         ,Tetralogy of Fallot with pulmonary stenosis
+1,AgilentB00      ,CT-0002         ,Tetralogy of Fallot with pulmonary atresia
+1,AgilentB00      ,CT-0003         ,Tetralogy of Fallot with absent pulmonary valve
+1,AgilentB00      ,DA-0001         ,No patent ductus arteriosus
+1,AgilentB00      ,DA-0002         ,Normal fetal patent ductus arteriosus
+1,AgilentB00      ,DA-0003         ,"Patent ductus arteriosus, _"
+1,AgilentB00      ,ID-0001         ,No evidence of vegetation
+1,AgilentB00      ,ID-0002         ,"No evidence of endocarditis, TTE does not rule out  vegetations"
+1,AgilentB00      ,ID-0003         ,Echocardiogram suggestive of endocarditis
+1,AgilentB00      ,IN-0001         ,Balloon atrial septostomy
+1,AgilentB00      ,IN-0002         ,"Closure by device, secundum atrial septal defect"
+1,AgilentB00      ,IN-0003         ,Patent ductus arteriosus coil closure
+1,AgilentB00      ,LA-0001         ,Normal left atrial size
+1,AgilentB00      ,LA-0002         ,_ left atrial enlargement
+1,AgilentB00      ,LA-0003         ,_ left atrium
+1,AgilentB00      ,LV-0001         ,Normal left ventricle structure and size
+1,AgilentB00      ,LV-0002         ,"Dilated left ventricle, _"
+1,AgilentB00      ,LV-0003         ,Left Ventricle false tendon
+1,AgilentB00      ,MV-0001         ,Normal mitral valve
+1,AgilentB00      ,MV-0002         ,Large mitral valve annulus
+1,AgilentB00      ,MV-0003         ,Mitral valve deformities; unspecified
+1,AgilentB00      ,PA-0001         ,Normal pulmonary artery branches
+1,AgilentB00      ,PA-0002         ,Pulmonary arteries not well visualized
+1,AgilentB00      ,PA-0003         ,Dilated pulmonary arteries
+1,AgilentB00      ,PE-0001         ,No pericardial effusion
+1,AgilentB00      ,PE-0002         ,_ pericardial effusion
+1,AgilentB00      ,PE-0003         ,_ anterior pericardial effusion
+1,AgilentB00      ,PH-0001         ,Cardiac output _
+1,AgilentB00      ,PH-0002         ,Right ventricle systolic pressure estimate normal
+1,AgilentB00      ,PH-0003         ,Right ventricle systolic pressure estimate _
+1,AgilentB00      ,PO-0001         ,Levocardia
+1,AgilentB00      ,PO-0002         ,Dextrocardia
+1,AgilentB00      ,PO-0003         ,Dextroversion
+1,AgilentB00      ,PV-0001         ,Normal pulmonic valve
+1,AgilentB00      ,PV-0002         ,Pulmonic valve stenosis
+1,AgilentB00      ,PV-0003         ,Thickened pulmonic valve leaflets
+1,AgilentB00      ,RA-0001         ,Normal right atrial size
+1,AgilentB00      ,RA-0002         ,_ right atrial enlargement
+1,AgilentB00      ,RA-0003         ,_ right atrium
+1,AgilentB00      ,RV-0001         ,Normal right ventricle structure and size
+1,AgilentB00      ,RV-0002         ,"Dilated right ventricle, _"
+1,AgilentB00      ,RV-0003         ,"Thickened right ventricle free wall, _"
+1,AgilentB00      ,SH-0001         ,No left ventricular to right atrial shunt
+1,AgilentB00      ,SH-0002         ,"Left ventricular to right atrium shunt, _"
+1,AgilentB00      ,SH-0003         ,No atrial shunt
+1,AgilentB00      ,SU-0001         ,No cardiac disease identified
+1,AgilentB00      ,SU-0002         ,Normal echocardiogram for age
+1,AgilentB00      ,SU-0003         ,Normal fetal echocardiogram
+1,AgilentB00      ,SV-0001         ,"Single ventricle, unspecified ventricular morphology"
+1,AgilentB00      ,SV-0002         ,"Single ventricle, double inlet left ventricle"
+1,AgilentB00      ,SV-0003         ,"Single ventricle, double inlet right ventricle"
+1,AgilentB00      ,TV-0001         ,Normal tricuspid valve
+1,AgilentB00      ,TV-0002         ,Small tricuspid valve annulus
+1,AgilentB00      ,TV-0003         ,Large tricuspid valve annulus
+1,AgilentB00      ,VE-0001         ,Normal systemic venous drainage
+1,AgilentB00      ,VE-0002         ,Persistent left superior vena cava into left atrium
+1,AgilentB00      ,VE-0003         ,Persistent left superior vena cava into coronary sinus
+1,AgilentB00      ,VS-0001         ,Intact ventricular septum
+1,AgilentB00      ,VS-0002         ,_ atrio-ventricular canal type ventricular septal defect
+1,AgilentB00      ,VS-0003         ,_ subpulmonary ventricular septal defect

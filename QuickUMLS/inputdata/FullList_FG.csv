@@ -1,0 +1,232 @@
+LanguageIdk,FindingGroupIdk,GroupDescription,Origin,CodingScheme,GroupPrifix
+1,60232,Summary TEE,1,AgilentB00      ,ID
+1,60232,Summary TEE,1,AgilentB00      ,SU
+1,60233,Cardiac Position,1,AgilentB00      ,PO
+1,60234,Abdominal Situs,1,AgilentB00      ,PO
+1,60235,Atrial Situs,1,AgilentB00      ,PO
+1,60236,Ventricular Looping,1,AgilentB00      ,PO
+1,60237,Great Vessel Position,1,AgilentB00      ,PO
+1,60238,Systemic Veins,1,AgilentB00      ,VE
+1,60239,Pulmonary Veins,1,AgilentB00      ,VE
+1,60240,Right Atrium,1,AgilentB00      ,RA
+1,60241,Left Atrium,1,AgilentB00      ,LA
+1,60242,Atrial Septum,1,AgilentB00      ,AT
+1,60243,Tricuspid Valve,1,AgilentB00      ,TV
+1,60244,Mitral Valve,1,AgilentB00      ,MV
+1,60245,Common Valve,1,AgilentB00      ,CV
+1,60246,Right Ventricle,1,AgilentB00      ,RV
+1,60247,Left Ventricle,1,AgilentB00      ,LV
+1,60248,Single Ventricle,1,AgilentB00      ,SV
+1,60249,Ventricular Septum,1,AgilentB00      ,VS
+1,60250,Pulmonary Valve,1,AgilentB00      ,PV
+1,60251,Aortic Valve,1,AgilentB00      ,AV
+1,60252,Conotruncus,1,AgilentB00      ,CT
+1,60253,Aorta,1,AgilentB00      ,AO
+1,60254,Pulmonary Arteries,1,AgilentB00      ,PA
+1,60255,Ductus Arteriosus,1,AgilentB00      ,DA
+1,60256,Anatomy,1,AgilentB00      ,CA
+1,60257,Coronary z scores,1,AgilentB00      ,CA
+1,60258,Kawasaki Disease,1,AgilentB00      ,CA
+1,60259,Pericardium,1,AgilentB00      ,PE
+1,60260,Pleura,1,AgilentB00      ,PE
+1,60261,Right Ventricle,1,AgilentB00      ,RV
+1,60262,Left Ventricle,1,AgilentB00      ,LV
+1,60263,Single Ventricle,1,AgilentB00      ,SV
+1,60264,Right Ventricle,1,AgilentB00      ,RV
+1,60265,Left Ventricle,1,AgilentB00      ,LV
+1,60266,Single Ventricle,1,AgilentB00      ,SV
+1,60267,Systemic Veins,1,AgilentB00      ,VE
+1,60268,Pulmonary Veins,1,AgilentB00      ,VE
+1,60269,Tricuspid Valve,1,AgilentB00      ,TV
+1,60270,Mitral Valve,1,AgilentB00      ,MV
+1,60271,Pulmonary Valve,1,AgilentB00      ,PA
+1,60271,Pulmonary Valve,1,AgilentB00      ,PV
+1,60272,Aortic Valve,1,AgilentB00      ,AV
+1,60273,Pulmonary Arteries,1,AgilentB00      ,PA
+1,60274,Aorta,1,AgilentB00      ,AO
+1,60275,Cardiac Output,1,AgilentB00      ,PH
+1,60276,Right Sided Pressures,1,AgilentB00      ,PH
+1,60277,Fetal Rhythm,1,AgilentB00      ,PH
+1,60278,Fetal Blood Flow,1,AgilentB00      ,PH
+1,60279,Atrial,1,AgilentB00      ,SH
+1,60280,Ventricular,1,AgilentB00      ,SH
+1,60281,Great Vessel,1,AgilentB00      ,SH
+1,60282,Catheterization,1,AgilentB00      ,IN
+1,60283,Surgery,1,AgilentB00      ,IN
+1,60294,Summary,1,AgilentB00      ,SU
+1,60295,Infectious Disease,1,AgilentB00      ,ID
+1,60401,Summary,1,AgilentB00      ,SU
+1,60402,Cardiac Position,1,AgilentB00      ,PO
+1,60403,Abdominal Situs,1,AgilentB00      ,PO
+1,60404,Atrial Situs,1,AgilentB00      ,PO
+1,60405,Ventricular Looping,1,AgilentB00      ,PO
+1,60406,Great Vessel Position,1,AgilentB00      ,PO
+1,60407,Systemic Veins,1,AgilentB00      ,VE
+1,60408,Pulmonary Veins,1,AgilentB00      ,VE
+1,60409,Right Atrium,1,AgilentB00      ,RA
+1,60410,Left Atrium,1,AgilentB00      ,LA
+1,60411,Atrial Septum,1,AgilentB00      ,AT
+1,60412,Tricuspid Valve,1,AgilentB00      ,TV
+1,60413,Mitral Valve,1,AgilentB00      ,MV
+1,60414,Common Valve,1,AgilentB00      ,CV
+1,60415,Right Ventricle,1,AgilentB00      ,RV
+1,60416,Left Ventricle,1,AgilentB00      ,LV
+1,60417,Single Ventricle,1,AgilentB00      ,SV
+1,60418,Ventricular Septum,1,AgilentB00      ,VS
+1,60419,Pulmonary Valve,1,AgilentB00      ,PV
+1,60420,Aortic Valve,1,AgilentB00      ,AV
+1,60421,Conotruncus,1,AgilentB00      ,CT
+1,60422,Aorta,1,AgilentB00      ,AO
+1,60423,Pulmonary Arteries,1,AgilentB00      ,PA
+1,60424,Ductus Arteriosus,1,AgilentB00      ,DA
+1,60425,Anatomy,1,AgilentB00      ,CA
+1,60426,Coronary z scores,1,AgilentB00      ,CA
+1,60427,Kawasaki Disease,1,AgilentB00      ,CA
+1,60428,Pericardium,1,AgilentB00      ,PE
+1,60429,Pleura,1,AgilentB00      ,PE
+1,60430,Right Ventricle,1,AgilentB00      ,RV
+1,60431,Left Ventricle,1,AgilentB00      ,LV
+1,60432,Single Ventricle,1,AgilentB00      ,SV
+1,60435,Right Ventricle,1,AgilentB00      ,RV
+1,60436,Left Ventricle,1,AgilentB00      ,LV
+1,60437,Single Ventricle,1,AgilentB00      ,SV
+1,60438,Systemic Veins,1,AgilentB00      ,VE
+1,60439,Pulmonary Veins,1,AgilentB00      ,VE
+1,60440,Tricuspid Valve,1,AgilentB00      ,TV
+1,60441,Mitral Valve,1,AgilentB00      ,MV
+1,60442,Pulmonary Valve,1,AgilentB00      ,PA
+1,60442,Pulmonary Valve,1,AgilentB00      ,PV
+1,60443,Aortic Valve,1,AgilentB00      ,AV
+1,60444,Pulmonary Arteries,1,AgilentB00      ,PA
+1,60445,Aorta,1,AgilentB00      ,AO
+1,60446,Cardiac Output,1,AgilentB00      ,PH
+1,60447,Right Sided Pressures,1,AgilentB00      ,PH
+1,60448,Fetal Rhythm,1,AgilentB00      ,PH
+1,60449,Fetal Blood Flow,1,AgilentB00      ,PH
+1,60450,Atrial,1,AgilentB00      ,SH
+1,60451,Ventricular,1,AgilentB00      ,SH
+1,60452,Great Vessel,1,AgilentB00      ,SH
+1,60453,Catheterization,1,AgilentB00      ,IN
+1,60454,Surgery,1,AgilentB00      ,IN
+1,60455,Infectious Disease,1,AgilentB00      ,ID
+1,60461,Summary TEE,1,AgilentB00      ,ID
+1,60461,Summary TEE,1,AgilentB00      ,SU
+1,60479,#NAME?,1,AgilentB00      ,VE
+1,60480,#NAME?,1,AgilentB00      ,VE
+1,60481,#NAME?,1,AgilentB00      ,RA
+1,60482,#NAME?,1,AgilentB00      ,LA
+1,60483,#NAME?,1,AgilentB00      ,AT
+1,60484,#NAME?,1,AgilentB00      ,AT
+1,60484,#NAME?,1,AgilentB00      ,SH
+1,60485,#NAME?,1,AgilentB00      ,TV
+1,60486,#NAME?,1,AgilentB00      ,MV
+1,60487,#NAME?,1,AgilentB00      ,CV
+1,60487,#NAME?,1,AgilentB00      ,MV
+1,60487,#NAME?,1,AgilentB00      ,TV
+1,60488,#NAME?,1,AgilentB00      ,RV
+1,60489,#NAME?,1,AgilentB00      ,LV
+1,60490,#NAME?,1,AgilentB00      ,SV
+1,60491,#NAME?,1,AgilentB00      ,SH
+1,60491,#NAME?,1,AgilentB00      ,VS
+1,60492,#NAME?,1,AgilentB00      ,PV
+1,60493,#NAME?,1,AgilentB00      ,AV
+1,60495,#NAME?,1,AgilentB00      ,CT
+1,60496,#NAME?,1,AgilentB00      ,PA
+1,60497,#NAME?,1,AgilentB00      ,AO
+1,60498,#NAME?,1,AgilentB00      ,CT
+1,60499,#NAME?,1,AgilentB00      ,DA
+1,60499,#NAME?,1,AgilentB00      ,SH
+1,60500,#NAME?,1,AgilentB00      ,CA
+1,60501,#NAME?,1,AgilentB00      ,PE
+1,60502,#NAME?,1,AgilentB00      ,PE
+1,60601,Summary,1,AgilentB00      ,SU
+1,60602,Cardiac Position,1,AgilentB00      ,PO
+1,60603,Abdominal Situs,1,AgilentB00      ,PO
+1,60604,Atrial Situs,1,AgilentB00      ,PO
+1,60605,Ventricular Looping,1,AgilentB00      ,PO
+1,60606,Great Vessel Position,1,AgilentB00      ,PO
+1,60607,Systemic Veins,1,AgilentB00      ,VE
+1,60608,Pulmonary Veins,1,AgilentB00      ,VE
+1,60609,Right Atrium,1,AgilentB00      ,RA
+1,60610,Left Atrium,1,AgilentB00      ,LA
+1,60611,Atrial Septum,1,AgilentB00      ,AT
+1,60612,Tricuspid Valve,1,AgilentB00      ,TV
+1,60613,Mitral Valve,1,AgilentB00      ,MV
+1,60614,Common Valve,1,AgilentB00      ,CV
+1,60615,Right Ventricle,1,AgilentB00      ,RV
+1,60616,Left Ventricle,1,AgilentB00      ,LV
+1,60617,Single Ventricle,1,AgilentB00      ,SV
+1,60618,Ventricular Septum,1,AgilentB00      ,VS
+1,60619,Pulmonary Valve,1,AgilentB00      ,PV
+1,60620,Aortic Valve,1,AgilentB00      ,AV
+1,60621,Conotruncus,1,AgilentB00      ,CT
+1,60622,Aorta,1,AgilentB00      ,AO
+1,60623,Pulmonary Arteries,1,AgilentB00      ,PA
+1,60624,Ductus Arteriosus,1,AgilentB00      ,DA
+1,60625,Anatomy,1,AgilentB00      ,CA
+1,60626,Coronary z scores,1,AgilentB00      ,CA
+1,60627,Kawasaki Disease,1,AgilentB00      ,CA
+1,60628,Pericardium,1,AgilentB00      ,PE
+1,60629,Pleura,1,AgilentB00      ,PE
+1,60630,Right Ventricle,1,AgilentB00      ,RV
+1,60631,Left Ventricle,1,AgilentB00      ,LV
+1,60632,Single Ventricle,1,AgilentB00      ,SV
+1,60635,Right Ventricle,1,AgilentB00      ,RV
+1,60636,Left Ventricle,1,AgilentB00      ,LV
+1,60637,Single Ventricle,1,AgilentB00      ,SV
+1,60638,Systemic Veins,1,AgilentB00      ,VE
+1,60639,Pulmonary Veins,1,AgilentB00      ,VE
+1,60640,Tricuspid Valve,1,AgilentB00      ,TV
+1,60641,Mitral Valve,1,AgilentB00      ,MV
+1,60642,Pulmonary Valve,1,AgilentB00      ,PA
+1,60642,Pulmonary Valve,1,AgilentB00      ,PV
+1,60643,Aortic Valve,1,AgilentB00      ,AV
+1,60644,Pulmonary Arteries,1,AgilentB00      ,PA
+1,60645,Aorta,1,AgilentB00      ,AO
+1,60646,Cardiac Output,1,AgilentB00      ,PH
+1,60647,Right Sided Pressures,1,AgilentB00      ,PH
+1,60648,Fetal Rhythm,1,AgilentB00      ,PH
+1,60649,Fetal Blood Flow,1,AgilentB00      ,PH
+1,60650,Atrial,1,AgilentB00      ,SH
+1,60651,Ventricular,1,AgilentB00      ,SH
+1,60652,Great Vessel,1,AgilentB00      ,SH
+1,60653,Catheterization,1,AgilentB00      ,IN
+1,60654,Surgery,1,AgilentB00      ,IN
+1,60655,Infectious Disease,1,AgilentB00      ,ID
+1,60662,RHD Mitral Morphology,1,AgilentB00      ,MV
+1,60663,RHD Mitral Regurgitation,1,AgilentB00      ,MV
+1,60664,RHD Mitral Stenosis,1,AgilentB00      ,MV
+1,60665,RHD Aortic Morphology,1,AgilentB00      ,AV
+1,60666,RHD Aortic Regurgitation,1,AgilentB00      ,AV
+1,60667,RHD Aortic Stenosis,1,AgilentB00      ,AV
+1,60706,Summary TEE,1,AgilentB00      ,ID
+1,60706,Summary TEE,1,AgilentB00      ,SU
+1,60743,Ventricular septal anatomy,1,AgilentB00      ,VS
+1,60744,Ventricular septal shunt,1,AgilentB00      ,SH
+1,60817,*ghs 3.1 Left Atrium,1,AgilentB00      ,LA
+1,60843,*ghs 3.1 Pericardium,1,AgilentB00      ,PE
+1,60845,*ghs 3.1 Aorta,1,AgilentB00      ,AO
+1,60856,*ghs 3.1 Non-cardiac Findings,1,AgilentB00      ,PE
+1,60901,*ghs Pericardium,1,AgilentB00      ,PE
+1,60914,*ghs Additional Findings,1,AgilentB00      ,PE
+1,60970,* ghs CTCA Aorta,1,AgilentB00      ,AO
+1,60974,* ghs MRI pericardium,1,AgilentB00      ,PE
+1,61005,* ghs MRI Vessels Summary,1,AgilentB00      ,AO
+1,61011,* ghs MRI Additional Thorax,1,AgilentB00      ,PE
+1,61060,*Peds Summary,1,AgilentB00      ,SU
+1,61061,*Peds Cardiac Position,1,AgilentB00      ,PO
+1,61063,*Peds Atrial Situs,1,AgilentB00      ,PO
+1,61064,*Peds Ventricular Looping,1,AgilentB00      ,PO
+1,61068,*Peds Systemic Veins,1,AgilentB00      ,VE
+1,61073,*Peds Mitral Valve,1,AgilentB00      ,MV
+1,61075,*Peds Left Ventricle,1,AgilentB00      ,LV
+1,61078,*Peds Pulmonary Valve,1,AgilentB00      ,PV
+1,61079,*Peds Aortic Valve,1,AgilentB00      ,AV
+1,61080,*Peds Aorta,1,AgilentB00      ,AO
+1,61082,*Peds Ductus Arteriosus,1,AgilentB00      ,DA
+1,61083,*Peds Anatomy,1,AgilentB00      ,CA
+1,61085,*Peds Pericardium,1,AgilentB00      ,PE
+1,61090,*Peds Catheterization,1,AgilentB00      ,IN
+1,61091,*Peds Surgery,1,AgilentB00      ,IN
+1,61104,*Peds LV Function,1,AgilentB00      ,LV
+1,61114,*Peds Fetal Rhythm,1,AgilentB00      ,PH

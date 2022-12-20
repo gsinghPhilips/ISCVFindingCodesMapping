@@ -1,0 +1,950 @@
+﻿LanguageIdk,CodingScheme,FindingCode,FindingCodeText,Finding code group,Group Description
+1,AgilentB00      ,AO-0001         ,Normal size aorta,AO,Aorta
+1,AgilentB00      ,AO-0002         ,Large aorta,AO,Aorta
+1,AgilentB00      ,AO-0003         ,Small aorta,AO,Aorta
+1,AgilentB00      ,AO-0004         ,Diminutive aorta,AO,Aorta
+1,AgilentB00      ,AO-0005         ,Small transverse arch,AO,Aorta
+1,AgilentB00      ,AO-0006         ,Small distal arch,AO,Aorta
+1,AgilentB00      ,AO-0007         ,Small aortic isthmus,AO,Aorta
+1,AgilentB00      ,AO-0008         ,No evidence of coarctation of the aorta,AO,Aorta
+1,AgilentB00      ,AO-0009         ,"Coarctation of the aorta, unspecified",AO,Aorta
+1,AgilentB00      ,AO-0010         ,"Coarctation of the aorta, preductal",AO,Aorta
+1,AgilentB00      ,AO-0011         ,Can not rule out coarctation of the aorta in presence of PDA,AO,Aorta
+1,AgilentB00      ,AO-0012         ,"Coarctation of the aorta, juxtaductal",AO,Aorta
+1,AgilentB00      ,AO-0013         ,"Coarctation of the aorta, postductal",AO,Aorta
+1,AgilentB00      ,AO-0014         ,Dilatation of the ascending aorta,AO,Aorta
+1,AgilentB00      ,AO-0015         ,No aortic root dilatation,AO,Aorta
+1,AgilentB00      ,AO-0016         ,_ aortic root dilatation,AO,Aorta
+1,AgilentB00      ,AO-0017         ,Aortic aneurysm,AO,Aorta
+1,AgilentB00      ,AO-0018         ,Systemic artery hypertension,AO,Aorta
+1,AgilentB00      ,AO-0019         ,Normal left aortic arch,AO,Aorta
+1,AgilentB00      ,AO-0020         ,Common brachiocephalic trunk,AO,Aorta
+1,AgilentB00      ,AO-0021         ,Left aortic arch with aberrant right subclavian artery,AO,Aorta
+1,AgilentB00      ,AO-0022         ,Cervical aortic arch,AO,Aorta
+1,AgilentB00      ,AO-0023         ,Right aortic arch,AO,Aorta
+1,AgilentB00      ,AO-0024         ,Right aortic arch with mirror image branching,AO,Aorta
+1,AgilentB00      ,AO-0025         ,Right aortic arch with aberrant left subclavian artery,AO,Aorta
+1,AgilentB00      ,AO-0026         ,Right aortic arch and right descending thoracic aorta,AO,Aorta
+1,AgilentB00      ,AO-0027         ,Double aortic arch,AO,Aorta
+1,AgilentB00      ,AO-0028         ,Vascular ring,AO,Aorta
+1,AgilentB00      ,AO-0029         ,Post stenotic ascending aorta dilatation,AO,Aorta
+1,AgilentB00      ,AO-0030         ,Ascending aortic velocity normal,AO,Aorta
+1,AgilentB00      ,AO-0031         ,Ascending aortic velocity decreased,AO,Aorta
+1,AgilentB00      ,AO-0032         ,Ascending aortic velocity increased,AO,Aorta
+1,AgilentB00      ,AO-0033         ,Descending aortic velocity normal,AO,Aorta
+1,AgilentB00      ,AO-0034         ,Descending aortic velocity decreased,AO,Aorta
+1,AgilentB00      ,AO-0035         ,Descending aortic velocity increased,AO,Aorta
+1,AgilentB00      ,AO-0036         ,_ mean descending aorta gradient,AO,Aorta
+1,AgilentB00      ,AO-0037         ,_ peak descending aorta gradient,AO,Aorta
+1,AgilentB00      ,AO-0041         ,No residual coarctation,AO,Aorta
+1,AgilentB00      ,AO-0042         ,_ coarctation gradient,AO,Aorta
+1,AgilentB00      ,AO-0043         ,No drag in descending aorta,AO,Aorta
+1,AgilentB00      ,AO-0044         ,Drag in descending aorta consistent with coarctation of the aorta,AO,Aorta
+1,AgilentB00      ,AO-0045         ,The aortic root is not well visualized.,AO,Aorta
+1,AgilentB00      ,AO-0046         ,The aortic root is not well visualized but is probably normal size.,AO,Aorta
+1,AgilentB00      ,AO-0047         ,The aortic root is normal size.,AO,Aorta
+1,AgilentB00      ,AO-0048         ,_ aortic root dilatation.,AO,Aorta
+1,AgilentB00      ,AO-0051         ,No obvious dissection could be visualized.,AO,Aorta
+1,AgilentB00      ,AO-0052         ,Thickened aortic wall visualized in the _ consistent with an intramural hematoma.,AO,Aorta
+1,AgilentB00      ,AO-0053         ,Type _ intramural hematoma.,AO,Aorta
+1,AgilentB00      ,AO-0054         ,Type _ aortic dissection.,AO,Aorta
+1,AgilentB00      ,AO-0055         ,Intimal flap visualized in the _ consistent with an aortic dissection.,AO,Aorta
+1,AgilentB00      ,AO-0056         ,Entry intimal tear visualized.,AO,Aorta
+1,AgilentB00      ,AO-0057         ,Exit intimal tear visualized.,AO,Aorta
+1,AgilentB00      ,AO-0058         ,Aneurysm of the _.,AO,Aorta
+1,AgilentB00      ,AO-0059         ,_ atherosclerotic plaque(s) in the ascending aorta.,AO,Aorta
+1,AgilentB00      ,AO-0060         ,_ atherosclerotic plaque(s) in the aortic arch.,AO,Aorta
+1,AgilentB00      ,AO-0061         ,_ atherosclerotic plaque(s) in the descending aorta.,AO,Aorta
+1,AgilentB00      ,AO-0062         ,Fixed mural thrombus (thrombi) in _.,AO,Aorta
+1,AgilentB00      ,AO-0063         ,Mobile mural thrombus (thrombi) in _.,AO,Aorta
+1,AgilentB00      ,AO-0065         ,The aortic Sinus(es) of Valsalva are _ dilated.,AO,Aorta
+1,AgilentB00      ,AO-0066         ,Sinus of Valsalva aneurysm.,AO,Aorta
+1,AgilentB00      ,AO-0067         ,Ruptured Sinus of Valsalva aneurysm.,AO,Aorta
+1,AgilentB00      ,AO-0068         ,_ dilated ascending aorta.,AO,Aorta
+1,AgilentB00      ,AO-0069         ,_ dilated aortic arch.,AO,Aorta
+1,AgilentB00      ,AO-0070         ,_ dilated descending aorta.,AO,Aorta
+1,AgilentB00      ,AO-0071         ,_ dilated abdominal aorta.,AO,Aorta
+1,AgilentB00      ,AO-0072         ,There is an overriding aortic root.,AO,Aorta
+1,AgilentB00      ,AO-0073         ,Coronary artery fistula is suggested.,AO,Aorta
+1,AgilentB00      ,AO-0074         ,No Doppler or imaging evidence of an aortic coarctation.,AO,Aorta
+1,AgilentB00      ,AO-0076         ,Aortic coarctation is present.,AO,Aorta
+1,AgilentB00      ,AT-0001         ,Intact atrial septum,AT,Atrial Septum
+1,AgilentB00      ,AT-0002         ,Patent foramen ovale,AT,Atrial Septum
+1,AgilentB00      ,AT-0003         ,Small secundum atrial septal defect vs. patent foramen ovale,AT,Atrial Septum
+1,AgilentB00      ,AT-0004         ,"Atrial septal defect, unspecified",AT,Atrial Septum
+1,AgilentB00      ,AT-0005         ,"_ atrial septal defect, secundum type",AT,Atrial Septum
+1,AgilentB00      ,AT-0006         ,"_ atrial septal defect, primum type",AT,Atrial Septum
+1,AgilentB00      ,AT-0007         ,"_ atrial septal defect, coronary sinus type",AT,Atrial Septum
+1,AgilentB00      ,AT-0008         ,"_ atrial septal defect, superior vena cava sinus venosus type",AT,Atrial Septum
+1,AgilentB00      ,AT-0009         ,"_ atrial septal defect, inferior vena cava sinus venosus type",AT,Atrial Septum
+1,AgilentB00      ,AT-0010         ,Aneurysm of septum primum,AT,Atrial Septum
+1,AgilentB00      ,AT-0011         ,Common atrium,AT,Atrial Septum
+1,AgilentB00      ,AT-0012         ,"Atrial septal defect, device visualized",AT,Atrial Septum
+1,AgilentB00      ,AT-0013         ,"Atrial septal defect, balloon septostomy",AT,Atrial Septum
+1,AgilentB00      ,AT-0014         ,"Atrial septal defect, fenestrated septum primum",AT,Atrial Septum
+1,AgilentB00      ,AT-0015         ,"Atrial septal defect, multiple",AT,Atrial Septum
+1,AgilentB00      ,AT-0016         ,The interatrial septum is intact with no evidence for an atrial septal defect.,AT,Atrial Septum
+1,AgilentB00      ,AT-0021         ,The discontinuity of the interatrial septum is suggestive of an atrial septal defect.,AT,Atrial Septum
+1,AgilentB00      ,AT-0028         ,The interatrial septum bows toward right atrium consistent with elevated left atrial pressure.,AT,Atrial Septum
+1,AgilentB00      ,AT-0029         ,The atrial septum is aneurysmal.,AT,Atrial Septum
+1,AgilentB00      ,AT-0030         ,Interatrial septal thickening is noted.,AT,Atrial Septum
+1,AgilentB00      ,AT-0032         ,Lipomatous hypertrophy of the interatrial septum is noted.,AT,Atrial Septum
+1,AgilentB00      ,AV-0001         ,Normal tricuspid aortic valve,AV,Aortic Valve
+1,AgilentB00      ,AV-0002         ,Normal aortic valve annulus,AV,Aortic Valve
+1,AgilentB00      ,AV-0003         ,Large aortic valve annulus,AV,Aortic Valve
+1,AgilentB00      ,AV-0004         ,Small aortic valve annulus,AV,Aortic Valve
+1,AgilentB00      ,AV-0005         ,Sub-aortic conus,AV,Aortic Valve
+1,AgilentB00      ,AV-0006         ,Aortic valve atresia,AV,Aortic Valve
+1,AgilentB00      ,AV-0007         ,Aortic valve stenosis,AV,Aortic Valve
+1,AgilentB00      ,AV-0008         ,Prosthetic aortic valve,AV,Aortic Valve
+1,AgilentB00      ,AV-0009         ,Thickened aortic valve leaflets,AV,Aortic Valve
+1,AgilentB00      ,AV-0010         ,Doming aortic valve leaflets,AV,Aortic Valve
+1,AgilentB00      ,AV-0011         ,Bicuspid aortic valve,AV,Aortic Valve
+1,AgilentB00      ,AV-0012         ,Bicommissural aortic valve,AV,Aortic Valve
+1,AgilentB00      ,AV-0013         ,"Bicommissural aortic valve, _ fusion",AV,Aortic Valve
+1,AgilentB00      ,AV-0014         ,Unicuspid aortic valve,AV,Aortic Valve
+1,AgilentB00      ,AV-0015         ,Quadricuspid aortic valve,AV,Aortic Valve
+1,AgilentB00      ,AV-0016         ,Dysplastic aortic valve,AV,Aortic Valve
+1,AgilentB00      ,AV-0017         ,Supravalvular aortic stenosis,AV,Aortic Valve
+1,AgilentB00      ,AV-0018         ,Supravalvular discrete aortic stenosis,AV,Aortic Valve
+1,AgilentB00      ,AV-0019         ,Supravalvular tubular aortic stenosis,AV,Aortic Valve
+1,AgilentB00      ,AV-0020         ,Subvalvar aortic stenosis,AV,Aortic Valve
+1,AgilentB00      ,AV-0021         ,Subvalvar fibrous aortic stenosis,AV,Aortic Valve
+1,AgilentB00      ,AV-0022         ,Subvalvar fibromuscular aortic stenosis,AV,Aortic Valve
+1,AgilentB00      ,AV-0023         ,Subvalvar tunnel aortic stenosis,AV,Aortic Valve
+1,AgilentB00      ,AV-0024         ,Prolapsed aortic valve cusps,AV,Aortic Valve
+1,AgilentB00      ,AV-0025         ,No aortic valve prolapse,AV,Aortic Valve
+1,AgilentB00      ,AV-0026         ,Aortic valve prolapse into membranous VSD,AV,Aortic Valve
+1,AgilentB00      ,AV-0027         ,Aortic valve prolapse into membranous VSD with no AI,AV,Aortic Valve
+1,AgilentB00      ,AV-0028         ,Aortic valve prolapse into membranous VSD with aortic insufficiency,AV,Aortic Valve
+1,AgilentB00      ,AV-0029         ,Aortic valve prolapse into subpulmonary ventricular septal defect,AV,Aortic Valve
+1,AgilentB00      ,AV-0030         ,Aortic valve prolapse into subpulmonary VSD with no AI,AV,Aortic Valve
+1,AgilentB00      ,AV-0031         ,Aortic valve prolapse into subpulmonary VSD with AI,AV,Aortic Valve
+1,AgilentB00      ,AV-0032         ,Sinus of Valsalva aneurysm,AV,Aortic Valve
+1,AgilentB00      ,AV-0033         ,Vegetation on aortic valve,AV,Aortic Valve
+1,AgilentB00      ,AV-0034         ,Aortic valve insufficiency,AV,Aortic Valve
+1,AgilentB00      ,AV-0035         ,Normal subaortic velocity,AV,Aortic Valve
+1,AgilentB00      ,AV-0036         ,Normal aortic valve velocity,AV,Aortic Valve
+1,AgilentB00      ,AV-0037         ,No aortic valve insufficiency,AV,Aortic Valve
+1,AgilentB00      ,AV-0038         ,Decreased subaortic velocity,AV,Aortic Valve
+1,AgilentB00      ,AV-0039         ,Increased subaortic velocity,AV,Aortic Valve
+1,AgilentB00      ,AV-0040         ,Decreased aortic valve velocity,AV,Aortic Valve
+1,AgilentB00      ,AV-0041         ,Increased aortic valve velocity,AV,Aortic Valve
+1,AgilentB00      ,AV-0042         ,_ mean subaortic gradient,AV,Aortic Valve
+1,AgilentB00      ,AV-0043         ,_ peak subaortic gradient,AV,Aortic Valve
+1,AgilentB00      ,AV-0044         ,_ mean aortic valve gradient,AV,Aortic Valve
+1,AgilentB00      ,AV-0045         ,_ peak aortic valve gradient,AV,Aortic Valve
+1,AgilentB00      ,AV-0046         ,_ mean supravalvar gradient,AV,Aortic Valve
+1,AgilentB00      ,AV-0047         ,_ peak supravalvar gradient,AV,Aortic Valve
+1,AgilentB00      ,AV-0048         ,_ aortic valve insufficiency,AV,Aortic Valve
+1,AgilentB00      ,AV-0049         ,Normal prosthetic aortic valve gradient,AV,Aortic Valve
+1,AgilentB00      ,AV-0050         ,_ prosthetic aortic valve stenosis,AV,Aortic Valve
+1,AgilentB00      ,AV-0051         ,No prosthetic aortic valve insufficiency,AV,Aortic Valve
+1,AgilentB00      ,AV-0052         ,_ prosthetic aortic valve insufficiency,AV,Aortic Valve
+1,AgilentB00      ,AV-0053         ,Normal neoaortic valve velocity,AV,Aortic Valve
+1,AgilentB00      ,AV-0054         ,_ mean neoaortic valve gradient,AV,Aortic Valve
+1,AgilentB00      ,AV-0055         ,_ peak neoaortic valve gradient,AV,Aortic Valve
+1,AgilentB00      ,AV-0056         ,Mild peak neoaortic valve gradient,AV,Aortic Valve
+1,AgilentB00      ,AV-0057         ,Moderate peak neoaortic valve gradient,AV,Aortic Valve
+1,AgilentB00      ,AV-0058         ,Severe peak neoaortic valve gradient,AV,Aortic Valve
+1,AgilentB00      ,AV-0059         ,No neoaortic valve insufficiency,AV,Aortic Valve
+1,AgilentB00      ,AV-0060         ,_ neoaortic valve insufficiency,AV,Aortic Valve
+1,AgilentB00      ,AV-0061         ,The aortic valve is not well visualized.,AV,Aortic Valve
+1,AgilentB00      ,AV-0070         ,There is systolic doming of the aortic valve leaflets(s).,AV,Aortic Valve
+1,AgilentB00      ,AV-0074         ,The _ coronary cusp is flail.,AV,Aortic Valve
+1,AgilentB00      ,AV-0078         ,There is no aortic valvular vegetation.,AV,Aortic Valve
+1,AgilentB00      ,AV-0079         ,Cannot exclude aortic valvular vegetation.,AV,Aortic Valve
+1,AgilentB00      ,AV-0080         ,There is a _ vegetation or mass on the aortic valve.,AV,Aortic Valve
+1,AgilentB00      ,AV-0083         ,_ valvular aortic stenosis.,AV,Aortic Valve
+1,AgilentB00      ,AV-0084         ,_ supravalvular aortic stenosis.,AV,Aortic Valve
+1,AgilentB00      ,AV-0085         ,_ subvalvular aortic stenosis.,AV,Aortic Valve
+1,AgilentB00      ,AV-0088         ,There is an eccentric jet of aortic insufficiency directed against the anterior mitral leaflet.,AV,Aortic Valve
+1,AgilentB00      ,AV-0089         ,There is an eccentric jet of aortic insufficiency directed against the septum.,AV,Aortic Valve
+1,AgilentB00      ,AV-0090         ,The prosthetic aortic valve is not well visualized.,AV,Aortic Valve
+1,AgilentB00      ,AV-0091         ,The prosthetic aortic valve is well-seated.,AV,Aortic Valve
+1,AgilentB00      ,AV-0092         ,There is a _ aortic valve.,AV,Aortic Valve
+1,AgilentB00      ,AV-0093         ,There is a _ aortic mechanical prosthesis.,AV,Aortic Valve
+1,AgilentB00      ,AV-0094         ,A homograft is present.,AV,Aortic Valve
+1,AgilentB00      ,AV-0095         ,The prosthetic aortic valve appears to open well.,AV,Aortic Valve
+1,AgilentB00      ,AV-0096         ,The opening of the prosthetic aortic valve appears to be limited.,AV,Aortic Valve
+1,AgilentB00      ,AV-0097         ,The prosthetic aortic valve appears abnormal.,AV,Aortic Valve
+1,AgilentB00      ,AV-0098         ,There is no thrombus on the prosthetic aortic valve.,AV,Aortic Valve
+1,AgilentB00      ,AV-0099         ,There appears to be a thrombus associated with the prosthetic aortic valve.,AV,Aortic Valve
+1,AgilentB00      ,AV-0100         ,Abnormal rocking of prosthetic aortic valve suggests dehiscence.,AV,Aortic Valve
+1,AgilentB00      ,AV-0106         ,There are no vegetations on this prosthetic aortic valve.,AV,Aortic Valve
+1,AgilentB00      ,AV-0107         ,Vegetations are suspected on this prosthetic aortic valve.,AV,Aortic Valve
+1,AgilentB00      ,AV-0108         ,Vegetations are present on this prosthetic aortic valve.,AV,Aortic Valve
+1,AgilentB00      ,AV-0109         ,Bioprosthetic leaflets are not well visualized.,AV,Aortic Valve
+1,AgilentB00      ,AV-0110         ,Bioprosthetic leaflets are thin and move normally.,AV,Aortic Valve
+1,AgilentB00      ,AV-0111         ,Bioprosthetic leaflets are thick and move well.,AV,Aortic Valve
+1,AgilentB00      ,AV-0112         ,Bioprosthetic leaflets are thickened and motion is restricted.,AV,Aortic Valve
+1,AgilentB00      ,AV-0114         ,The valve opening cannot be assessed due to imaging artifacts from the prosthesis.,AV,Aortic Valve
+1,AgilentB00      ,AV-0115         ,Status post Ross procedure.,AV,Aortic Valve
+1,AgilentB00      ,CA-0001         ,Normal coronary arteries,CA,Coronary artery finding
+1,AgilentB00      ,CA-0002         ,Usual coronary arteries,CA,Coronary artery finding
+1,AgilentB00      ,CA-0003         ,Circumflex from right coronary artery,CA,Coronary artery finding
+1,AgilentB00      ,CA-0004         ,Single left coronary artery,CA,Coronary artery finding
+1,AgilentB00      ,CA-0005         ,Single right coronary artery,CA,Coronary artery finding
+1,AgilentB00      ,CA-0006         ,Inverted coronary arteries,CA,Coronary artery finding
+1,AgilentB00      ,CA-0007         ,Left anterior descending from right coronary artery,CA,Coronary artery finding
+1,AgilentB00      ,CA-0008         ,Intramural left coronary artery from right septal sinus of Valsalva,CA,Coronary artery finding
+1,AgilentB00      ,CA-0009         ,Intramural LAD from the right septal sinus with the LCCA from RCA,CA,Coronary artery finding
+1,AgilentB00      ,CA-0010         ,Intramural LAD  from right sinus with LCCA and accessory LAD from RCA,CA,Coronary artery finding
+1,AgilentB00      ,CA-0011         ,Intramural RCA from left septal sinus of Valsalva,CA,Coronary artery finding
+1,AgilentB00      ,CA-0012         ,Intramural RCA from left septal sinus of Valsalva with LCCA  from RCA,CA,Coronary artery finding
+1,AgilentB00      ,CA-0013         ,Intramural RCA from right septal sinus near intercoronary commissure,CA,Coronary artery finding
+1,AgilentB00      ,CA-0014         ,Anomalous origin of coronary artery; LCA from pulmonary artery,CA,Coronary artery finding
+1,AgilentB00      ,CA-0015         ,Anomalous origin of coronary artery; circumflex from pulmonary artery,CA,Coronary artery finding
+1,AgilentB00      ,CA-0016         ,Anomalous origin of coronary artery; LAD from pulmonary artery,CA,Coronary artery finding
+1,AgilentB00      ,CA-0017         ,Anomalous origin of coronary artery; RCA from pulmonary artery,CA,Coronary artery finding
+1,AgilentB00      ,CA-0018         ,Right coronary artery fistula,CA,Coronary artery finding
+1,AgilentB00      ,CA-0019         ,Left coronary artery fistula,CA,Coronary artery finding
+1,AgilentB00      ,CA-0020         ,Right coronary artery measures _ mm,CA,Coronary artery finding
+1,AgilentB00      ,CA-0021         ,Left main coronary artery measures _ mm,CA,Coronary artery finding
+1,AgilentB00      ,CA-0022         ,Left anterior descending coronary artery measures _ mm,CA,Coronary artery finding
+1,AgilentB00      ,CA-0023         ,Circumflex coronary artery measures _ mm,CA,Coronary artery finding
+1,AgilentB00      ,CA-0024         ,Posterior descending coronary artery measures _ mm,CA,Coronary artery finding
+1,AgilentB00      ,CA-0025         ,No evidence of right coronary artery aneurysm,CA,Coronary artery finding
+1,AgilentB00      ,CA-0026         ,Ectasia of right coronary artery,CA,Coronary artery finding
+1,AgilentB00      ,CA-0027         ,_ sacular aneurysm of right coronary artery,CA,Coronary artery finding
+1,AgilentB00      ,CA-0028         ,_ fusiform aneurysm of right coronary artery,CA,Coronary artery finding
+1,AgilentB00      ,CA-0029         ,No evidence of left main coronary artery aneurysm,CA,Coronary artery finding
+1,AgilentB00      ,CA-0030         ,Ectasia of left main coronary artery,CA,Coronary artery finding
+1,AgilentB00      ,CA-0031         ,_ sacular aneurysm of left main coronary artery,CA,Coronary artery finding
+1,AgilentB00      ,CA-0032         ,_ fusiform aneurysm of left main coronary artery,CA,Coronary artery finding
+1,AgilentB00      ,CA-0033         ,No evidence of left anterior descending coronary artery aneurysm,CA,Coronary artery finding
+1,AgilentB00      ,CA-0034         ,Ectasia of left anterior descending coronary artery,CA,Coronary artery finding
+1,AgilentB00      ,CA-0035         ,_ sacular aneurysm of left anterior descending coronary artery,CA,Coronary artery finding
+1,AgilentB00      ,CA-0036         ,_ fusiform aneurysm of left anterior descending coronary artery,CA,Coronary artery finding
+1,AgilentB00      ,CA-0037         ,No evidence of circumflex artery aneurysm,CA,Coronary artery finding
+1,AgilentB00      ,CA-0038         ,Ectasia of circumflex coronary artery,CA,Coronary artery finding
+1,AgilentB00      ,CA-0039         ,_ sacular aneurysm of left circumflex coronary artery,CA,Coronary artery finding
+1,AgilentB00      ,CA-0040         ,_ fusiform aneurysm of left circumflex coronary artery,CA,Coronary artery finding
+1,AgilentB00      ,CA-0041         ,No evidence of posterior descending coronary artery aneurysm,CA,Coronary artery finding
+1,AgilentB00      ,CA-0042         ,Ectasia of posterior descending coronary artery,CA,Coronary artery finding
+1,AgilentB00      ,CA-0043         ,_ sacular aneurysm of posterior descending coronary artery,CA,Coronary artery finding
+1,AgilentB00      ,CA-0044         ,_ fusiform aneurysm of posterior descending coronary artery,CA,Coronary artery finding
+1,AgilentB00      ,CT-0001         ,Tetralogy of Fallot with pulmonary stenosis,CT,Conotruncus
+1,AgilentB00      ,CT-0002         ,Tetralogy of Fallot with pulmonary atresia,CT,Conotruncus
+1,AgilentB00      ,CT-0003         ,Tetralogy of Fallot with absent pulmonary valve,CT,Conotruncus
+1,AgilentB00      ,CT-0004         ,D-Transposition of the great arteries,CT,Conotruncus
+1,AgilentB00      ,CT-0005         ,L-Transposition of the great arteries,CT,Conotruncus
+1,AgilentB00      ,CT-0006         ,Double outlet right ventricle,CT,Conotruncus
+1,AgilentB00      ,CT-0007         ,Double outlet right ventricle with subaortic VSD,CT,Conotruncus
+1,AgilentB00      ,CT-0008         ,Double outlet right ventricle with subaortic VSD and PS,CT,Conotruncus
+1,AgilentB00      ,CT-0009         ,Double outlet right ventricle with subpulmonary VSD,CT,Conotruncus
+1,AgilentB00      ,CT-0010         ,Taussig-Bing heart,CT,Conotruncus
+1,AgilentB00      ,CT-0011         ,"Truncus arteriosus, Type I",CT,Conotruncus
+1,AgilentB00      ,CT-0012         ,"Truncus arteriosus, Type II",CT,Conotruncus
+1,AgilentB00      ,CT-0013         ,"Truncus arteriosus, Type III",CT,Conotruncus
+1,AgilentB00      ,CT-0014         ,Double outlet left ventricle,CT,Conotruncus
+1,AgilentB00      ,CT-0015         ,Aorto-pulmonary window,CT,Conotruncus
+1,AgilentB00      ,CV-0001         ,"Common atrio-ventricular valve, Type A Rastelli",CV,atrioventricular valve
+1,AgilentB00      ,CV-0002         ,"Common atrio-ventricular valve, Type B Rastelli",CV,atrioventricular valve
+1,AgilentB00      ,CV-0003         ,"Common atrio-ventricular valve, Type C Rastelli",CV,atrioventricular valve
+1,AgilentB00      ,CV-0004         ,Unbalanced atrio-ventricular canal defect: small left side,CV,atrioventricular valve
+1,AgilentB00      ,CV-0005         ,Unbalanced atrio-ventricular canal defect: small right side,CV,atrioventricular valve
+1,AgilentB00      ,CV-0006         ,Transitional atrio-ventricular canal defect,CV,atrioventricular valve
+1,AgilentB00      ,CV-0007         ,Tricuspid pouch,CV,atrioventricular valve
+1,AgilentB00      ,CV-0008         ,Repaired atrioventricular septal defect without cleft mitral valve,CV,atrioventricular valve
+1,AgilentB00      ,CV-0009         ,Repaired atrioventricular septal defect with cleft mitral valve,CV,atrioventricular valve
+1,AgilentB00      ,DA-0001         ,No patent ductus arteriosus,DA,Structure of ductus arteriosus
+1,AgilentB00      ,DA-0002         ,Normal fetal patent ductus arteriosus,DA,Structure of ductus arteriosus
+1,AgilentB00      ,DA-0003         ,"Patent ductus arteriosus, _",DA,Structure of ductus arteriosus
+1,AgilentB00      ,DA-0004         ,Vertical patent ductus arteriosus,DA,Structure of ductus arteriosus
+1,AgilentB00      ,DA-0005         ,"Patent ductus arteriosus, coil visualized",DA,Structure of ductus arteriosus
+1,AgilentB00      ,DA-0006         ,Aorto-pulmonary collateral,DA,Structure of ductus arteriosus
+1,AgilentB00      ,ID-0001         ,No evidence of vegetation,ID,Infectious Disease
+1,AgilentB00      ,ID-0002         ,"No evidence of endocarditis, TTE does not rule out  vegetations",ID,Infectious Disease
+1,AgilentB00      ,ID-0003         ,Echocardiogram suggestive of endocarditis,ID,Infectious Disease
+1,AgilentB00      ,ID-0004         ,Kawasaki disease,ID,Infectious Disease
+1,AgilentB00      ,ID-0005         ,Echocardiogram suggestive of rheumatic heart disease,ID,Infectious Disease
+1,AgilentB00      ,IN-0001         ,Balloon atrial septostomy,IN,Catheterization
+1,AgilentB00      ,IN-0002         ,"Closure by device, secundum atrial septal defect",IN,Catheterization
+1,AgilentB00      ,IN-0003         ,Patent ductus arteriosus coil closure,IN,Catheterization
+1,AgilentB00      ,IN-0004         ,Balloon pulmonary valvuloplasty,IN,Catheterization
+1,AgilentB00      ,IN-0005         ,Left pulmonary balloon arterioplasty,IN,Catheterization
+1,AgilentB00      ,IN-0006         ,Right pulmonary balloon arterioplasty,IN,Catheterization
+1,AgilentB00      ,IN-0007         ,Left pulmonary artery stent placement,IN,Catheterization
+1,AgilentB00      ,IN-0008         ,Right pulmonary artery stent placement,IN,Catheterization
+1,AgilentB00      ,IN-0009         ,Balloon aortic valvuloplasty,IN,Catheterization
+1,AgilentB00      ,IN-0010         ,Coarctation balloon arterioplasty,IN,Catheterization
+1,AgilentB00      ,IN-0011         ,Coarctation stent arterioplasty,IN,Catheterization
+1,AgilentB00      ,IN-0012         ,Tranvenous pacemaker,IN,Catheterization
+1,AgilentB00      ,IN-0013         ,Implantable defibrillator,IN,Catheterization
+1,AgilentB00      ,IN-0014         ,Pulmonary artery band,IN,Catheterization
+1,AgilentB00      ,IN-0015         ,Removal of pulmonary artery band,IN,Catheterization
+1,AgilentB00      ,IN-0016         ,Oversewn pulmonary valve,IN,Catheterization
+1,AgilentB00      ,IN-0017         ,Left modified Blalock-Taussig shunt,IN,Catheterization
+1,AgilentB00      ,IN-0018         ,Right modified Blalock-Taussig shunt,IN,Catheterization
+1,AgilentB00      ,IN-0019         ,Gortex central shunt,IN,Catheterization
+1,AgilentB00      ,IN-0020         ,Ligation of aorto-pulmonary shunt,IN,Catheterization
+1,AgilentB00      ,IN-0021         ,Norwood (stage1) procedure,IN,Catheterization
+1,AgilentB00      ,IN-0022         ,Damus-Kaye-Stansel procedure,IN,Catheterization
+1,AgilentB00      ,IN-0023         ,Glenn: bi-directional,IN,Catheterization
+1,AgilentB00      ,IN-0024         ,Glenn: bilateral bi-directional,IN,Catheterization
+1,AgilentB00      ,IN-0025         ,Glenn: classical,IN,Catheterization
+1,AgilentB00      ,IN-0026         ,Hemifontan procedure,IN,Catheterization
+1,AgilentB00      ,IN-0027         ,Fontan procedure,IN,Catheterization
+1,AgilentB00      ,IN-0028         ,Fontan procedure: lateral tunnel,IN,Catheterization
+1,AgilentB00      ,IN-0029         ,Fontan procedure: fenestrated lateral tunnel,IN,Catheterization
+1,AgilentB00      ,IN-0030         ,Fontan procedure: extra-cardiac conduit,IN,Catheterization
+1,AgilentB00      ,IN-0031         ,Repair partial anomalous pulmonary venous return,IN,Catheterization
+1,AgilentB00      ,IN-0032         ,Repair total anomalous pulmonary venous return,IN,Catheterization
+1,AgilentB00      ,IN-0033         ,"Closure by patch, secundum atrial septal defect",IN,Catheterization
+1,AgilentB00      ,IN-0034         ,"Closure by suture, secundum atrial septal defect",IN,Catheterization
+1,AgilentB00      ,IN-0035         ,Repair sinus venosus atrial septal defect,IN,Catheterization
+1,AgilentB00      ,IN-0036         ,Repair primum atrial septal defect,IN,Catheterization
+1,AgilentB00      ,IN-0037         ,"Closure by patch, ventricular septal defect",IN,Catheterization
+1,AgilentB00      ,IN-0038         ,"Closure by suture, ventricular septal defect",IN,Catheterization
+1,AgilentB00      ,IN-0039         ,"Repair, partial atrioventricular septal defect",IN,Catheterization
+1,AgilentB00      ,IN-0040         ,"Repair, complete atrioventricular septal defect",IN,Catheterization
+1,AgilentB00      ,IN-0041         ,Tetralogy of Fallot repair with infundibular patch,IN,Catheterization
+1,AgilentB00      ,IN-0042         ,Tetralogy of Fallot repair with transannular patch,IN,Catheterization
+1,AgilentB00      ,IN-0043         ,Tetralogy of Fallot repair:  right ventricle to pulmonary artery conduit,IN,Catheterization
+1,AgilentB00      ,IN-0044         ,Repair of aorto-pulmonary window,IN,Catheterization
+1,AgilentB00      ,IN-0045         ,Patent ductus arteriosus ligation,IN,Catheterization
+1,AgilentB00      ,IN-0046         ,Tricuspid repair: annuloplasty,IN,Catheterization
+1,AgilentB00      ,IN-0047         ,Tricuspid repair: valvuloplasty,IN,Catheterization
+1,AgilentB00      ,IN-0048         ,Tricuspid valve replacement: bioprosthesis,IN,Catheterization
+1,AgilentB00      ,IN-0049         ,Tricuspid replacement: mechanical prosthesis,IN,Catheterization
+1,AgilentB00      ,IN-0050         ,Repair of double chambered RV by excision of muscle bundle,IN,Catheterization
+1,AgilentB00      ,IN-0051         ,Pulmonary Valvotomy,IN,Catheterization
+1,AgilentB00      ,IN-0052         ,Pulmonary Valvectomy,IN,Catheterization
+1,AgilentB00      ,IN-0053         ,Right ventricular outflow patch,IN,Catheterization
+1,AgilentB00      ,IN-0054         ,Pulmonary valve replacement with homograft,IN,Catheterization
+1,AgilentB00      ,IN-0055         ,Rastelli (right ventricle to pulmonary artery) conduit,IN,Catheterization
+1,AgilentB00      ,IN-0056         ,Left ventricle to pulmonary artery conduit,IN,Catheterization
+1,AgilentB00      ,IN-0057         ,Repair of supravalvar pulmonary stenosis,IN,Catheterization
+1,AgilentB00      ,IN-0058         ,Left pulmonary arterioplasty,IN,Catheterization
+1,AgilentB00      ,IN-0059         ,Right pulmonary arterioplasty,IN,Catheterization
+1,AgilentB00      ,IN-0060         ,Cor triatriatum repair,IN,Catheterization
+1,AgilentB00      ,IN-0061         ,"Resection, supravalvar mitral membrane",IN,Catheterization
+1,AgilentB00      ,IN-0062         ,Mitral valve repair: commissurotomy,IN,Catheterization
+1,AgilentB00      ,IN-0063         ,Mitral valve repair: closure of cleft,IN,Catheterization
+1,AgilentB00      ,IN-0064         ,Mitral valve repair: annuloplasty,IN,Catheterization
+1,AgilentB00      ,IN-0065         ,Mitral valve repair: valvuloplasty,IN,Catheterization
+1,AgilentB00      ,IN-0066         ,Mitral valve replacement: porcine,IN,Catheterization
+1,AgilentB00      ,IN-0067         ,Mitral valve replacement: mechanical prosthesis,IN,Catheterization
+1,AgilentB00      ,IN-0068         ,Repair subaortic stenosis: resection of subaortic membrane,IN,Catheterization
+1,AgilentB00      ,IN-0069         ,Repair subaortic stenosis: myomectomy,IN,Catheterization
+1,AgilentB00      ,IN-0070         ,Konno procedure,IN,Catheterization
+1,AgilentB00      ,IN-0071         ,Aortic valvotomy,IN,Catheterization
+1,AgilentB00      ,IN-0072         ,Aortic valve replacement: homograft,IN,Catheterization
+1,AgilentB00      ,IN-0073         ,Aortic valve replacement: mechanical prosthesis,IN,Catheterization
+1,AgilentB00      ,IN-0074         ,Ross procedure,IN,Catheterization
+1,AgilentB00      ,IN-0075         ,Anomalous left coronary artery repair by reimplantation,IN,Catheterization
+1,AgilentB00      ,IN-0076         ,Takeuchi repair of anomalous left coronary artery,IN,Catheterization
+1,AgilentB00      ,IN-0077         ,Coronary fistula ligation,IN,Catheterization
+1,AgilentB00      ,IN-0078         ,Coronary artery bypass graft,IN,Catheterization
+1,AgilentB00      ,IN-0079         ,"Doty repair, supravalvar aortic stenosis",IN,Catheterization
+1,AgilentB00      ,IN-0080         ,Coarctation repair,IN,Catheterization
+1,AgilentB00      ,IN-0081         ,"Coarctation repair, subclavian flap",IN,Catheterization
+1,AgilentB00      ,IN-0082         ,"Coarctation repair, end to end anastomosis",IN,Catheterization
+1,AgilentB00      ,IN-0083         ,"Coarctation repair, extended end to end anastomosis",IN,Catheterization
+1,AgilentB00      ,IN-0084         ,"Coarctation repair, patch aortoplasty",IN,Catheterization
+1,AgilentB00      ,IN-0085         ,"Coarctation repair, tube graft",IN,Catheterization
+1,AgilentB00      ,IN-0086         ,Interrupted aortic arch repair,IN,Catheterization
+1,AgilentB00      ,IN-0087         ,Vascular ring repair,IN,Catheterization
+1,AgilentB00      ,IN-0088         ,Truncus arteriosus repair,IN,Catheterization
+1,AgilentB00      ,IN-0089         ,Double outlet right ventricle repair,IN,Catheterization
+1,AgilentB00      ,IN-0090         ,Senning atrial switch procedure,IN,Catheterization
+1,AgilentB00      ,IN-0091         ,Mustard atrial switch procedure,IN,Catheterization
+1,AgilentB00      ,IN-0092         ,Jatene arterial switch procedure,IN,Catheterization
+1,AgilentB00      ,IN-0093         ,Epicardial pacemaker,IN,Catheterization
+1,AgilentB00      ,IN-0094         ,Pericardectomy,IN,Catheterization
+1,AgilentB00      ,IN-0095         ,Heart transplantation,IN,Catheterization
+1,AgilentB00      ,LA-0001         ,Normal left atrial size,LA,Left Atrium
+1,AgilentB00      ,LA-0002         ,_ left atrial enlargement,LA,Left Atrium
+1,AgilentB00      ,LA-0003         ,_ left atrium,LA,Left Atrium
+1,AgilentB00      ,LA-0004         ,"No evidence of left atrial myxoma, mass or thrombus",LA,Left Atrium
+1,AgilentB00      ,LA-0005         ,Left atrial myxoma,LA,Left Atrium
+1,AgilentB00      ,LA-0006         ,Left atrial mass,LA,Left Atrium
+1,AgilentB00      ,LA-0007         ,Left atrial thrombus,LA,Left Atrium
+1,AgilentB00      ,LA-0008         ,Left atrial catheter,LA,Left Atrium
+1,AgilentB00      ,LA-0009         ,Tumor in left atrium,LA,Left Atrium
+1,AgilentB00      ,LA-0010         ,Spontaneous contrast in left atrium,LA,Left Atrium
+1,AgilentB00      ,LA-0011         ,Umbilical vein catheter in left atrium,LA,Left Atrium
+1,AgilentB00      ,LA-0012         ,The left atrium is not well visualized.,LA,Left Atrium
+1,AgilentB00      ,LA-0017         ,The left atrium is enlarged due to cardiac transplantation.,LA,Left Atrium
+1,AgilentB00      ,LA-0021         ,A thrombus is seen in the left atrium.,LA,Left Atrium
+1,AgilentB00      ,LA-0022         ,There is a thrombus seen in the left atrial appendage.,LA,Left Atrium
+1,AgilentB00      ,LA-0024         ,No thrombus is detected in the left atrial appendage.,LA,Left Atrium
+1,AgilentB00      ,LA-0025         ,No left atrial mass or thrombus visualized.,LA,Left Atrium
+1,AgilentB00      ,LV-0001         ,Normal left ventricle structure and size,LV,Left Ventricle
+1,AgilentB00      ,LV-0002         ,"Dilated left ventricle, _",LV,Left Ventricle
+1,AgilentB00      ,LV-0003         ,Left Ventricle false tendon,LV,Left Ventricle
+1,AgilentB00      ,LV-0004         ,_ concentric left ventricular hypertrophy,LV,Left Ventricle
+1,AgilentB00      ,LV-0005         ,_ septal wall hypertrophy,LV,Left Ventricle
+1,AgilentB00      ,LV-0006         ,Left ventricular hypertrophy: asymmetric with no LVOT obstruction,LV,Left Ventricle
+1,AgilentB00      ,LV-0007         ,Left ventricular hypertrophy: asymmetric with dynamic LVOT obstruction,LV,Left Ventricle
+1,AgilentB00      ,LV-0008         ,_ posterior wall hypertrophy,LV,Left Ventricle
+1,AgilentB00      ,LV-0009         ,_ apical hypertrophy,LV,Left Ventricle
+1,AgilentB00      ,LV-0010         ,"Hypoplastic left ventricle, _",LV,Left Ventricle
+1,AgilentB00      ,LV-0011         ,Hypoplastic left heart syndrome,LV,Left Ventricle
+1,AgilentB00      ,LV-0012         ,"Cardiomyopathy, dilated congestive",LV,Left Ventricle
+1,AgilentB00      ,LV-0013         ,"Cardiomyopathy, hypertrophic non-obstructive",LV,Left Ventricle
+1,AgilentB00      ,LV-0014         ,"Cardiomyopathy, hypertrophic obstructive",LV,Left Ventricle
+1,AgilentB00      ,LV-0015         ,No evidence of left ventricular mass or tumors,LV,Left Ventricle
+1,AgilentB00      ,LV-0016         ,Left ventricular tumor,LV,Left Ventricle
+1,AgilentB00      ,LV-0017         ,Left ventricular thrombus,LV,Left Ventricle
+1,AgilentB00      ,LV-0018         ,Left ventricular vegetation,LV,Left Ventricle
+1,AgilentB00      ,LV-0019         ,Non-compaction of left ventricle,LV,Left Ventricle
+1,AgilentB00      ,LV-0020         ,Tumor in left ventricle,LV,Left Ventricle
+1,AgilentB00      ,LV-0021         ,Spontaneous contrast in left ventricle,LV,Left Ventricle
+1,AgilentB00      ,LV-0022         ,Endocardial fibroelastosis of left ventricle,LV,Left Ventricle
+1,AgilentB00      ,LV-0023         ,Unidentified echodense object on papillary muscle,LV,Left Ventricle
+1,AgilentB00      ,LV-0024         ,Normal left ventricular systolic and diastolic function,LV,Left Ventricle
+1,AgilentB00      ,LV-0025         ,Normal left ventricular systolic function,LV,Left Ventricle
+1,AgilentB00      ,LV-0026         ,Normal left ventricular diastolic function,LV,Left Ventricle
+1,AgilentB00      ,LV-0027         ,Hyperdynamic left ventricular function,LV,Left Ventricle
+1,AgilentB00      ,LV-0028         ,_ decreased left ventricular systolic function,LV,Left Ventricle
+1,AgilentB00      ,LV-0029         ,Abnormal left ventricular diastolic function,LV,Left Ventricle
+1,AgilentB00      ,LV-0030         ,Normal VCFC/ESWS  relation,LV,Left Ventricle
+1,AgilentB00      ,LV-0031         ,VCFC low for ESWS,LV,Left Ventricle
+1,AgilentB00      ,LV-0032         ,High ESWS,LV,Left Ventricle
+1,AgilentB00      ,LV-0033         ,VCFC high for ESWS,LV,Left Ventricle
+1,AgilentB00      ,LV-0034         ,Normal left ventricular wall motion,LV,Left Ventricle
+1,AgilentB00      ,LV-0035         ,Global hypokinesia of the left ventricle,LV,Left Ventricle
+1,AgilentB00      ,LV-0036         ,Normal septal motion,LV,Left Ventricle
+1,AgilentB00      ,LV-0037         ,_ septal hypokinesis,LV,Left Ventricle
+1,AgilentB00      ,LV-0038         ,Septal akinesis,LV,Left Ventricle
+1,AgilentB00      ,LV-0039         ,Septal dyskinesis,LV,Left Ventricle
+1,AgilentB00      ,LV-0040         ,Normal posterior wall motion,LV,Left Ventricle
+1,AgilentB00      ,LV-0041         ,_ posterior wall hypokinesis,LV,Left Ventricle
+1,AgilentB00      ,LV-0042         ,Posterior wall akinesis,LV,Left Ventricle
+1,AgilentB00      ,LV-0043         ,Posterior wall dyskinesis,LV,Left Ventricle
+1,AgilentB00      ,LV-0044         ,Normal inferior wall motion,LV,Left Ventricle
+1,AgilentB00      ,LV-0045         ,_ inferior wall hypokinesis,LV,Left Ventricle
+1,AgilentB00      ,LV-0046         ,Inferior wall akinesis,LV,Left Ventricle
+1,AgilentB00      ,LV-0047         ,Inferior wall dyskinesis,LV,Left Ventricle
+1,AgilentB00      ,LV-0048         ,Normal apical wall motion,LV,Left Ventricle
+1,AgilentB00      ,LV-0049         ,_ apical wall hypokinesis,LV,Left Ventricle
+1,AgilentB00      ,LV-0050         ,Apical wall akinesis,LV,Left Ventricle
+1,AgilentB00      ,LV-0051         ,Apical wall dyskinesis,LV,Left Ventricle
+1,AgilentB00      ,LV-0052         ,Normal lateral wall motion,LV,Left Ventricle
+1,AgilentB00      ,LV-0053         ,_ lateral wall hypokinesis,LV,Left Ventricle
+1,AgilentB00      ,LV-0054         ,Lateral wall akinesis,LV,Left Ventricle
+1,AgilentB00      ,LV-0055         ,Lateral wall dyskinesis,LV,Left Ventricle
+1,AgilentB00      ,LV-0056         ,Normal anterior wall motion,LV,Left Ventricle
+1,AgilentB00      ,LV-0057         ,_ anterior wall hypokinesis,LV,Left Ventricle
+1,AgilentB00      ,LV-0058         ,Anterior wall akinesis,LV,Left Ventricle
+1,AgilentB00      ,LV-0059         ,Anterior wall dyskinesis,LV,Left Ventricle
+1,AgilentB00      ,LV-0065         ,There is normal left ventricular wall thickness.,LV,Left Ventricle
+1,AgilentB00      ,LV-0074         ,An intracavitary gradient is suspected.,LV,Left Ventricle
+1,AgilentB00      ,LV-0075         ,An intracavitary gradient is present.,LV,Left Ventricle
+1,AgilentB00      ,LV-0076         ,A mid-cavitary gradient is present.,LV,Left Ventricle
+1,AgilentB00      ,LV-0079         ,Left ventricular systolic function is low normal.,LV,Left Ventricle
+1,AgilentB00      ,LV-0080         ,Left ventricular systolic function is _ reduced.,LV,Left Ventricle
+1,AgilentB00      ,LV-0081         ,The left ventricular ejection fraction is grossly normal.,LV,Left Ventricle
+1,AgilentB00      ,LV-0084         ,The left ventricle is hyperdynamic.,LV,Left Ventricle
+1,AgilentB00      ,LV-0085         ,"Due to the poor quality of the echocardiogram, an assessment of left ventricular ejection fraction cannot be made.",LV,Left Ventricle
+1,AgilentB00      ,LV-0086         ,The transmitral spectral Doppler flow pattern is _.,LV,Left Ventricle
+1,AgilentB00      ,LV-0087         ,The transmitral spectral Doppler flow pattern is suggestive of _.,LV,Left Ventricle
+1,AgilentB00      ,LV-0091         ,No regional wall motion abnormalities noted.,LV,Left Ventricle
+1,AgilentB00      ,LV-0117         ,There is a no left ventricular aneurysm.,LV,Left Ventricle
+1,AgilentB00      ,LV-0118         ,There is a _ apical aneurysm.,LV,Left Ventricle
+1,AgilentB00      ,LV-0119         ,A pseudoaneurysm is present.,LV,Left Ventricle
+1,AgilentB00      ,LV-0120         ,A basal inferior aneurysm is present.,LV,Left Ventricle
+1,AgilentB00      ,LV-0121         ,A basal posterior aneurysm is present.,LV,Left Ventricle
+1,AgilentB00      ,LV-0122         ,A basal lateral aneurysm is present.,LV,Left Ventricle
+1,AgilentB00      ,LV-0124         ,There is no thrombus.,LV,Left Ventricle
+1,AgilentB00      ,LV-0125         ,There is a _ apical thrombus.,LV,Left Ventricle
+1,AgilentB00      ,LV-0126         ,Thrombus can not be excluded.,LV,Left Ventricle
+1,AgilentB00      ,LV-0131         ,A mass is noted in the left ventricle.,LV,Left Ventricle
+1,AgilentB00      ,MV-0001         ,Normal mitral valve,MV,Mitral Valve
+1,AgilentB00      ,MV-0002         ,Large mitral valve annulus,MV,Mitral Valve
+1,AgilentB00      ,MV-0003         ,Mitral valve deformities; unspecified,MV,Mitral Valve
+1,AgilentB00      ,MV-0004         ,Mitral valve fails to coapt,MV,Mitral Valve
+1,AgilentB00      ,MV-0005         ,No mitral valve prolapse,MV,Mitral Valve
+1,AgilentB00      ,MV-0006         ,"_ mitral valve prolapse, anterior leaflet",MV,Mitral Valve
+1,AgilentB00      ,MV-0007         ,"_ mitral valve prolapse, posterior leaflet",MV,Mitral Valve
+1,AgilentB00      ,MV-0008         ,Ruptured chordae tendineae of mitral valve,MV,Mitral Valve
+1,AgilentB00      ,MV-0009         ,Hypoplastic mitral valve,MV,Mitral Valve
+1,AgilentB00      ,MV-0010         ,Mitral valve stenosis,MV,Mitral Valve
+1,AgilentB00      ,MV-0011         ,Small mitral valve annulus,MV,Mitral Valve
+1,AgilentB00      ,MV-0012         ,Thickened mitral valve leaflets,MV,Mitral Valve
+1,AgilentB00      ,MV-0013         ,Thickened mitral valve anterior leaflet,MV,Mitral Valve
+1,AgilentB00      ,MV-0014         ,Thickened mitral valve posterior leaflet,MV,Mitral Valve
+1,AgilentB00      ,MV-0015         ,Immobile mitral valve leaflets,MV,Mitral Valve
+1,AgilentB00      ,MV-0016         ,Immobile mitral valve anterior leaflet,MV,Mitral Valve
+1,AgilentB00      ,MV-0017         ,Immobile mitral valve posterior leaflet,MV,Mitral Valve
+1,AgilentB00      ,MV-0018         ,Cleft mitral valve,MV,Mitral Valve
+1,AgilentB00      ,MV-0019         ,Parachute mitral valve,MV,Mitral Valve
+1,AgilentB00      ,MV-0020         ,Shortened mitral valve chordae,MV,Mitral Valve
+1,AgilentB00      ,MV-0021         ,Thickened mitral valve chordae,MV,Mitral Valve
+1,AgilentB00      ,MV-0022         ,Single papillary muscle,MV,Mitral Valve
+1,AgilentB00      ,MV-0023         ,Closely spaced papillary muscle,MV,Mitral Valve
+1,AgilentB00      ,MV-0024         ,Double orifice mitral valve,MV,Mitral Valve
+1,AgilentB00      ,MV-0025         ,Vegetation on mitral valve,MV,Mitral Valve
+1,AgilentB00      ,MV-0026         ,Supravalvar mitral membrane,MV,Mitral Valve
+1,AgilentB00      ,MV-0027         ,Mitral valve atresia,MV,Mitral Valve
+1,AgilentB00      ,MV-0028         ,Mitral valve prolapse: only with sitting/standing,MV,Mitral Valve
+1,AgilentB00      ,MV-0029         ,No positional change in mitral valve motion with sitting/standing,MV,Mitral Valve
+1,AgilentB00      ,MV-0030         ,Mitral valve straddle,MV,Mitral Valve
+1,AgilentB00      ,MV-0031         ,Mitral valve attachments to ventricular septum,MV,Mitral Valve
+1,AgilentB00      ,MV-0032         ,Mitral valve prosthesis,MV,Mitral Valve
+1,AgilentB00      ,MV-0033         ,Normal mitral valve velocity,MV,Mitral Valve
+1,AgilentB00      ,MV-0034         ,No mitral valve insufficiency,MV,Mitral Valve
+1,AgilentB00      ,MV-0035         ,Increased mitral valve velocity,MV,Mitral Valve
+1,AgilentB00      ,MV-0036         ,Decreased mitral valve velocity,MV,Mitral Valve
+1,AgilentB00      ,MV-0037         ,_ mean mitral valve gradient,MV,Mitral Valve
+1,AgilentB00      ,MV-0038         ,_ mitral valve insufficiency,MV,Mitral Valve
+1,AgilentB00      ,MV-0039         ,Normal prosthetic mitral valve gradient,MV,Mitral Valve
+1,AgilentB00      ,MV-0040         ,_ prosthetic mitral valve stenosis,MV,Mitral Valve
+1,AgilentB00      ,MV-0041         ,No prosthetic mitral valve insufficiency,MV,Mitral Valve
+1,AgilentB00      ,MV-0042         ,_ prosthetic mitral valve insufficiency,MV,Mitral Valve
+1,AgilentB00      ,MV-0043         ,No left sided atrioventricular valve stenosis,MV,Mitral Valve
+1,AgilentB00      ,MV-0044         ,_ left sided atrioventricular valve stenosis,MV,Mitral Valve
+1,AgilentB00      ,MV-0045         ,No left sided atrioventricular valve insufficiency,MV,Mitral Valve
+1,AgilentB00      ,MV-0046         ,_ left sided atrioventricular valve insufficiency,MV,Mitral Valve
+1,AgilentB00      ,MV-0047         ,The mitral valve is not well visualized.,MV,Mitral Valve
+1,AgilentB00      ,MV-0060         ,Perforation of the leaflet(s) is suspected.,MV,Mitral Valve
+1,AgilentB00      ,MV-0061         ,Perforation of the anterior mitral leaflet is suspected.,MV,Mitral Valve
+1,AgilentB00      ,MV-0062         ,Perforation of the posterior mitral leaflet is suspected.,MV,Mitral Valve
+1,AgilentB00      ,MV-0063         ,Perivalvular appearance suggests abscess.,MV,Mitral Valve
+1,AgilentB00      ,MV-0078         ,There is _ mitral valve prolapse.,MV,Mitral Valve
+1,AgilentB00      ,MV-0088         ,There is no vegetation seen on the mitral valve.,MV,Mitral Valve
+1,AgilentB00      ,MV-0089         ,A vegetation on the mitral valve cannot be excluded.,MV,Mitral Valve
+1,AgilentB00      ,MV-0090         ,There is a _ vegetation or mass on the mitral valve.,MV,Mitral Valve
+1,AgilentB00      ,MV-0096         ,There is no mitral valve stenosis.,MV,Mitral Valve
+1,AgilentB00      ,MV-0097         ,No significant mitral valve stenosis.,MV,Mitral Valve
+1,AgilentB00      ,MV-0099         ,There is _ mitral stenosis.,MV,Mitral Valve
+1,AgilentB00      ,MV-0113         ,"The mitral regurgitant jet is posteriorly directed, which is consistent with anterior leaflet pathology.",MV,Mitral Valve
+1,AgilentB00      ,MV-0114         ,"The mitral regurgitant jet is anteriorly directed, which is consistent with posterior leaflet pathology.",MV,Mitral Valve
+1,AgilentB00      ,MV-0115         ,The prosthetic mitral valve is not well visualized.,MV,Mitral Valve
+1,AgilentB00      ,MV-0116         ,The prosthetic mitral valve is well-seated.,MV,Mitral Valve
+1,AgilentB00      ,MV-0117         ,There is a _ mitral valve.,MV,Mitral Valve
+1,AgilentB00      ,MV-0118         ,There is a _ mechanical prosthesis.,MV,Mitral Valve
+1,AgilentB00      ,MV-0119         ,The prosthetic mitral valve appears to open well.,MV,Mitral Valve
+1,AgilentB00      ,MV-0120         ,The opening of the prosthetic mitral valve appears to be limited.,MV,Mitral Valve
+1,AgilentB00      ,MV-0121         ,The prosthetic mitral valve appears abnormal.,MV,Mitral Valve
+1,AgilentB00      ,MV-0122         ,Bioprosthesis leaflets are not well visualized.,MV,Mitral Valve
+1,AgilentB00      ,MV-0123         ,Bioprosthesis leaflets are thin and move normally.,MV,Mitral Valve
+1,AgilentB00      ,MV-0124         ,Bioprosthesis leaflets are thickened but move well.,MV,Mitral Valve
+1,AgilentB00      ,MV-0125         ,Bioprosthesis leaflets are thickened and motion is restricted.,MV,Mitral Valve
+1,AgilentB00      ,MV-0128         ,An annuloplasty ring is noted in the mitral position.,MV,Mitral Valve
+1,AgilentB00      ,MV-0129         ,There is no thrombus on the prosthetic mitral valve.,MV,Mitral Valve
+1,AgilentB00      ,MV-0130         ,There appears to be a thrombus associated with the prosthetic mitral valve.,MV,Mitral Valve
+1,AgilentB00      ,MV-0131         ,Abnormal rocking of the prosthetic mitral valve suggests dehiscence.,MV,Mitral Valve
+1,AgilentB00      ,MV-0140         ,There are no vegetations on this prosthetic mitral valve.,MV,Mitral Valve
+1,AgilentB00      ,MV-0141         ,Perivalvular appearance suggests abscess.,MV,Mitral Valve
+1,AgilentB00      ,MV-0142         ,Vegetations are suspected on this prosthetic mitral valve.,MV,Mitral Valve
+1,AgilentB00      ,MV-0143         ,Vegetations are present on this prosthetic mitral valve.,MV,Mitral Valve
+1,AgilentB00      ,MV-0149         ,No systolic anterior motion of the mitral valve.,MV,Mitral Valve
+1,AgilentB00      ,PA-0001         ,Normal pulmonary artery branches,PA,Pulmonary Arteries
+1,AgilentB00      ,PA-0002         ,Pulmonary arteries not well visualized,PA,Pulmonary Arteries
+1,AgilentB00      ,PA-0003         ,Dilated pulmonary arteries,PA,Pulmonary Arteries
+1,AgilentB00      ,PA-0004         ,Bilateral pulmonary artery branch stenosis,PA,Pulmonary Arteries
+1,AgilentB00      ,PA-0005         ,Left pulmonary artery branch stenosis,PA,Pulmonary Arteries
+1,AgilentB00      ,PA-0006         ,Right pulmonary artery branch stenosis,PA,Pulmonary Arteries
+1,AgilentB00      ,PA-0007         ,Bilateral pulmonary artery branch hypoplasia,PA,Pulmonary Arteries
+1,AgilentB00      ,PA-0008         ,Left pulmonary artery branch hypoplasia,PA,Pulmonary Arteries
+1,AgilentB00      ,PA-0009         ,Right pulmonary artery branch hypoplasia,PA,Pulmonary Arteries
+1,AgilentB00      ,PA-0010         ,Continuous pulmonary arteries,PA,Pulmonary Arteries
+1,AgilentB00      ,PA-0011         ,Discontinuous pulmonary arteries,PA,Pulmonary Arteries
+1,AgilentB00      ,PA-0012         ,Diminutive pulmonary arteries,PA,Pulmonary Arteries
+1,AgilentB00      ,PA-0013         ,Aorto-pulmonary collaterals,PA,Pulmonary Arteries
+1,AgilentB00      ,PA-0014         ,Left pulmonary artery isolated from patent ductus arteriosus,PA,Pulmonary Arteries
+1,AgilentB00      ,PA-0015         ,Stent in main pulmonary artery,PA,Pulmonary Arteries
+1,AgilentB00      ,PA-0016         ,Stent in left pulmonary artery,PA,Pulmonary Arteries
+1,AgilentB00      ,PA-0017         ,Stent in right pulmonary artery,PA,Pulmonary Arteries
+1,AgilentB00      ,PA-0018         ,Post stenotic main pulmonary artery dilatation,PA,Pulmonary Arteries
+1,AgilentB00      ,PA-0019         ,Pulmonary artery sling,PA,Pulmonary Arteries
+1,AgilentB00      ,PA-0020         ,Normal pulmonary artery conduit gradient,PA,Pulmonary Arteries
+1,AgilentB00      ,PA-0021         ,_ pulmonary artery conduit stenosis,PA,Pulmonary Arteries
+1,AgilentB00      ,PA-0022         ,No pulmonary artery conduit insufficiency,PA,Pulmonary Arteries
+1,AgilentB00      ,PA-0023         ,_ pulmonary artery conduit insufficiency,PA,Pulmonary Arteries
+1,AgilentB00      ,PA-0024         ,No right pulmonary artery stenosis,PA,Pulmonary Arteries
+1,AgilentB00      ,PA-0025         ,"Right pulmonary artery branch stenosis, _",PA,Pulmonary Arteries
+1,AgilentB00      ,PA-0026         ,No left pulmonary artery stenosis,PA,Pulmonary Arteries
+1,AgilentB00      ,PA-0027         ,"Left pulmonary artery branch stenosis, _",PA,Pulmonary Arteries
+1,AgilentB00      ,PE-0001         ,No pericardial effusion,PE,Pericardium
+1,AgilentB00      ,PE-0002         ,_ pericardial effusion,PE,Pericardium
+1,AgilentB00      ,PE-0003         ,_ anterior pericardial effusion,PE,Pericardium
+1,AgilentB00      ,PE-0004         ,_ posterior pericardial effusion,PE,Pericardium
+1,AgilentB00      ,PE-0005         ,"RV collapse, consistent with cardiac tamponade",PE,Pericardium
+1,AgilentB00      ,PE-0006         ,No pericardial thickening,PE,Pericardium
+1,AgilentB00      ,PE-0007         ,_ pericardial thickening,PE,Pericardium
+1,AgilentB00      ,PE-0008         ,Constrictive pericarditis,PE,Pericardium
+1,AgilentB00      ,PE-0009         ,Echo guided pericardiocentesis,PE,Pericardium
+1,AgilentB00      ,PE-0010         ,Catheter in pericardial space,PE,Pericardium
+1,AgilentB00      ,PE-0011         ,No pleural effusion,PE,Pericardium
+1,AgilentB00      ,PE-0012         ,_ right pleural effusion,PE,Pericardium
+1,AgilentB00      ,PE-0013         ,_ left pleural effusion,PE,Pericardium
+1,AgilentB00      ,PE-0014         ,_ bilateral pleural effusion,PE,Pericardium
+1,AgilentB00      ,PE-0020         ,The pericardial space suggests organizing pericardial effusion.,PE,Pericardium
+1,AgilentB00      ,PE-0027         ,The diastolic compression of the right ventricle is suggestive of cardiac tamponade.,PE,Pericardium
+1,AgilentB00      ,PE-0028         ,The diastolic compression of the right atrium is suggestive of cardiac tamponade.,PE,Pericardium
+1,AgilentB00      ,PE-0029         ,The diastolic compression of the right atrium and right ventricle are suggestive of cardiac tamponade.,PE,Pericardium
+1,AgilentB00      ,PE-0030         ,The pericardium appears normal.,PE,Pericardium
+1,AgilentB00      ,PE-0031         ,The pericardium appears _ thickened.,PE,Pericardium
+1,AgilentB00      ,PE-0032         ,There is no pericardial constriction.,PE,Pericardium
+1,AgilentB00      ,PE-0033         ,There is evidence for pericardial constriction.,PE,Pericardium
+1,AgilentB00      ,PE-0034         ,There is pericardial constriction.,PE,Pericardium
+1,AgilentB00      ,PE-0035         ,Pericardial fibrinous strands are noted.,PE,Pericardium
+1,AgilentB00      ,PE-0036         ,A hematoma/mass is seen in the pericardial space.,PE,Pericardium
+1,AgilentB00      ,PE-0037         ,An extra-pericardial mass is suggested.,PE,Pericardium
+1,AgilentB00      ,PE-0038         ,A loculated pericardial effusion is noted.,PE,Pericardium
+1,AgilentB00      ,PE-0039         ,A circumferential pericardial effusion is noted.,PE,Pericardium
+1,AgilentB00      ,PE-0040         ,There is no pleural effusion.,PE,Pericardium
+1,AgilentB00      ,PH-0001         ,Cardiac output _,PH,Cardiac Output
+1,AgilentB00      ,PH-0002         ,Right ventricle systolic pressure estimate normal,PH,Cardiac Output
+1,AgilentB00      ,PH-0003         ,Right ventricle systolic pressure estimate _,PH,Cardiac Output
+1,AgilentB00      ,PH-0004         ,Mean PA pressure estimate normal,PH,Cardiac Output
+1,AgilentB00      ,PH-0005         ,Mean PA pressure estimate _,PH,Cardiac Output
+1,AgilentB00      ,PH-0006         ,Pulmonary hypertension,PH,Cardiac Output
+1,AgilentB00      ,PH-0007         ,"Pulmonary hypertension, newborn (PPHN)",PH,Cardiac Output
+1,AgilentB00      ,PH-0008         ,Primary pulmonary hypertension,PH,Cardiac Output
+1,AgilentB00      ,PH-0009         ,Secondary pulmonary hypertension,PH,Cardiac Output
+1,AgilentB00      ,PH-0010         ,Normal sinus rhythm,PH,Cardiac Output
+1,AgilentB00      ,PH-0011         ,Occasional premature atrial contractions,PH,Cardiac Output
+1,AgilentB00      ,PH-0012         ,Frequent premature atrial contractions,PH,Cardiac Output
+1,AgilentB00      ,PH-0013         ,Occasional premature ventricular contractions,PH,Cardiac Output
+1,AgilentB00      ,PH-0014         ,Frequent premature ventricular contractions,PH,Cardiac Output
+1,AgilentB00      ,PH-0015         ,Sinus bradycardia,PH,Cardiac Output
+1,AgilentB00      ,PH-0016         ,Sinus tachycardia,PH,Cardiac Output
+1,AgilentB00      ,PH-0017         ,Third degree atrioventricular block,PH,Cardiac Output
+1,AgilentB00      ,PH-0018         ,Supraventricular tachycardia,PH,Cardiac Output
+1,AgilentB00      ,PH-0019         ,Ventricular tachycardia,PH,Cardiac Output
+1,AgilentB00      ,PH-0020         ,Normal arterial flow,PH,Cardiac Output
+1,AgilentB00      ,PH-0021         ,Abnormal arterial flow,PH,Cardiac Output
+1,AgilentB00      ,PH-0022         ,Normal venous flow,PH,Cardiac Output
+1,AgilentB00      ,PH-0023         ,Abnormal venous flow,PH,Cardiac Output
+1,AgilentB00      ,PH-0024         ,Placenta insufficiency - compensated,PH,Cardiac Output
+1,AgilentB00      ,PH-0025         ,Placenta insufficiency - uncompensated,PH,Cardiac Output
+1,AgilentB00      ,PO-0001         ,Levocardia,PO,Vessel Positions
+1,AgilentB00      ,PO-0002         ,Dextrocardia,PO,Vessel Positions
+1,AgilentB00      ,PO-0003         ,Dextroversion,PO,Vessel Positions
+1,AgilentB00      ,PO-0004         ,Dextroposition,PO,Vessel Positions
+1,AgilentB00      ,PO-0005         ,Mirror Image Dextrocardia,PO,Vessel Positions
+1,AgilentB00      ,PO-0006         ,Mesocardia,PO,Vessel Positions
+1,AgilentB00      ,PO-0007         ,Ectopia Cordis,PO,Vessel Positions
+1,AgilentB00      ,PO-0008         ,Abdominal situs solitus,PO,Vessel Positions
+1,AgilentB00      ,PO-0009         ,Abdominal situs inversus,PO,Vessel Positions
+1,AgilentB00      ,PO-0010         ,Abdominal situs ambiguous,PO,Vessel Positions
+1,AgilentB00      ,PO-0011         ,Atrial situs solitus,PO,Vessel Positions
+1,AgilentB00      ,PO-0012         ,Atrial situs inversus,PO,Vessel Positions
+1,AgilentB00      ,PO-0013         ,Atrial situs ambiguous,PO,Vessel Positions
+1,AgilentB00      ,PO-0014         ,D Ventricular Loop,PO,Vessel Positions
+1,AgilentB00      ,PO-0015         ,L Ventricular Loop,PO,Vessel Positions
+1,AgilentB00      ,PO-0016         ,X Ventricular Loop,PO,Vessel Positions
+1,AgilentB00      ,PO-0017         ,Criss-cross ventricles,PO,Vessel Positions
+1,AgilentB00      ,PO-0018         ,S Normal position great vessels,PO,Vessel Positions
+1,AgilentB00      ,PO-0019         ,D Malposition great vessels,PO,Vessel Positions
+1,AgilentB00      ,PO-0020         ,L Malposition great vessels,PO,Vessel Positions
+1,AgilentB00      ,PO-0021         ,I Inverted position great vessels,PO,Vessel Positions
+1,AgilentB00      ,PO-0022         ,Side by side great vessels,PO,Vessel Positions
+1,AgilentB00      ,PO-0023         ,Aorta directly anterior to pulmonary artery,PO,Vessel Positions
+1,AgilentB00      ,PV-0001         ,Normal pulmonic valve,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0002         ,Pulmonic valve stenosis,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0003         ,Thickened pulmonic valve leaflets,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0004         ,Doming pulmonic valve leaflets,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0005         ,Bicommissural pulmonic valve,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0006         ,Dysplastic pulmonic valve,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0007         ,Absent pulmonic valve,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0008         ,Pulmonary atresia,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0009         ,Normal pulmonic valve annulus,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0010         ,Large pulmonic valve annulus,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0011         ,Small pulmonic valve annulus,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0012         ,Infundibular pulmonic stenosis,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0013         ,Hypoplastic pulmonary infundibulum,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0014         ,Double chambered right ventricle,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0015         ,Supravalvular pulmonary stenosis,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0016         ,Pulmonic valve insufficiency,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0017         ,Normal pulmonic valve velocity,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0018         ,No pulmonic valve insufficiency,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0019         ,Increased pulmonic valve velocity,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0020         ,Decreased pulmonic valve velocity,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0021         ,_ peak subpulmonary gradient,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0022         ,_ peak pulmonary valve gradient,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0023         ,_ peak suprapulmonary gradient,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0024         ,_ pulmonic valve insufficiency,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0025         ,The pulmonic valve is not well visualized.,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0030         ,The pulmonic valve is partially flail.,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0031         ,There is a flail pulmonic valve leaflet.,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0032         ,There is no vegetation on the pulmonic valve.,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0033         ,A pulmonic valvular vegetation cannot be excluded.,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0034         ,There is a _ vegetation or mass on the pulmonic valve.,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0036         ,There is _ valvular pulmonic stenosis.,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0038         ,Tetralogy of Fallot is present.,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0043         ,The prosthetic pulmonic valve is not well visualized.,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0044         ,The prosthetic pulmonic valve is well-seated.,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0045         ,There is a _ pulmonic valve.,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0046         ,There is a _ pulmonic mechanical prosthesis.,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0047         ,A homograft is present.,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0048         ,The prosthetic pulmonic valve appears to open well.,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0049         ,The opening of the prosthetic pulmonic valve appears to be limited.,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0050         ,The prosthetic pulmonic valve appears abnormal.,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0051         ,Abnormal rocking of prosthetic pulmonic valve suggests dehiscence.,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0052         ,The gradient is normal for this prosthetic pulmonic valve.,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0053         ,The gradient is abnormal for this prosthetic pulmonic valve.,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0057         ,There are no vegetations on this prosthetic pulmonic valve.,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0058         ,Vegetations are suspected on this prosthetic pulmonic valve.,PV,Pulmonary Valve
+1,AgilentB00      ,PV-0059         ,Vegetations are present on this on this prosthetic pulmonic valve.,PV,Pulmonary Valve
+1,AgilentB00      ,RA-0001         ,Normal right atrial size,RA,Right Atrium
+1,AgilentB00      ,RA-0002         ,_ right atrial enlargement,RA,Right Atrium
+1,AgilentB00      ,RA-0003         ,_ right atrium,RA,Right Atrium
+1,AgilentB00      ,RA-0004         ,Left juxtaposition of right atrial appendage,RA,Right Atrium
+1,AgilentB00      ,RA-0005         ,No evidence of right atrial mass/thrombus,RA,Right Atrium
+1,AgilentB00      ,RA-0006         ,Prominent eustachian valve,RA,Right Atrium
+1,AgilentB00      ,RA-0007         ,Chiari network,RA,Right Atrium
+1,AgilentB00      ,RA-0008         ,Cor triatriatum dexter,RA,Right Atrium
+1,AgilentB00      ,RA-0009         ,Right atrial mass,RA,Right Atrium
+1,AgilentB00      ,RA-0010         ,Right atrial thrombus,RA,Right Atrium
+1,AgilentB00      ,RA-0011         ,Pacer wire in right atrium,RA,Right Atrium
+1,AgilentB00      ,RA-0012         ,Right atrial catheter,RA,Right Atrium
+1,AgilentB00      ,RA-0013         ,Tumor in right atrium,RA,Right Atrium
+1,AgilentB00      ,RA-0014         ,Spontaneous contrast in right atrium,RA,Right Atrium
+1,AgilentB00      ,RA-0015         ,Umbilical vein catheter in right atrium,RA,Right Atrium
+1,AgilentB00      ,RA-0016         ,Right atrium not well visualized.,RA,Right Atrium
+1,AgilentB00      ,RA-0019         ,Borderline right atrial enlargement.,RA,Right Atrium
+1,AgilentB00      ,RA-0021         ,The right atrium is enlarged due to cardiac transplantation.,RA,Right Atrium
+1,AgilentB00      ,RA-0022         ,A mass is seen in the right atrium.,RA,Right Atrium
+1,AgilentB00      ,RA-0023         ,A thrombus is seen in the right atrium.,RA,Right Atrium
+1,AgilentB00      ,RA-0027         ,A dilated inferior vena cava suggests increased right atrial pressure.,RA,Right Atrium
+1,AgilentB00      ,RA-0029         ,The coronary sinus is dilated.,RA,Right Atrium
+1,AgilentB00      ,RA-0031         ,The inter-atrial septum bows toward the left atrium consistent with high right atrial pressure.,RA,Right Atrium
+1,AgilentB00      ,RV-0001         ,Normal right ventricle structure and size,RV,Right Ventricle
+1,AgilentB00      ,RV-0002         ,"Dilated right ventricle, _",RV,Right Ventricle
+1,AgilentB00      ,RV-0003         ,"Thickened right ventricle free wall, _",RV,Right Ventricle
+1,AgilentB00      ,RV-0004         ,Hypoplastic right heart syndrome,RV,Right Ventricle
+1,AgilentB00      ,RV-0005         ,Double chambered right ventricle,RV,Right Ventricle
+1,AgilentB00      ,RV-0006         ,Prominent right ventricle muscle bundle,RV,Right Ventricle
+1,AgilentB00      ,RV-0007         ,Right ventricular dysplasia,RV,Right Ventricle
+1,AgilentB00      ,RV-0008         ,"Hypoplastic right ventricle, _",RV,Right Ventricle
+1,AgilentB00      ,RV-0009         ,No evidence of right ventricular tumor,RV,Right Ventricle
+1,AgilentB00      ,RV-0010         ,Right ventricular tumor,RV,Right Ventricle
+1,AgilentB00      ,RV-0011         ,Right ventricular vegetation,RV,Right Ventricle
+1,AgilentB00      ,RV-0012         ,Tumor in right ventricle,RV,Right Ventricle
+1,AgilentB00      ,RV-0013         ,Spontaneous contrast in right ventricle,RV,Right Ventricle
+1,AgilentB00      ,RV-0014         ,Endocardial fibroelastosis of right ventricle,RV,Right Ventricle
+1,AgilentB00      ,RV-0015         ,Normal right ventricular systolic and diastolic function,RV,Right Ventricle
+1,AgilentB00      ,RV-0016         ,Normal right ventricular systolic function,RV,Right Ventricle
+1,AgilentB00      ,RV-0017         ,Normal right ventricular diastolic function,RV,Right Ventricle
+1,AgilentB00      ,RV-0018         ,Hyperdynamic right ventricular function,RV,Right Ventricle
+1,AgilentB00      ,RV-0019         ,_ decreased right ventricular systolic function,RV,Right Ventricle
+1,AgilentB00      ,RV-0020         ,Abnormal right ventricular diastolic function,RV,Right Ventricle
+1,AgilentB00      ,RV-0021         ,Normal right ventricular wall motion,RV,Right Ventricle
+1,AgilentB00      ,RV-0022         ,Global hypokinesia of right ventricle,RV,Right Ventricle
+1,AgilentB00      ,RV-0023         ,_ right ventricular free wall hypokinesia,RV,Right Ventricle
+1,AgilentB00      ,RV-0024         ,Right ventricular free wall akinesia,RV,Right Ventricle
+1,AgilentB00      ,RV-0025         ,Right ventricular free wall dyskinesia,RV,Right Ventricle
+1,AgilentB00      ,RV-0026         ,The right ventricle is not well visualized.,RV,Right Ventricle
+1,AgilentB00      ,RV-0046         ,Aneurysmal dilatation of the RV free wall is suggestive of RV dysplasia.,RV,Right Ventricle
+1,AgilentB00      ,RV-0048         ,There is no mass or thrombus in the right ventricle.,RV,Right Ventricle
+1,AgilentB00      ,RV-0049         ,There is a thrombus in the right ventricle.,RV,Right Ventricle
+1,AgilentB00      ,RV-0050         ,There is a mass in the right ventricle.,RV,Right Ventricle
+1,AgilentB00      ,RV-0053         ,There is a catheter in the right ventricle.,RV,Right Ventricle
+1,AgilentB00      ,SH-0001         ,No left ventricular to right atrial shunt,SH,Atrial
+1,AgilentB00      ,SH-0002         ,"Left ventricular to right atrium shunt, _",SH,Atrial
+1,AgilentB00      ,SH-0003         ,No atrial shunt,SH,Atrial
+1,AgilentB00      ,SH-0004         ,"Left to right atrial shunt, _",SH,Atrial
+1,AgilentB00      ,SH-0005         ,"Right to left atrial shunt, _",SH,Atrial
+1,AgilentB00      ,SH-0006         ,Atrial bi-directional shunt,SH,Atrial
+1,AgilentB00      ,SH-0007         ,Contrast injection shows no right to left atrial shunt,SH,Atrial
+1,AgilentB00      ,SH-0008         ,Contrast injection shows  right to left atrial shunt,SH,Atrial
+1,AgilentB00      ,SH-0009         ,Contrast injection shows  left to right atrial shunt,SH,Atrial
+1,AgilentB00      ,SH-0010         ,Normal fetal right to left atrial shunt,SH,Atrial
+1,AgilentB00      ,SH-0011         ,No fontan baffle leak,SH,Atrial
+1,AgilentB00      ,SH-0012         ,_ fontan baffle leak,SH,Atrial
+1,AgilentB00      ,SH-0013         ,No venous baffle leak,SH,Atrial
+1,AgilentB00      ,SH-0014         ,_ venous baffle leak,SH,Atrial
+1,AgilentB00      ,SH-0015         ,No ventricular shunt,SH,Atrial
+1,AgilentB00      ,SH-0016         ,"Left to right ventricular shunt, _",SH,Atrial
+1,AgilentB00      ,SH-0017         ,"Right to left ventricular shunt, _",SH,Atrial
+1,AgilentB00      ,SH-0018         ,Ventricular bi-directional shunt,SH,Atrial
+1,AgilentB00      ,SH-0019         ,No residual ventricular septal defect shunt,SH,Atrial
+1,AgilentB00      ,SH-0020         ,"Residual left to right ventricular septal defect shunt, _",SH,Atrial
+1,AgilentB00      ,SH-0021         ,No patent ductus arteriosus detected,SH,Atrial
+1,AgilentB00      ,SH-0022         ,"Patent ductus arteriosus, left to right shunt, _",SH,Atrial
+1,AgilentB00      ,SH-0023         ,"Patent ductus arteriosus, right to left shunt, _",SH,Atrial
+1,AgilentB00      ,SH-0024         ,"Patent ductus arteriosus, bi-directional shunt",SH,Atrial
+1,AgilentB00      ,SH-0025         ,"Patent ductus arteriosus, bi-directional shunt, right to left in systole",SH,Atrial
+1,AgilentB00      ,SH-0026         ,Patent aorto-pulmonary shunt,SH,Atrial
+1,AgilentB00      ,SH-0027         ,Normal fetal right to left patent ductus arteriousus shunt,SH,Atrial
+1,AgilentB00      ,SH-0028         ,"Collateral, left to right shunt",SH,Atrial
+1,AgilentB00      ,SU-0001         ,No cardiac disease identified,SU,Summary
+1,AgilentB00      ,SU-0002         ,Normal echocardiogram for age,SU,Summary
+1,AgilentB00      ,SU-0003         ,Normal fetal echocardiogram,SU,Summary
+1,AgilentB00      ,SU-0004         ,No significant change from last echocardiogram,SU,Summary
+1,AgilentB00      ,SU-0005         ,Significant change from last echocardiogram,SU,Summary
+1,AgilentB00      ,SU-0006         ,"Technically difficult, suboptimal study",SU,Summary
+1,AgilentB00      ,SU-0007         ,Limited study,SU,Summary
+1,AgilentB00      ,SU-0008         ,Recommend sedated study,SU,Summary
+1,AgilentB00      ,SU-0009         ,Extra-corporeal membrane oxygenation,SU,Summary
+1,AgilentB00      ,SU-0010         ,Echocardiography guided endomyocardial biopsy,SU,Summary
+1,AgilentB00      ,SU-0011         ,Echocardiography guided pericardiocentesis,SU,Summary
+1,AgilentB00      ,SU-0012         ,Telemedicine report confirmed,SU,Summary
+1,AgilentB00      ,SU-0016         ,Normal fetal echocardiogram.,SU,Summary
+1,AgilentB00      ,SU-0019         ,Sedated echo.,SU,Summary
+1,AgilentB00      ,SV-0001         ,"Single ventricle, unspecified ventricular morphology",SV,Single Ventricle
+1,AgilentB00      ,SV-0002         ,"Single ventricle, double inlet left ventricle",SV,Single Ventricle
+1,AgilentB00      ,SV-0003         ,"Single ventricle, double inlet right ventricle",SV,Single Ventricle
+1,AgilentB00      ,SV-0004         ,"Single ventricle, right ventricle morphology",SV,Single Ventricle
+1,AgilentB00      ,SV-0005         ,"Single ventricle, left ventricle morphology",SV,Single Ventricle
+1,AgilentB00      ,SV-0006         ,Normal single ventricular systolic and diastolic function,SV,Single Ventricle
+1,AgilentB00      ,SV-0007         ,Normal single ventricular systolic function,SV,Single Ventricle
+1,AgilentB00      ,SV-0008         ,Normal single ventricular diastolic function,SV,Single Ventricle
+1,AgilentB00      ,SV-0009         ,Hyperdynamic single ventricular function,SV,Single Ventricle
+1,AgilentB00      ,SV-0010         ,_ decreased single ventricular systolic function,SV,Single Ventricle
+1,AgilentB00      ,SV-0011         ,Abnormal single ventricular diastolic function,SV,Single Ventricle
+1,AgilentB00      ,SV-0012         ,Normal single ventricle wall motion,SV,Single Ventricle
+1,AgilentB00      ,SV-0013         ,Segmental wall motion abnormality,SV,Single Ventricle
+1,AgilentB00      ,TV-0001         ,Normal tricuspid valve,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0002         ,Small tricuspid valve annulus,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0003         ,Large tricuspid valve annulus,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0004         ,Tricuspid valve fails to coapt,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0005         ,Tricuspid valve deformities; unspecified,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0006         ,Tricuspid valve stenosis,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0007         ,Thickened tricuspid valve leaflet,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0008         ,Shortened tricuspid valve chordae,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0009         ,"Ebstein's Anomaly of tricuspid valve, _",TV,Tricuspid Valve
+1,AgilentB00      ,TV-0010         ,Hypoplastic tricuspid valve,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0011         ,Flail tricuspid valve,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0012         ,Vegetation on tricuspid valve leaflet(s),TV,Tricuspid Valve
+1,AgilentB00      ,TV-0013         ,Tricuspid valve aneurysm,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0014         ,_ tricuspid valve prolapse,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0015         ,Tricuspid valve atresia,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0016         ,Tricuspid valve straddle,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0017         ,Tricuspid valve attachments to ventricular septum,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0018         ,Normal tricuspid valve velocity,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0019         ,No tricuspid valve insufficiency,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0020         ,Increased tricuspid valve velocity,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0021         ,Decreased tricuspid valve velocity,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0022         ,_ mean tricuspid valve gradient,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0023         ,_ tricuspid valve insufficiency,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0024         ,Normal prosthetic tricuspid valve gradient,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0025         ,_ prosthetic tricuspid valve stenosis,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0026         ,No prosthetic tricuspid valve insufficiency,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0027         ,_ prosthetic tricuspid valve insufficiency,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0028         ,No right sided atrioventricular valve stenosis,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0029         ,_ right sided atrioventricular valve stenosis,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0030         ,No right sided atrioventricular valve insufficiency,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0031         ,_ right sided atrioventricular valve insufficiency,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0033         ,Moderate right sided atrioventricular valve insufficiency,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0035         ,The tricuspid valve is not well visualized.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0036         ,"The tricuspid valve is not well visualized, but is grossly normal.",TV,Tricuspid Valve
+1,AgilentB00      ,TV-0038         ,The tricuspid valve is normal in structure and function.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0039         ,"The tricuspid valve leaflets are thickened and/or calcified, but open well.",TV,Tricuspid Valve
+1,AgilentB00      ,TV-0040         ,Tricuspid leaflets are thickened.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0041         ,The septal leaflet is thickened.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0042         ,The anterior leaflet is thickened.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0043         ,The non-septal leaflet is thickened.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0044         ,Apical leaflet displacement raises possibility of Ebstein's anomaly.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0045         ,Valvular appearance consistent with carcinoid heart disease.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0046         ,There is a ruptured tricuspid valve chordae with a flail free wall leaflet.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0047         ,There is a ruptured tricuspid valve chordae with a flail septal leaflet.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0048         ,Highly mobile mass consistent with a torn chordae is present.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0049         ,There is a partially flail tricuspid valve leaflet.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0050         ,The tricuspid valve is flail.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0053         ,There is no tricuspid valve prolapse.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0054         ,Tricuspid valve prolapse cannot be excluded.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0055         ,There is _ tricuspid valve prolapse.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0057         ,"The tricuspid valve leaflets appear thickened, hooded, and/or redundant, consistent with myxomatous degeneration.",TV,Tricuspid Valve
+1,AgilentB00      ,TV-0058         ,There is no tricuspid valve vegetation.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0059         ,A tricuspid valve vegetation cannot be excluded.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0060         ,There is a small vegetation or mass on the tricuspid valve.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0061         ,There is a _ vegetation or mass on the tricuspid valve.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0062         ,There is no tricuspid stenosis.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0063         ,No significant tricuspid stenosis.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0066         ,There is doming of the tricuspid valve leaflets.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0067         ,There is _ tricuspid stenosis.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0070         ,The prosthetic tricuspid valve is not well visualized.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0071         ,There is a _ tricuspid valve.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0072         ,There is a _ mechanical tricuspid prosthesis.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0073         ,The prosthetic tricuspid valve is well-seated.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0074         ,The prosthetic tricuspid valve appears to open well.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0075         ,The opening of the prosthetic tricuspid valve appears limited.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0076         ,The prosthetic tricuspid valve appears abnormal.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0077         ,Bioprosthesis leaflets are not well visualized.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0078         ,Bioprosthesis leaflets are thin and move normally.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0079         ,Bioprosthesis leaflets are thickened but move well.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0080         ,Bioprosthesis leaflets are thickened and motion is restricted.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0083         ,An annuloplasty ring is noted in the tricuspid position.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0084         ,There is no thrombus on the prosthetic tricuspid valve.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0085         ,There appears to be a thrombus associated with the prosthetic tricuspid valve.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0086         ,Abnormal rocking of prosthetic tricuspid valve suggests dehiscence.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0094         ,There are no vegetations on this prosthetic tricuspid valve.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0095         ,Vegetations are suspected on this prosthetic tricuspid valve.,TV,Tricuspid Valve
+1,AgilentB00      ,TV-0096         ,Vegetations are present on this prosthetic tricuspid valve.,TV,Tricuspid Valve
+1,AgilentB00      ,VE-0001         ,Normal systemic venous drainage,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0002         ,Persistent left superior vena cava into left atrium,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0003         ,Persistent left superior vena cava into coronary sinus,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0004         ,Right superior vena cava into left atrium,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0005         ,Absent right superior vena cava,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0006         ,Bilateral superior vena cavae,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0007         ,Catheter in superior vena cava,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0008         ,Thrombus in superior vena cava,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0009         ,Unroofed coronary sinus,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0010         ,Inferior vena cava obstruction,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0011         ,Interrupted inferior vena cava with azygous continuation,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0012         ,Inferior vena cava into unroofed coronary sinus,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0013         ,Persistent inferior vena cava into left atrium,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0014         ,Absent inferior vena cava,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0015         ,Catheter in inferior vena cava,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0016         ,Thrombus in inferior vena cava,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0017         ,Hepatic venous drainage directly into right atrium,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0018         ,Innominate bridging vein present,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0019         ,Innominate bridging vein absent,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0020         ,Dilated inferior vena cava,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0021         ,Dilated superior vena cava,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0022         ,Dilated hepatic veins,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0023         ,Dilated coronary sinus,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0024         ,"Enlarged coronary sinus, suspect left superior vena cava",VE,Pulmonary Veins
+1,AgilentB00      ,VE-0025         ,Spontaneous contrast in Fontan.,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0026         ,Normal pulmonary venous drainage,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0027         ,Partial anomalous pulmonary venous drainage,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0028         ,PAPVR: Right veins drain to superior vena cava,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0029         ,PAPVR: Right veins drain to inferior vena cava,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0030         ,PAPVR: Right veins drain to right atrium,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0031         ,PAPVR: Left veins drain to superior vena cava,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0032         ,PAPVR: Left veins drain to inferior vena cava,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0033         ,PAPVR: Left veins drain to right atrium,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0034         ,Total anomalous pulmonary venous drainage,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0035         ,Total anomalous pulmonary venous drainage into vertical vein,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0036         ,Total anomalous pulmonary venous drainage into right SVC,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0037         ,Total anomalous pulmonary venous drainage into right atrium,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0038         ,Total anomalous pulmonary venous drainage into coronary sinus,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0039         ,Total anomalous pulmonary venous drainage beneath the diaphragm,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0040         ,Total anomalous pulmonary venous drainage: mixed type,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0041         ,Total anomalous pulmonary venous drainage: unobstructed,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0042         ,Total anomalous pulmonary venous drainage: obstructed,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0043         ,Cor Triatriatum without stenosis of pulmonary veins,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0044         ,Cor Triatriatum with stenosis of pulmonary veins,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0045         ,Normal superior vena cava velocity,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0046         ,Normal inferior vena cava velocity,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0047         ,Normal coronary sinus velocity,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0048         ,Increased superior vena cava velocity,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0049         ,Increased inferior vena cava velocity,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0050         ,Increased  coronary sinus velocity,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0051         ,No systemic venous baffle obstruction,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0052         ,_ systemic venous baffle obstruction,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0053         ,No Fontan pathway obstruction,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0054         ,_ Fontan pathway obstruction,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0055         ,Normal pulmonary vein velocity,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0056         ,Left upper pulmonary vein obstruction,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0057         ,Left lower pulmonary vein obstruction,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0058         ,Right upper pulmonary vein obstruction,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0059         ,Right lower pulmonary vein obstruction,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0060         ,No pulmonary venous baffle obstruction,VE,Pulmonary Veins
+1,AgilentB00      ,VE-0061         ,_ pulmonary venous baffle obstruction,VE,Pulmonary Veins
+1,AgilentB00      ,VS-0001         ,Intact ventricular septum,VS,Ventricular Septum
+1,AgilentB00      ,VS-0002         ,_ atrio-ventricular canal type ventricular septal defect,VS,Ventricular Septum
+1,AgilentB00      ,VS-0003         ,_ subpulmonary ventricular septal defect,VS,Ventricular Septum
+1,AgilentB00      ,VS-0004         ,_ membranous ventricular septal defect,VS,Ventricular Septum
+1,AgilentB00      ,VS-0005         ,_ muscular ventricular septal defect,VS,Ventricular Septum
+1,AgilentB00      ,VS-0006         ,_ apical muscular ventricular septal defect,VS,Ventricular Septum
+1,AgilentB00      ,VS-0007         ,_ anterior muscular ventricular septal defect,VS,Ventricular Septum
+1,AgilentB00      ,VS-0008         ,_ mid muscular ventricular septal defect,VS,Ventricular Septum
+1,AgilentB00      ,VS-0009         ,_ basilar muscular ventricular septal defect,VS,Ventricular Septum
+1,AgilentB00      ,VS-0010         ,_ peri-prosthetic patch ventricular septal defect,VS,Ventricular Septum
+1,AgilentB00      ,VS-0011         ,Multiple muscular ventricular septal defects,VS,Ventricular Septum
+1,AgilentB00      ,VS-0012         ,Spontaneous closure of ventricular septal defect,VS,Ventricular Septum
+1,AgilentB00      ,VS-0013         ,Aneurysm of ventricular septum,VS,Ventricular Septum
+1,AgilentB00      ,VS-0014         ,Anteriorly malaligned ventricular septal defect,VS,Ventricular Septum
+1,AgilentB00      ,VS-0015         ,Posteriorly malaligned ventricular septal defect,VS,Ventricular Septum
+1,AgilentB00      ,VS-0016         ,Normal septal motion consistent with normal right ventricular pressures,VS,Ventricular Septum
+1,AgilentB00      ,VS-0017         ,Flattened septum consistent with right ventricular volume overload,VS,Ventricular Septum
+1,AgilentB00      ,VS-0018         ,Flattened septum consistent with right ventricular pressure overload,VS,Ventricular Septum
+1,AgilentB00      ,VS-0019         ,Septal motion consistent with RV pressure/volume overload,VS,Ventricular Septum
