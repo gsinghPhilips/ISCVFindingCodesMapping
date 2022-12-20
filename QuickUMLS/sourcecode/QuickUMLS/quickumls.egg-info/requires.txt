@@ -1,0 +1,8 @@
+leveldb>=0.193
+nltk>=3.3
+numpy>=1.8.2
+quickumls_simstring>=1.1.5r1
+six
+spacy>=3.0.6
+unidecode>=0.4.19
+unqlite>=0.8.1
